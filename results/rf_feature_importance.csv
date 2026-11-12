@@ -1,0 +1,15 @@
+,importance
+cat__study_location_Classroom,0.0049981005788906595
+cat__study_location_Other,0.006832189997344387
+cat__internet_access_No,0.009491202191947604
+cat__internet_access_Yes,0.010226795676583304
+cat__study_location_Hostel,0.01193114318139759
+cat__study_location_Library,0.014952258783338439
+cat__study_location_Home,0.01579197570477661
+num__number_of_courses,0.047506432686110295
+num__sleep_hours,0.1062101705082536
+num__attendance_percentage,0.10943614581784933
+num__social_media_hours_daily,0.11050989183621082
+num__study_hours_weekly,0.12029882423155942
+num__assignment_completion_percentage,0.14116018925280346
+num__previous_performance,0.29065467955293467

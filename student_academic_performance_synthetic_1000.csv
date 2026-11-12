@@ -1,0 +1,1001 @@
+﻿student_id,university,programme,year_of_study,study_hours_weekly,attendance_percentage,assignment_completion_percentage,sleep_hours,internet_access,study_location,number_of_courses,social_media_hours_daily,previous_performance,current_performance,performance_category,timestamp,data_source
+SYN0001,Catholic University of Eastern Africa,Bachelor of Laws (LLB),1,0.0,80.0,66.0,4.6,Yes,Classroom,7,4.1,63.0,47.5,Low,2026-09-14 06:23:18,SYNTHETIC
+SYN0002,University of Nairobi,BSc Statistics and Data Science,4,19.0,73.0,91.0,6.9,Yes,Classroom,6,2.7,69.3,67.6,High,2026-09-14 07:31:58,SYNTHETIC
+SYN0003,Jomo Kenyatta University of Agriculture and Technology,Bachelor of Commerce,3,12.0,36.0,66.0,5.5,Yes,Library,7,2.4,51.6,39.4,Low,2026-09-14 09:22:58,SYNTHETIC
+SYN0004,Catholic University of Eastern Africa,BSc Electrical and Electronic Engineering,3,15.0,76.0,77.0,5.7,Yes,Library,6,5.5,53.1,54.9,Medium,2026-09-14 09:46:32,SYNTHETIC
+SYN0005,Kenyatta University,BA Journalism and Mass Communication,2,14.0,85.0,98.0,9.0,Yes,Classroom,7,3.9,54.3,59.4,Medium,2026-09-14 12:43:20,SYNTHETIC
+SYN0006,Jomo Kenyatta University of Agriculture and Technology,BSc Computer Science,4,3.0,75.0,58.0,5.4,Yes,Classroom,6,6.3,36.7,58.6,Medium,2026-09-14 13:54:31,SYNTHETIC
+SYN0007,Jomo Kenyatta University of Agriculture and Technology,BSc Electrical and Electronic Engineering,2,9.0,61.0,84.0,8.0,Yes,Home,6,2.3,49.1,54.9,Medium,2026-09-14 13:58:50,SYNTHETIC
+SYN0008,Strathmore University,BSc Information Technology,3,18.0,100.0,92.0,8.8,Yes,Library,6,4.0,69.6,72.2,High,2026-09-14 14:26:37,SYNTHETIC
+SYN0009,Kenyatta University,BSc Civil Engineering,3,3.0,83.0,78.0,7.9,No,Home,8,1.7,51.9,41.0,Low,2026-09-14 17:50:15,SYNTHETIC
+SYN0010,Jomo Kenyatta University of Agriculture and Technology,BSc Electrical and Electronic Engineering,5,2.0,51.0,46.0,6.8,No,Hostel,6,3.4,43.5,43.4,Low,2026-09-14 19:29:57,SYNTHETIC
+SYN0011,University of Nairobi,BSc Nursing,4,22.0,100.0,93.0,8.7,Yes,Hostel,7,2.5,42.8,58.0,Medium,2026-09-14 19:43:56,SYNTHETIC
+SYN0012,Egerton University,BSc Statistics and Data Science,4,24.0,82.0,99.0,8.4,Yes,Home,7,4.2,62.4,59.0,Medium,2026-09-14 20:46:58,SYNTHETIC
+SYN0013,University of Nairobi,Bachelor of Laws (LLB),4,11.0,53.0,90.0,3.8,Yes,Home,7,1.9,65.3,51.5,Medium,2026-09-14 22:20:54,SYNTHETIC
+SYN0014,Egerton University,BA Economics,4,5.0,82.0,60.0,7.3,Yes,Other,8,3.7,51.4,51.7,Medium,2026-09-14 22:58:16,SYNTHETIC
+SYN0015,KCA University,Bachelor of Commerce,4,13.0,71.0,86.0,7.1,Yes,Home,4,3.3,57.5,54.2,Medium,2026-09-14 23:01:25,SYNTHETIC
+SYN0016,University of Nairobi,BSc Nursing,4,22.0,80.0,73.0,6.0,Yes,Library,5,1.8,68.4,61.0,High,2026-09-15 01:10:17,SYNTHETIC
+SYN0017,Mount Kenya University,BSc Computer Science,3,7.0,54.0,54.0,6.3,No,Home,5,0.8,49.1,52.5,Medium,2026-09-15 01:46:59,SYNTHETIC
+SYN0018,Kenyatta University,BSc Mathematics,4,11.0,81.0,72.0,5.6,Yes,Home,7,2.8,55.1,60.1,High,2026-09-15 01:57:36,SYNTHETIC
+SYN0019,Kenyatta University,Bachelor of Business Information Technology,4,12.0,100.0,92.0,6.0,No,Home,7,2.3,59.6,59.7,Medium,2026-09-15 02:11:24,SYNTHETIC
+SYN0020,University of Nairobi,BSc Biochemistry,1,9.0,70.0,84.0,6.8,Yes,Home,5,6.9,45.2,48.6,Low,2026-09-15 02:35:43,SYNTHETIC
+SYN0021,Catholic University of Eastern Africa,BSc Electrical and Electronic Engineering,2,10.0,86.0,69.0,5.7,Yes,Other,4,2.1,42.5,54.5,Medium,2026-09-15 04:25:17,SYNTHETIC
+SYN0022,Egerton University,BSc Civil Engineering,2,19.0,92.0,92.0,4.7,No,Home,5,5.3,72.0,67.9,High,2026-09-15 04:31:03,SYNTHETIC
+SYN0023,Technical University of Kenya,BA Economics,4,22.0,90.0,100.0,4.2,Yes,Home,5,2.1,68.1,65.1,High,2026-09-15 06:45:28,SYNTHETIC
+SYN0024,Catholic University of Eastern Africa,BA Economics,4,17.0,71.0,78.0,7.5,Yes,Classroom,6,,45.5,46.0,Low,2026-09-15 07:20:06,SYNTHETIC
+SYN0025,Moi University,BA Journalism and Mass Communication,2,26.0,65.0,90.0,5.7,No,Library,7,4.8,66.6,83.3,High,2026-09-15 11:16:10,SYNTHETIC
+SYN0026,Jomo Kenyatta University of Agriculture and Technology,BA Economics,3,10.0,87.0,100.0,5.7,No,Classroom,7,2.2,64.3,67.0,High,2026-09-15 12:14:40,SYNTHETIC
+SYN0027,Moi University,BSc Agriculture,4,14.0,89.0,84.0,4.0,Yes,Library,6,3.5,49.4,47.8,Low,2026-09-15 14:01:48,SYNTHETIC
+SYN0028,Jomo Kenyatta University of Agriculture and Technology,Bachelor of Commerce,1,-0.0,53.0,62.0,6.8,No,Library,8,4.8,46.4,41.8,Low,2026-09-15 14:07:10,SYNTHETIC
+SYN0029,Jomo Kenyatta University of Agriculture and Technology,BSc Agriculture,4,10.0,78.0,100.0,6.1,Yes,Home,6,3.9,62.5,56.6,Medium,2026-09-15 14:09:06,SYNTHETIC
+SYN0030,Catholic University of Eastern Africa,BSc Information Technology,1,8.0,60.0,66.0,6.1,Yes,Library,7,2.0,58.8,46.5,Low,2026-09-15 16:31:56,SYNTHETIC
+SYN0031,Dedan Kimathi University of Technology,BSc Computer Science,3,23.0,41.0,77.0,6.9,Yes,Library,7,3.0,62.8,57.7,Medium,2026-09-15 16:56:56,SYNTHETIC
+SYN0032,Strathmore University,BSc Information Technology,2,0.0,94.0,52.0,4.6,No,Hostel,5,5.0,60.3,32.1,Low,2026-09-15 17:14:10,SYNTHETIC
+SYN0033,Kenyatta University,BSc Statistics and Data Science,2,2.0,66.0,70.0,5.5,Yes,Library,6,4.2,40.4,47.2,Low,2026-09-15 17:20:14,SYNTHETIC
+SYN0034,Kenyatta University,BSc Information Technology,3,3.0,88.0,90.0,6.6,Yes,Hostel,7,1.1,31.6,54.2,Medium,2026-09-15 18:02:45,SYNTHETIC
+SYN0035,Moi University,BA Economics,3,0.0,51.0,47.0,6.5,Yes,Library,6,7.2,53.2,52.8,Medium,2026-09-15 19:35:37,SYNTHETIC
+SYN0036,Catholic University of Eastern Africa,BA Journalism and Mass Communication,4,0.0,62.0,44.0,6.2,Yes,Hostel,6,1.9,54.4,51.4,Medium,2026-09-15 19:52:53,SYNTHETIC
+SYN0037,Mount Kenya University,Bachelor of Education (Science),4,16.0,80.0,91.0,5.5,Yes,Library,8,2.8,60.1,54.5,Medium,2026-09-15 21:09:33,SYNTHETIC
+SYN0038,Technical University of Kenya,Bachelor of Education (Arts),3,0.0,70.0,75.0,6.3,No,Library,6,5.0,56.1,49.2,Low,2026-09-15 21:42:27,SYNTHETIC
+SYN0039,Egerton University,Bachelor of Commerce,1,19.0,90.0,69.0,4.9,Yes,Classroom,7,5.1,67.7,70.1,High,2026-09-15 21:57:43,SYNTHETIC
+SYN0040,Moi University,BSc Computer Science,2,2.0,60.0,59.0,5.6,Yes,Home,7,3.7,43.8,32.1,Low,2026-09-15 22:30:28,SYNTHETIC
+SYN0041,Egerton University,BSc Information Technology,2,2.0,55.0,73.0,5.9,Yes,Home,6,1.8,54.8,64.6,High,2026-09-16 00:19:37,SYNTHETIC
+SYN0042,Kabarak University,Bachelor of Laws (LLB),1,22.0,90.0,79.0,5.9,Yes,Hostel,7,3.2,57.7,63.1,High,2026-09-16 00:20:28,SYNTHETIC
+SYN0043,Strathmore University,Bachelor of Education (Arts),3,22.0,92.0,92.0,7.0,Yes,Home,8,1.5,66.5,64.8,High,2026-09-16 00:34:42,SYNTHETIC
+SYN0044,Kenyatta University,BSc Nursing,2,17.0,81.0,82.0,6.4,Yes,Hostel,5,3.5,59.0,64.7,High,2026-09-16 01:00:45,SYNTHETIC
+SYN0045,KCA University,BSc Mathematics,4,13.0,76.0,61.0,7.0,Yes,Library,7,4.9,34.1,36.8,Low,2026-09-16 01:15:48,SYNTHETIC
+SYN0046,KCA University,Bachelor of Education (Arts),2,18.0,86.0,99.0,7.4,Yes,Library,7,1.4,60.1,63.3,High,2026-09-16 01:30:01,SYNTHETIC
+SYN0047,Strathmore University,BSc Computer Science,2,10.0,57.0,76.0,10.0,Yes,Library,10,5.6,58.3,59.2,Medium,2026-09-16 03:21:22,SYNTHETIC
+SYN0048,University of Nairobi,Bachelor of Commerce,4,19.0,70.0,100.0,6.8,Yes,Library,5,2.5,53.4,60.3,High,2026-09-16 03:51:57,SYNTHETIC
+SYN0049,Kenyatta University,BSc Electrical and Electronic Engineering,3,26.0,97.0,82.0,8.1,Yes,Home,9,2.7,63.3,76.8,High,2026-09-16 05:10:05,SYNTHETIC
+SYN0050,Jomo Kenyatta University of Agriculture and Technology,BSc Civil Engineering,4,4.0,73.0,57.0,5.9,Yes,Library,6,3.1,33.3,41.2,Low,2026-09-16 05:11:29,SYNTHETIC
+SYN0051,Jomo Kenyatta University of Agriculture and Technology,Bachelor of Education (Arts),1,13.0,93.0,88.0,8.4,Yes,Library,7,4.4,55.5,59.5,Medium,2026-09-16 07:30:33,SYNTHETIC
+SYN0052,Multimedia University of Kenya,Bachelor of Commerce,2,7.0,74.0,73.0,5.0,No,Classroom,6,5.1,48.0,62.0,High,2026-09-16 07:37:00,SYNTHETIC
+SYN0053,University of Nairobi,BSc Electrical and Electronic Engineering,4,,73.0,78.0,6.5,No,Home,8,3.1,56.4,52.4,Medium,2026-09-16 09:11:17,SYNTHETIC
+SYN0054,University of Nairobi,BSc Agriculture,1,10.0,67.0,96.0,6.2,Yes,Hostel,4,0.9,60.6,62.9,High,2026-09-16 10:41:14,SYNTHETIC
+SYN0055,Mount Kenya University,Bachelor of Education (Science),3,0.0,81.0,64.0,6.6,Yes,Hostel,7,4.5,58.0,45.6,Low,2026-09-16 11:16:06,SYNTHETIC
+SYN0056,Kabarak University,Bachelor of Laws (LLB),4,11.0,58.0,85.0,7.2,Yes,Home,8,5.4,44.9,57.2,Medium,2026-09-16 11:17:07,SYNTHETIC
+SYN0057,KCA University,BA Economics,2,15.0,80.0,48.0,5.8,Yes,Library,7,2.4,50.9,47.3,Low,2026-09-16 11:24:57,SYNTHETIC
+SYN0058,Maseno University,BSc Information Technology,1,4.0,65.0,68.0,7.3,Yes,Other,6,4.5,46.4,45.1,Low,2026-09-16 13:30:12,SYNTHETIC
+SYN0059,Jomo Kenyatta University of Agriculture and Technology,BSc Information Technology,2,0.0,66.0,40.0,4.8,Yes,Hostel,6,3.2,53.8,56.6,Medium,2026-09-16 14:00:09,SYNTHETIC
+SYN0060,Kabarak University,BSc Civil Engineering,3,10.0,52.0,72.0,5.7,Yes,Other,7,5.7,40.2,48.3,Low,2026-09-16 14:26:52,SYNTHETIC
+SYN0061,Kenyatta University,BSc Information Technology,2,9.0,79.0,79.0,8.5,Yes,Classroom,6,4.2,53.6,46.0,Low,2026-09-16 17:38:11,SYNTHETIC
+SYN0062,Kenyatta University,BSc Nursing,3,15.0,75.0,69.0,8.2,Yes,Home,6,5.0,48.6,61.2,High,2026-09-16 18:52:29,SYNTHETIC
+SYN0063,Mount Kenya University,Bachelor of Commerce,4,5.0,89.0,66.0,6.9,Yes,Home,7,4.5,54.7,52.6,Medium,2026-09-16 19:33:26,SYNTHETIC
+SYN0064,Moi University,Bachelor of Education (Science),2,3.0,91.0,65.0,6.1,No,Other,5,4.1,47.4,45.2,Low,2026-09-16 20:33:32,SYNTHETIC
+SYN0065,Maseno University,BSc Computer Science,1,7.0,77.0,80.0,7.7,Yes,Library,6,0.8,50.0,41.9,Low,2026-09-16 21:13:30,SYNTHETIC
+SYN0066,Technical University of Kenya,BA Journalism and Mass Communication,4,11.0,73.0,66.0,5.5,Yes,Home,6,3.4,62.0,49.3,Low,2026-09-16 21:37:21,SYNTHETIC
+SYN0067,Kenyatta University,BA Journalism and Mass Communication,3,3.0,73.0,95.0,6.7,Yes,Hostel,6,3.5,52.4,53.3,Medium,2026-09-16 23:10:59,SYNTHETIC
+SYN0068,Kenyatta University,BSc Nursing,2,17.0,71.0,64.0,6.1,Yes,Other,4,5.0,43.9,62.0,High,2026-09-17 02:30:32,SYNTHETIC
+SYN0069,University of Nairobi,BSc Civil Engineering,3,9.0,67.0,67.0,5.9,No,Other,9,0.7,51.8,47.5,Low,2026-09-17 03:06:22,SYNTHETIC
+SYN0070,Technical University of Kenya,BSc Information Technology,2,8.0,72.0,72.0,6.3,Yes,Home,7,1.4,50.4,49.0,Low,2026-09-17 03:10:53,SYNTHETIC
+SYN0071,Kenyatta University,BSc Computer Science,2,19.0,91.0,94.0,6.2,Yes,Hostel,6,0.7,62.2,62.6,High,2026-09-17 04:01:24,SYNTHETIC
+SYN0072,Kabarak University,Bachelor of Commerce,1,13.0,83.0,64.0,7.3,Yes,Hostel,7,5.2,43.1,47.5,Low,2026-09-17 04:08:47,SYNTHETIC
+SYN0073,Jomo Kenyatta University of Agriculture and Technology,BA Economics,2,0.0,69.0,56.0,5.6,Yes,Classroom,6,5.5,56.3,41.9,Low,2026-09-17 04:18:31,SYNTHETIC
+SYN0074,Egerton University,BSc Civil Engineering,4,9.0,70.0,99.0,4.9,No,Hostel,5,2.1,48.4,49.7,Low,2026-09-17 05:36:58,SYNTHETIC
+SYN0075,Mount Kenya University,Bachelor of Education (Arts),3,9.0,72.0,32.0,5.1,Yes,Home,6,0.0,52.8,47.2,Low,2026-09-17 06:26:15,SYNTHETIC
+SYN0076,Technical University of Kenya,BSc Civil Engineering,1,18.0,77.0,91.0,5.0,Yes,Home,5,0.0,41.8,46.6,Low,2026-09-17 06:58:41,SYNTHETIC
+SYN0077,Dedan Kimathi University of Technology,BSc Biochemistry,2,4.0,47.0,58.0,6.0,No,Home,8,4.3,64.4,57.8,Medium,2026-09-17 07:31:35,SYNTHETIC
+SYN0078,Daystar University,BSc Information Technology,2,14.0,69.0,79.0,6.4,No,Classroom,6,3.1,42.4,37.2,Low,2026-09-17 08:17:20,SYNTHETIC
+SYN0079,Kenyatta University,BSc Electrical and Electronic Engineering,2,8.0,84.0,63.0,5.8,Yes,Other,7,7.4,54.1,42.3,Low,2026-09-17 08:18:30,SYNTHETIC
+SYN0080,University of Nairobi,BSc Nursing,4,8.0,75.0,70.0,4.5,No,Hostel,5,2.7,67.4,49.1,Low,2026-09-17 08:57:05,SYNTHETIC
+SYN0081,Kenyatta University,BSc Electrical and Electronic Engineering,2,3.0,100.0,73.0,6.2,Yes,Home,7,1.7,61.3,62.8,High,2026-09-17 09:19:38,SYNTHETIC
+SYN0082,Mount Kenya University,BSc Agriculture,2,0.0,52.0,58.0,4.2,Yes,Other,4,4.0,29.4,27.5,Low,2026-09-17 11:23:04,SYNTHETIC
+SYN0083,Moi University,Bachelor of Commerce,2,17.0,86.0,76.0,7.3,Yes,Classroom,6,3.1,67.6,80.4,High,2026-09-17 12:50:19,SYNTHETIC
+SYN0084,Moi University,Bachelor of Medicine and Surgery (MBChB),2,15.0,87.0,69.0,,No,Library,7,1.9,47.0,47.8,Low,2026-09-17 13:30:21,SYNTHETIC
+SYN0085,Maseno University,BSc Civil Engineering,1,12.0,68.0,91.0,6.8,Yes,Library,8,3.7,72.6,58.5,Medium,2026-09-17 13:49:41,SYNTHETIC
+SYN0086,Mount Kenya University,Bachelor of Business Information Technology,2,11.0,66.0,79.0,7.1,Yes,Home,8,3.6,52.9,47.0,Low,2026-09-17 18:28:10,SYNTHETIC
+SYN0087,Kabarak University,BSc Biochemistry,2,10.0,100.0,66.0,7.5,Yes,Home,6,6.4,69.8,73.5,High,2026-09-17 19:32:08,SYNTHETIC
+SYN0088,Moi University,BSc Electrical and Electronic Engineering,5,9.0,77.0,57.0,5.9,Yes,Other,6,4.0,58.4,48.1,Low,2026-09-17 19:55:13,SYNTHETIC
+SYN0089,Mount Kenya University,BSc Information Technology,2,0.0,69.0,51.0,3.6,No,Other,8,4.3,41.6,47.9,Low,2026-09-17 20:00:57,SYNTHETIC
+SYN0090,University of Nairobi,BSc Agriculture,4,8.0,58.0,52.0,6.7,Yes,Home,8,3.4,46.0,54.7,Medium,2026-09-17 20:16:05,SYNTHETIC
+SYN0091,Mount Kenya University,BSc Information Technology,1,14.0,62.0,64.0,7.0,Yes,Hostel,6,4.8,45.7,46.1,Low,2026-09-17 20:36:29,SYNTHETIC
+SYN0092,Kenyatta University,BSc Nursing,2,24.0,100.0,100.0,5.9,Yes,Library,5,3.1,54.8,64.0,High,2026-09-17 20:38:25,SYNTHETIC
+SYN0093,Maseno University,BSc Information Technology,2,12.0,84.0,94.0,3.8,Yes,Library,7,5.3,69.1,56.4,Medium,2026-09-17 20:49:24,SYNTHETIC
+SYN0094,Masinde Muliro University of Science and Technology,Bachelor of Laws (LLB),3,16.0,79.0,97.0,6.4,Yes,Home,8,1.6,55.2,58.5,Medium,2026-09-17 21:10:13,SYNTHETIC
+SYN0095,Kenyatta University,Bachelor of Education (Arts),4,25.0,77.0,84.0,7.0,No,Home,4,2.4,57.0,67.9,High,2026-09-17 21:16:21,SYNTHETIC
+SYN0096,Jomo Kenyatta University of Agriculture and Technology,Bachelor of Education (Arts),4,20.0,61.0,82.0,7.6,Yes,Home,5,2.7,70.7,71.6,High,2026-09-17 22:03:40,SYNTHETIC
+SYN0097,Kenyatta University,BSc Nursing,1,4.0,75.0,79.0,6.7,Yes,Hostel,8,3.2,61.1,57.9,Medium,2026-09-18 00:42:58,SYNTHETIC
+SYN0098,Strathmore University,Bachelor of Commerce,3,7.0,75.0,71.0,6.2,Yes,Home,8,6.5,57.3,57.3,Medium,2026-09-18 02:04:48,SYNTHETIC
+SYN0099,Daystar University,Bachelor of Business Information Technology,2,7.0,79.0,64.0,5.0,Yes,Classroom,6,3.7,56.6,42.8,Low,2026-09-18 02:40:50,SYNTHETIC
+SYN0100,University of Nairobi,BSc Computer Science,2,29.0,70.0,98.0,6.2,Yes,Hostel,8,2.1,65.2,66.5,High,2026-09-18 04:46:05,SYNTHETIC
+SYN0101,Technical University of Kenya,BSc Nursing,1,28.0,78.0,87.0,8.0,No,Hostel,8,4.2,56.1,61.1,High,2026-09-18 06:02:51,SYNTHETIC
+SYN0102,Kenyatta University,Bachelor of Commerce,4,11.0,78.0,81.0,6.7,Yes,Library,5,6.2,62.7,51.1,Medium,2026-09-18 08:11:27,SYNTHETIC
+SYN0103,Technical University of Kenya,Bachelor of Laws (LLB),3,11.0,84.0,70.0,6.6,Yes,Hostel,5,5.0,72.1,69.6,High,2026-09-18 08:13:42,SYNTHETIC
+SYN0104,Africa Nazarene University,BSc Mathematics,2,12.0,85.0,91.0,6.0,No,Home,7,4.7,63.2,66.2,High,2026-09-18 09:35:28,SYNTHETIC
+SYN0105,Technical University of Kenya,BSc Nursing,1,20.0,82.0,90.0,6.9,Yes,Home,7,4.9,50.9,51.9,Medium,2026-09-18 11:10:33,SYNTHETIC
+SYN0106,Jomo Kenyatta University of Agriculture and Technology,Bachelor of Commerce,4,11.0,63.0,93.0,6.5,Yes,Home,6,4.6,60.5,48.9,Low,2026-09-18 11:54:36,SYNTHETIC
+SYN0107,Strathmore University,BA Economics,2,17.0,74.0,82.0,6.8,Yes,Classroom,7,2.6,74.0,57.3,Medium,2026-09-18 11:57:02,SYNTHETIC
+SYN0108,Strathmore University,BSc Civil Engineering,5,8.0,96.0,95.0,,Yes,Home,6,6.3,73.3,69.7,High,2026-09-18 12:56:04,SYNTHETIC
+SYN0109,Kenyatta University,BSc Information Technology,3,6.0,63.0,73.0,7.5,No,Home,6,3.6,41.8,44.4,Low,2026-09-18 13:41:00,SYNTHETIC
+SYN0110,Catholic University of Eastern Africa,BSc Nursing,3,12.0,68.0,78.0,6.4,Yes,Library,6,4.1,41.6,51.5,Medium,2026-09-18 14:12:21,SYNTHETIC
+SYN0111,Egerton University,Bachelor of Laws (LLB),2,16.0,86.0,77.0,6.2,Yes,Library,7,6.7,53.2,54.4,Medium,2026-09-18 14:26:28,SYNTHETIC
+SYN0112,Africa Nazarene University,BSc Nursing,1,12.0,74.0,71.0,6.1,Yes,Other,7,5.9,65.8,56.2,Medium,2026-09-18 14:53:58,SYNTHETIC
+SYN0113,University of Nairobi,Bachelor of Education (Arts),4,14.0,65.0,55.0,6.1,Yes,Library,5,0.8,46.2,37.8,Low,2026-09-18 15:22:34,SYNTHETIC
+SYN0114,Kenyatta University,BSc Computer Science,1,13.0,81.0,89.0,6.3,Yes,Library,5,2.8,56.5,65.8,High,2026-09-18 15:26:29,SYNTHETIC
+SYN0115,Multimedia University of Kenya,BA Economics,1,10.0,56.0,61.0,5.6,Yes,Home,7,3.7,67.2,63.2,High,2026-09-18 16:36:48,SYNTHETIC
+SYN0116,Kenyatta University,BA Economics,4,1.0,61.0,92.0,7.0,Yes,Hostel,6,3.8,84.9,76.3,High,2026-09-18 16:38:40,SYNTHETIC
+SYN0117,Catholic University of Eastern Africa,Bachelor of Commerce,4,23.0,68.0,62.0,7.2,Yes,Classroom,6,5.3,54.7,62.0,High,2026-09-18 17:49:47,SYNTHETIC
+SYN0118,Jomo Kenyatta University of Agriculture and Technology,BA Economics,1,16.0,60.0,59.0,6.3,Yes,Classroom,9,3.3,49.6,61.4,High,2026-09-18 18:17:36,SYNTHETIC
+SYN0119,Moi University,Bachelor of Medicine and Surgery (MBChB),1,4.0,77.0,86.0,5.8,Yes,Library,4,2.5,44.0,50.5,Medium,2026-09-18 18:41:22,SYNTHETIC
+SYN0120,University of Nairobi,Bachelor of Education (Science),1,16.0,71.0,89.0,6.9,Yes,Other,6,3.6,45.9,57.1,Medium,2026-09-18 18:49:18,SYNTHETIC
+SYN0121,Masinde Muliro University of Science and Technology,BSc Civil Engineering,2,8.0,54.0,73.0,6.2,Yes,Home,5,,58.1,54.5,Medium,2026-09-18 18:51:50,SYNTHETIC
+SYN0122,University of Nairobi,BSc Nursing,2,12.0,68.0,82.0,8.0,Yes,Home,7,1.1,43.8,38.1,Low,2026-09-18 20:27:32,SYNTHETIC
+SYN0123,Multimedia University of Kenya,BSc Computer Science,3,20.0,89.0,97.0,6.7,Yes,Hostel,7,1.7,80.3,67.2,High,2026-09-18 20:59:34,SYNTHETIC
+SYN0124,Technical University of Kenya,Bachelor of Medicine and Surgery (MBChB),2,10.0,74.0,100.0,6.8,Yes,Home,7,3.5,53.6,59.4,Medium,2026-09-18 23:07:42,SYNTHETIC
+SYN0125,Africa Nazarene University,BSc Information Technology,1,17.0,86.0,48.0,8.2,Yes,Library,6,3.5,49.0,47.3,Low,2026-09-18 23:56:23,SYNTHETIC
+SYN0126,Strathmore University,Bachelor of Business Information Technology,4,0.0,67.0,90.0,4.6,Yes,Hostel,7,3.3,46.5,48.9,Low,2026-09-19 01:45:02,SYNTHETIC
+SYN0127,Mount Kenya University,Bachelor of Education (Arts),3,-0.0,53.0,51.0,5.4,Yes,Library,8,4.0,56.5,58.0,Medium,2026-09-19 02:27:33,SYNTHETIC
+SYN0128,Multimedia University of Kenya,Bachelor of Education (Science),2,2.0,56.0,70.0,5.4,Yes,Home,6,4.4,46.2,43.3,Low,2026-09-19 04:50:08,SYNTHETIC
+SYN0129,Mount Kenya University,BSc Agriculture,3,3.0,72.0,66.0,6.7,Yes,Classroom,4,3.4,44.6,52.2,Medium,2026-09-19 06:16:31,SYNTHETIC
+SYN0130,Jomo Kenyatta University of Agriculture and Technology,Bachelor of Education (Arts),3,3.0,47.0,92.0,4.8,Yes,Home,6,5.1,54.1,51.2,Medium,2026-09-19 06:26:40,SYNTHETIC
+SYN0131,Other (not listed),BSc Civil Engineering,3,18.0,72.0,67.0,5.1,Yes,Hostel,8,3.3,53.7,58.6,Medium,2026-09-19 06:32:56,SYNTHETIC
+SYN0132,Daystar University,Bachelor of Commerce,4,9.0,68.0,58.0,8.5,Yes,Hostel,5,4.5,49.8,49.8,Low,2026-09-19 07:21:36,SYNTHETIC
+SYN0133,Moi University,Bachelor of Commerce,2,12.0,67.0,73.0,5.9,Yes,Home,5,4.6,43.4,36.0,Low,2026-09-19 07:34:06,SYNTHETIC
+SYN0134,Kabarak University,Bachelor of Education (Arts),3,0.0,61.0,70.0,7.5,Yes,Home,7,3.6,43.4,44.3,Low,2026-09-19 09:30:07,SYNTHETIC
+SYN0135,KCA University,Bachelor of Laws (LLB),3,13.0,62.0,82.0,5.8,Yes,Hostel,9,-0.0,53.7,49.9,Low,2026-09-19 10:22:19,SYNTHETIC
+SYN0136,Kabarak University,Bachelor of Laws (LLB),4,9.0,69.0,91.0,6.3,No,Hostel,6,4.1,45.7,48.4,Low,2026-09-19 10:28:45,SYNTHETIC
+SYN0137,Mount Kenya University,Bachelor of Education (Arts),3,12.0,81.0,79.0,5.6,Yes,Home,5,1.7,55.1,54.7,Medium,2026-09-19 11:16:47,SYNTHETIC
+SYN0138,Dedan Kimathi University of Technology,Bachelor of Education (Science),2,13.0,78.0,93.0,6.6,Yes,Classroom,6,5.1,55.1,49.9,Low,2026-09-19 13:22:29,SYNTHETIC
+SYN0139,Mount Kenya University,Bachelor of Education (Science),2,,92.0,85.0,4.7,Yes,Library,6,2.4,69.8,65.4,High,2026-09-19 13:32:38,SYNTHETIC
+SYN0140,Kenyatta University,BSc Information Technology,4,15.0,79.0,67.0,8.1,Yes,Hostel,6,5.5,71.5,72.8,High,2026-09-19 13:50:28,SYNTHETIC
+SYN0141,Kenyatta University,BA Economics,2,4.0,76.0,66.0,5.2,Yes,Other,8,6.5,43.6,46.5,Low,2026-09-19 14:23:49,SYNTHETIC
+SYN0142,Other (not listed),Bachelor of Education (Science),1,9.0,76.0,100.0,7.3,Yes,Classroom,7,5.7,74.1,66.5,High,2026-09-19 14:45:02,SYNTHETIC
+SYN0143,University of Nairobi,BSc Civil Engineering,2,0.0,52.0,62.0,5.9,Yes,Classroom,8,3.7,46.4,54.6,Medium,2026-09-19 14:45:45,SYNTHETIC
+SYN0144,Kabarak University,Bachelor of Commerce,2,19.0,83.0,100.0,8.9,Yes,Other,5,3.3,55.2,58.7,Medium,2026-09-19 15:03:09,SYNTHETIC
+SYN0145,United States International University-Africa,Bachelor of Education (Science),4,13.0,79.0,100.0,5.6,Yes,Home,7,3.9,54.5,56.6,Medium,2026-09-19 15:32:28,SYNTHETIC
+SYN0146,Jomo Kenyatta University of Agriculture and Technology,BA Economics,2,8.0,80.0,85.0,6.2,Yes,Home,5,3.1,71.0,80.6,High,2026-09-19 15:54:25,SYNTHETIC
+SYN0147,Moi University,BSc Information Technology,4,19.0,82.0,68.0,5.3,Yes,Library,8,3.5,64.6,69.8,High,2026-09-19 17:33:04,SYNTHETIC
+SYN0148,Technical University of Kenya,BSc Agriculture,4,0.0,66.0,65.0,5.4,No,Home,7,4.6,54.0,53.8,Medium,2026-09-19 21:32:21,SYNTHETIC
+SYN0149,Kenyatta University,BSc Electrical and Electronic Engineering,4,15.0,57.0,80.0,6.9,Yes,Library,8,3.1,54.6,67.8,High,2026-09-19 22:15:24,SYNTHETIC
+SYN0150,University of Nairobi,BSc Computer Science,4,17.0,70.0,72.0,6.2,Yes,Hostel,7,4.6,48.4,61.6,High,2026-09-19 22:23:59,SYNTHETIC
+SYN0151,KCA University,Bachelor of Education (Arts),2,14.0,75.0,82.0,8.5,Yes,Hostel,6,2.8,59.2,54.8,Medium,2026-09-20 00:02:43,SYNTHETIC
+SYN0152,Egerton University,BSc Agriculture,3,12.0,76.0,62.0,7.0,Yes,Hostel,7,3.9,52.4,53.5,Medium,2026-09-20 02:48:58,SYNTHETIC
+SYN0153,KCA University,BSc Statistics and Data Science,2,14.0,68.0,64.0,7.0,Yes,Library,5,3.4,60.4,58.5,Medium,2026-09-20 03:15:21,SYNTHETIC
+SYN0154,University of Nairobi,BSc Mathematics,3,15.0,85.0,73.0,7.2,Yes,Library,7,1.1,47.7,69.1,High,2026-09-20 03:21:48,SYNTHETIC
+SYN0155,Egerton University,BSc Biochemistry,2,14.0,70.0,67.0,7.6,Yes,Hostel,7,4.1,50.9,34.9,Low,2026-09-20 03:52:21,SYNTHETIC
+SYN0156,KCA University,BSc Statistics and Data Science,1,0.0,90.0,68.0,5.5,Yes,Library,4,4.1,57.3,58.6,Medium,2026-09-20 04:58:00,SYNTHETIC
+SYN0157,Dedan Kimathi University of Technology,BSc Computer Science,1,9.0,87.0,61.0,5.2,Yes,Classroom,5,5.1,41.2,46.2,Low,2026-09-20 06:01:19,SYNTHETIC
+SYN0158,Daystar University,BSc Agriculture,1,25.0,81.0,100.0,6.8,Yes,Hostel,5,3.8,74.2,74.3,High,2026-09-20 06:05:38,SYNTHETIC
+SYN0159,Moi University,BSc Agriculture,2,7.0,53.0,74.0,6.4,Yes,Library,6,3.1,57.1,53.6,Medium,2026-09-20 06:08:14,SYNTHETIC
+SYN0160,Jomo Kenyatta University of Agriculture and Technology,BSc Electrical and Electronic Engineering,2,20.0,58.0,73.0,6.7,Yes,Home,6,2.3,60.7,34.9,Low,2026-09-20 06:32:35,SYNTHETIC
+SYN0161,Maseno University,BSc Civil Engineering,2,0.0,63.0,61.0,6.8,Yes,Hostel,8,5.7,51.9,49.1,Low,2026-09-20 08:56:48,SYNTHETIC
+SYN0162,Other (not listed),BSc Computer Science,3,11.0,47.0,80.0,5.4,Yes,Other,8,4.5,66.8,65.5,High,2026-09-20 09:26:09,SYNTHETIC
+SYN0163,Technical University of Kenya,Bachelor of Education (Arts),1,4.0,63.0,80.0,6.9,Yes,Library,7,6.1,37.5,37.2,Low,2026-09-20 09:28:20,SYNTHETIC
+SYN0164,Technical University of Kenya,BSc Electrical and Electronic Engineering,3,6.0,60.0,54.0,8.6,No,Home,6,2.6,55.3,46.2,Low,2026-09-20 10:55:38,SYNTHETIC
+SYN0165,University of Nairobi,BA Journalism and Mass Communication,2,15.0,90.0,67.0,5.6,Yes,Home,5,4.6,56.4,55.4,Medium,2026-09-20 11:17:15,SYNTHETIC
+SYN0166,Egerton University,BSc Biochemistry,3,15.0,82.0,66.0,6.3,Yes,Library,8,3.8,55.4,46.0,Low,2026-09-20 13:14:14,SYNTHETIC
+SYN0167,Egerton University,BSc Civil Engineering,5,9.0,,72.0,4.6,Yes,Home,7,3.5,55.0,52.3,Medium,2026-09-20 13:19:16,SYNTHETIC
+SYN0168,Kenyatta University,BSc Nursing,1,23.0,76.0,87.0,6.5,Yes,Hostel,6,2.8,65.8,66.1,High,2026-09-20 15:40:50,SYNTHETIC
+SYN0169,Masinde Muliro University of Science and Technology,Bachelor of Education (Arts),4,-0.0,52.0,70.0,7.8,Yes,Home,7,3.8,39.6,56.9,Medium,2026-09-20 17:10:41,SYNTHETIC
+SYN0170,Mount Kenya University,Bachelor of Education (Science),2,9.0,,88.0,7.5,Yes,Library,8,1.1,53.1,47.9,Low,2026-09-20 18:43:44,SYNTHETIC
+SYN0171,Strathmore University,BSc Civil Engineering,3,11.0,97.0,83.0,6.8,Yes,Library,8,4.7,52.0,49.8,Low,2026-09-20 19:36:38,SYNTHETIC
+SYN0172,Maseno University,BSc Electrical and Electronic Engineering,2,12.0,77.0,95.0,5.7,Yes,Hostel,6,1.9,50.2,51.2,Medium,2026-09-20 19:40:31,SYNTHETIC
+SYN0173,Daystar University,Bachelor of Medicine and Surgery (MBChB),4,8.0,52.0,51.0,5.7,Yes,Classroom,5,4.2,54.7,50.7,Medium,2026-09-20 19:53:00,SYNTHETIC
+SYN0174,Mount Kenya University,BSc Electrical and Electronic Engineering,4,15.0,88.0,75.0,7.0,Yes,Library,8,5.9,62.3,53.0,Medium,2026-09-20 20:44:30,SYNTHETIC
+SYN0175,University of Nairobi,BSc Nursing,1,16.0,75.0,67.0,6.8,Yes,Home,5,2.6,81.4,88.5,High,2026-09-20 20:50:13,SYNTHETIC
+SYN0176,Dedan Kimathi University of Technology,Bachelor of Laws (LLB),2,7.0,91.0,91.0,6.6,Yes,Hostel,7,4.2,45.5,45.1,Low,2026-09-20 21:15:11,SYNTHETIC
+SYN0177,Mount Kenya University,BSc Mathematics,1,12.0,86.0,74.0,5.7,Yes,Home,6,0.0,57.0,59.7,Medium,2026-09-20 22:49:58,SYNTHETIC
+SYN0178,University of Nairobi,BSc Computer Science,1,10.0,71.0,100.0,8.0,No,Home,7,4.1,37.4,53.2,Medium,2026-09-20 23:05:28,SYNTHETIC
+SYN0179,University of Nairobi,Bachelor of Laws (LLB),4,25.0,70.0,70.0,6.9,Yes,Library,6,6.4,72.5,68.3,High,2026-09-21 01:57:20,SYNTHETIC
+SYN0180,Dedan Kimathi University of Technology,Bachelor of Commerce,4,13.0,92.0,75.0,8.1,Yes,Home,7,4.1,65.9,57.0,Medium,2026-09-21 04:10:18,SYNTHETIC
+SYN0181,Mount Kenya University,Bachelor of Education (Science),3,7.0,90.0,75.0,5.6,No,Home,6,3.1,51.4,75.0,High,2026-09-21 06:07:26,SYNTHETIC
+SYN0182,University of Nairobi,BA Journalism and Mass Communication,2,11.0,92.0,68.0,5.9,Yes,Classroom,7,2.9,65.1,64.5,High,2026-09-21 08:19:23,SYNTHETIC
+SYN0183,Technical University of Kenya,Bachelor of Education (Arts),2,0.0,66.0,52.0,8.1,Yes,Library,8,3.1,66.3,46.8,Low,2026-09-21 08:23:46,SYNTHETIC
+SYN0184,Moi University,BSc Biochemistry,2,9.0,90.0,82.0,7.1,Yes,Classroom,6,2.8,67.4,66.5,High,2026-09-21 08:52:27,SYNTHETIC
+SYN0185,Mount Kenya University,Bachelor of Education (Arts),2,18.0,100.0,94.0,7.5,Yes,Other,9,2.2,57.8,76.2,High,2026-09-21 09:42:55,SYNTHETIC
+SYN0186,Jomo Kenyatta University of Agriculture and Technology,BSc Computer Science,2,23.0,75.0,92.0,10.0,Yes,Home,8,3.5,67.0,80.9,High,2026-09-21 09:46:28,SYNTHETIC
+SYN0187,KCA University,Bachelor of Commerce,2,17.0,73.0,78.0,6.9,Yes,Library,7,2.8,42.9,60.7,High,2026-09-21 10:03:32,SYNTHETIC
+SYN0188,Kenyatta University,Bachelor of Commerce,3,4.0,66.0,46.0,7.1,No,Home,8,6.3,37.8,50.7,Medium,2026-09-21 10:55:33,SYNTHETIC
+SYN0189,Strathmore University,BSc Statistics and Data Science,2,20.0,43.0,64.0,5.9,Yes,Hostel,8,4.5,53.3,52.6,Medium,2026-09-21 13:48:20,SYNTHETIC
+SYN0190,Maseno University,Bachelor of Business Information Technology,4,11.0,75.0,65.0,6.9,No,Hostel,5,4.8,68.3,68.8,High,2026-09-21 14:04:08,SYNTHETIC
+SYN0191,Masinde Muliro University of Science and Technology,BSc Biochemistry,1,10.0,77.0,68.0,6.6,Yes,Hostel,7,0.5,56.8,58.8,Medium,2026-09-21 14:35:15,SYNTHETIC
+SYN0192,University of Nairobi,BSc Mathematics,4,22.0,96.0,98.0,8.1,No,Home,5,1.2,70.5,72.0,High,2026-09-21 14:55:58,SYNTHETIC
+SYN0193,Africa Nazarene University,BSc Nursing,3,11.0,71.0,66.0,6.8,Yes,Library,7,5.7,80.6,70.4,High,2026-09-21 16:04:53,SYNTHETIC
+SYN0194,United States International University-Africa,BSc Nursing,4,19.0,83.0,65.0,7.8,Yes,Home,6,3.4,47.7,58.6,Medium,2026-09-21 16:08:01,SYNTHETIC
+SYN0195,Africa Nazarene University,Bachelor of Education (Arts),4,8.0,88.0,65.0,5.4,Yes,Classroom,6,1.9,46.7,44.6,Low,2026-09-21 17:05:47,SYNTHETIC
+SYN0196,KCA University,Bachelor of Education (Science),3,20.0,90.0,83.0,6.5,Yes,Library,6,5.2,63.5,60.2,High,2026-09-21 18:48:58,SYNTHETIC
+SYN0197,Kabarak University,BA Economics,1,8.0,75.0,42.0,6.9,Yes,Library,6,3.9,66.6,61.1,High,2026-09-21 19:31:48,SYNTHETIC
+SYN0198,Mount Kenya University,BSc Biochemistry,1,0.0,71.0,92.0,6.1,Yes,Classroom,6,2.6,43.8,47.3,Low,2026-09-21 19:35:43,SYNTHETIC
+SYN0199,Kabarak University,BSc Information Technology,2,12.0,91.0,76.0,5.0,Yes,Home,9,1.8,55.5,51.1,Medium,2026-09-21 19:54:35,SYNTHETIC
+SYN0200,Mount Kenya University,BSc Nursing,1,14.0,77.0,92.0,8.4,Yes,Hostel,5,3.5,53.5,62.5,High,2026-09-21 20:29:31,SYNTHETIC
+SYN0201,Jomo Kenyatta University of Agriculture and Technology,BA Journalism and Mass Communication,2,20.0,81.0,96.0,7.0,No,Home,4,3.4,72.5,58.8,Medium,2026-09-22 00:04:56,SYNTHETIC
+SYN0202,Moi University,BA Journalism and Mass Communication,3,22.0,89.0,96.0,7.8,Yes,Library,6,2.8,82.7,79.0,High,2026-09-22 03:29:32,SYNTHETIC
+SYN0203,Kenyatta University,BSc Information Technology,4,15.0,,82.0,5.5,Yes,Other,8,3.4,64.8,67.1,High,2026-09-22 03:43:56,SYNTHETIC
+SYN0204,University of Nairobi,BSc Biochemistry,2,6.0,69.0,57.0,7.5,Yes,Classroom,6,0.8,42.5,55.5,Medium,2026-09-22 05:10:10,SYNTHETIC
+SYN0205,University of Nairobi,Bachelor of Business Information Technology,3,15.0,60.0,81.0,6.5,Yes,Library,5,5.0,45.2,44.4,Low,2026-09-22 06:45:30,SYNTHETIC
+SYN0206,Kenyatta University,BSc Electrical and Electronic Engineering,5,26.0,87.0,87.0,8.3,Yes,Other,6,2.8,56.4,56.5,Medium,2026-09-22 07:32:49,SYNTHETIC
+SYN0207,Masinde Muliro University of Science and Technology,BSc Mathematics,4,22.0,86.0,93.0,7.0,No,Hostel,5,3.0,53.9,50.1,Medium,2026-09-22 07:32:57,SYNTHETIC
+SYN0208,Jomo Kenyatta University of Agriculture and Technology,BSc Computer Science,4,21.0,76.0,78.0,8.3,Yes,Hostel,4,2.6,56.8,69.6,High,2026-09-22 07:58:37,SYNTHETIC
+SYN0209,Strathmore University,BA Journalism and Mass Communication,2,4.0,61.0,73.0,6.2,No,Library,5,7.7,32.2,23.3,Low,2026-09-22 08:32:06,SYNTHETIC
+SYN0210,KCA University,Bachelor of Education (Science),3,10.0,51.0,90.0,6.3,Yes,Home,6,3.2,,48.7,Low,2026-09-22 10:42:29,SYNTHETIC
+SYN0211,Mount Kenya University,Bachelor of Education (Arts),4,0.0,71.0,73.0,,Yes,Library,8,2.3,63.6,64.2,High,2026-09-22 10:46:51,SYNTHETIC
+SYN0212,Jomo Kenyatta University of Agriculture and Technology,Bachelor of Education (Arts),2,18.0,73.0,68.0,3.5,Yes,Home,8,7.0,63.0,67.2,High,2026-09-22 11:36:35,SYNTHETIC
+SYN0213,Kenyatta University,Bachelor of Education (Arts),4,8.0,61.0,59.0,5.5,Yes,Hostel,8,7.3,51.8,44.0,Low,2026-09-22 12:27:13,SYNTHETIC
+SYN0214,Mount Kenya University,Bachelor of Education (Arts),3,6.0,77.0,64.0,7.5,Yes,Classroom,7,4.5,47.3,61.5,High,2026-09-22 12:39:49,SYNTHETIC
+SYN0215,KCA University,BSc Mathematics,4,2.0,55.0,35.0,6.0,Yes,Home,7,4.1,,65.9,High,2026-09-22 13:13:01,SYNTHETIC
+SYN0216,Mount Kenya University,BA Economics,4,26.0,55.0,85.0,7.0,Yes,Hostel,4,2.7,65.9,86.1,High,2026-09-22 13:14:40,SYNTHETIC
+SYN0217,Egerton University,BA Economics,1,0.0,73.0,64.0,6.2,Yes,Home,6,2.3,40.7,39.2,Low,2026-09-22 15:27:27,SYNTHETIC
+SYN0218,Egerton University,BSc Civil Engineering,3,27.0,83.0,96.0,8.4,Yes,Classroom,6,2.4,53.7,60.7,High,2026-09-22 15:37:18,SYNTHETIC
+SYN0219,Moi University,BSc Information Technology,1,14.0,56.0,71.0,7.3,Yes,Other,9,2.8,41.0,58.0,Medium,2026-09-22 16:34:11,SYNTHETIC
+SYN0220,Moi University,BSc Information Technology,3,7.0,82.0,67.0,7.3,Yes,Classroom,7,0.6,55.6,50.8,Medium,2026-09-22 17:00:51,SYNTHETIC
+SYN0221,KCA University,BSc Computer Science,4,15.0,88.0,94.0,7.5,Yes,Classroom,3,3.6,60.7,62.2,High,2026-09-22 18:12:15,SYNTHETIC
+SYN0222,Dedan Kimathi University of Technology,BSc Nursing,4,15.0,78.0,63.0,6.6,Yes,Home,7,3.9,66.2,78.7,High,2026-09-22 18:25:39,SYNTHETIC
+SYN0223,Technical University of Kenya,BA Economics,3,5.0,85.0,46.0,6.2,No,Library,9,5.1,53.0,59.0,Medium,2026-09-22 18:45:48,SYNTHETIC
+SYN0224,Egerton University,BSc Nursing,2,13.0,62.0,76.0,4.9,Yes,Home,4,4.9,58.9,35.6,Low,2026-09-22 19:50:07,SYNTHETIC
+SYN0225,Moi University,BSc Information Technology,3,23.0,72.0,68.0,6.7,Yes,Home,6,4.6,55.4,58.8,Medium,2026-09-22 20:52:18,SYNTHETIC
+SYN0226,Masinde Muliro University of Science and Technology,BSc Nursing,1,10.0,60.0,82.0,5.8,Yes,Home,7,0.0,47.7,50.0,Medium,2026-09-23 00:00:56,SYNTHETIC
+SYN0227,University of Nairobi,BSc Nursing,1,20.0,92.0,75.0,6.5,Yes,Hostel,4,2.0,59.1,72.8,High,2026-09-23 00:16:24,SYNTHETIC
+SYN0228,Jomo Kenyatta University of Agriculture and Technology,Bachelor of Commerce,3,1.0,,66.0,9.1,Yes,Hostel,4,4.0,44.8,50.6,Medium,2026-09-23 03:07:44,SYNTHETIC
+SYN0229,Kenyatta University,Bachelor of Commerce,2,9.0,70.0,57.0,7.5,Yes,Home,6,5.0,60.4,51.7,Medium,2026-09-23 03:26:51,SYNTHETIC
+SYN0230,Mount Kenya University,Bachelor of Commerce,3,11.0,99.0,96.0,6.3,Yes,Library,6,3.9,61.4,57.4,Medium,2026-09-23 04:09:42,SYNTHETIC
+SYN0231,Multimedia University of Kenya,BA Economics,2,17.0,85.0,69.0,7.6,Yes,Other,7,3.6,67.8,71.4,High,2026-09-23 04:43:22,SYNTHETIC
+SYN0232,Masinde Muliro University of Science and Technology,Bachelor of Medicine and Surgery (MBChB),4,20.0,76.0,81.0,7.6,Yes,Home,6,8.0,64.3,55.6,Medium,2026-09-23 06:47:21,SYNTHETIC
+SYN0233,Catholic University of Eastern Africa,BSc Statistics and Data Science,4,19.0,71.0,53.0,7.7,Yes,Home,6,2.6,55.8,72.1,High,2026-09-23 08:18:10,SYNTHETIC
+SYN0234,Jomo Kenyatta University of Agriculture and Technology,BA Journalism and Mass Communication,4,2.0,62.0,58.0,5.3,Yes,Library,6,4.6,54.1,44.0,Low,2026-09-23 09:47:29,SYNTHETIC
+SYN0235,Moi University,Bachelor of Education (Arts),3,23.0,91.0,91.0,6.4,No,Hostel,6,2.9,61.9,59.1,Medium,2026-09-23 11:35:29,SYNTHETIC
+SYN0236,University of Nairobi,BSc Computer Science,1,26.0,97.0,89.0,8.2,No,Home,5,4.1,47.4,46.2,Low,2026-09-23 11:42:18,SYNTHETIC
+SYN0237,Dedan Kimathi University of Technology,BSc Electrical and Electronic Engineering,2,12.0,98.0,90.0,8.2,Yes,Library,5,5.5,44.5,53.7,Medium,2026-09-23 12:33:20,SYNTHETIC
+SYN0238,Technical University of Kenya,BA Journalism and Mass Communication,1,11.0,91.0,78.0,6.4,No,Library,7,5.2,55.2,38.5,Low,2026-09-23 12:39:23,SYNTHETIC
+SYN0239,Kenyatta University,Bachelor of Education (Arts),4,17.0,78.0,71.0,6.8,Yes,Hostel,7,5.1,68.7,59.8,Medium,2026-09-23 15:03:34,SYNTHETIC
+SYN0240,Kenyatta University,BSc Agriculture,2,19.0,81.0,80.0,7.3,Yes,Other,6,4.7,60.9,62.8,High,2026-09-23 16:34:31,SYNTHETIC
+SYN0241,Egerton University,Bachelor of Commerce,4,0.0,62.0,56.0,4.9,Yes,Classroom,7,5.1,65.6,65.2,High,2026-09-23 17:02:43,SYNTHETIC
+SYN0242,Moi University,BA Journalism and Mass Communication,1,17.0,67.0,87.0,8.9,Yes,Classroom,8,1.0,64.8,57.6,Medium,2026-09-23 18:42:37,SYNTHETIC
+SYN0243,University of Nairobi,Bachelor of Business Information Technology,1,0.0,59.0,55.0,4.7,Yes,Library,3,3.0,44.6,34.4,Low,2026-09-23 19:18:24,SYNTHETIC
+SYN0244,Mount Kenya University,BSc Nursing,4,21.0,92.0,72.0,6.2,No,Hostel,6,0.1,47.6,63.7,High,2026-09-23 20:29:28,SYNTHETIC
+SYN0245,KCA University,Bachelor of Education (Arts),3,10.0,71.0,63.0,8.1,Yes,Library,5,2.7,51.0,55.3,Medium,2026-09-23 20:32:55,SYNTHETIC
+SYN0246,University of Nairobi,Bachelor of Laws (LLB),3,12.0,74.0,90.0,7.8,Yes,Home,8,4.1,61.2,61.2,High,2026-09-23 21:18:42,SYNTHETIC
+SYN0247,Jomo Kenyatta University of Agriculture and Technology,BSc Electrical and Electronic Engineering,3,7.0,68.0,76.0,7.6,Yes,Other,5,5.2,58.4,54.9,Medium,2026-09-23 22:34:03,SYNTHETIC
+SYN0248,Maseno University,Bachelor of Commerce,2,14.0,90.0,85.0,8.0,Yes,Other,7,5.0,62.8,79.0,High,2026-09-23 23:16:36,SYNTHETIC
+SYN0249,Strathmore University,BSc Nursing,4,19.0,98.0,84.0,7.9,Yes,Home,6,4.1,54.6,55.7,Medium,2026-09-24 03:27:11,SYNTHETIC
+SYN0250,Moi University,Bachelor of Commerce,4,4.0,51.0,73.0,5.4,No,Home,6,2.3,57.8,39.2,Low,2026-09-24 03:39:50,SYNTHETIC
+SYN0251,Egerton University,BSc Information Technology,4,14.0,61.0,55.0,7.9,Yes,Home,3,4.1,52.9,53.2,Medium,2026-09-24 04:46:02,SYNTHETIC
+SYN0252,Moi University,BSc Computer Science,2,5.0,71.0,74.0,6.1,Yes,Hostel,7,4.3,53.9,48.6,Low,2026-09-24 05:18:17,SYNTHETIC
+SYN0253,United States International University-Africa,BSc Computer Science,2,10.0,73.0,86.0,6.9,Yes,Home,6,5.7,67.2,66.8,High,2026-09-24 06:46:54,SYNTHETIC
+SYN0254,Technical University of Kenya,Bachelor of Business Information Technology,4,25.0,100.0,100.0,6.6,Yes,Home,5,0.1,73.1,77.8,High,2026-09-24 08:14:02,SYNTHETIC
+SYN0255,Egerton University,BA Economics,2,12.0,59.0,69.0,4.9,No,Hostel,8,3.4,46.4,50.2,Medium,2026-09-24 08:14:45,SYNTHETIC
+SYN0256,Kabarak University,BA Journalism and Mass Communication,1,16.0,90.0,58.0,5.8,No,Library,6,2.8,48.0,35.8,Low,2026-09-24 09:06:18,SYNTHETIC
+SYN0257,Jomo Kenyatta University of Agriculture and Technology,Bachelor of Education (Arts),1,8.0,58.0,64.0,7.6,No,Other,8,4.6,45.4,33.8,Low,2026-09-24 10:10:21,SYNTHETIC
+SYN0258,Kenyatta University,Bachelor of Business Information Technology,4,18.0,91.0,100.0,5.9,Yes,Home,6,1.2,,56.7,Medium,2026-09-24 10:23:57,SYNTHETIC
+SYN0259,Technical University of Kenya,BSc Nursing,4,10.0,75.0,84.0,8.2,Yes,Other,6,0.4,66.0,75.7,High,2026-09-24 10:53:50,SYNTHETIC
+SYN0260,Kenyatta University,Bachelor of Commerce,2,12.0,75.0,90.0,4.6,No,Home,7,4.6,56.4,50.1,Medium,2026-09-24 11:21:14,SYNTHETIC
+SYN0261,Mount Kenya University,Bachelor of Laws (LLB),3,26.0,71.0,100.0,6.1,Yes,Library,8,4.6,64.4,62.8,High,2026-09-24 12:44:03,SYNTHETIC
+SYN0262,Multimedia University of Kenya,Bachelor of Commerce,2,14.0,72.0,79.0,7.5,No,Home,7,4.9,59.4,63.5,High,2026-09-24 14:04:18,SYNTHETIC
+SYN0263,Moi University,Bachelor of Laws (LLB),1,9.0,53.0,72.0,7.7,Yes,Hostel,8,1.0,48.5,48.8,Low,2026-09-24 15:08:42,SYNTHETIC
+SYN0264,Other (not listed),BSc Statistics and Data Science,3,6.0,59.0,87.0,6.1,Yes,Home,6,4.8,59.7,59.8,Medium,2026-09-24 16:14:06,SYNTHETIC
+SYN0265,Technical University of Kenya,BSc Agriculture,4,20.0,90.0,100.0,7.0,No,Hostel,5,2.7,64.3,65.9,High,2026-09-24 16:39:34,SYNTHETIC
+SYN0266,KCA University,BSc Nursing,1,0.0,76.0,77.0,7.2,Yes,Hostel,5,3.6,57.6,54.0,Medium,2026-09-24 20:18:58,SYNTHETIC
+SYN0267,Mount Kenya University,BSc Information Technology,3,6.0,85.0,65.0,6.0,Yes,Library,6,3.9,69.0,50.9,Medium,2026-09-24 22:51:47,SYNTHETIC
+SYN0268,Jomo Kenyatta University of Agriculture and Technology,BSc Civil Engineering,1,1.0,80.0,55.0,3.5,Yes,Library,5,6.4,52.8,52.7,Medium,2026-09-25 00:28:33,SYNTHETIC
+SYN0269,Daystar University,BSc Biochemistry,2,17.0,74.0,98.0,6.7,Yes,Other,6,,57.1,50.8,Medium,2026-09-25 02:09:42,SYNTHETIC
+SYN0270,Kabarak University,BSc Computer Science,2,8.0,90.0,93.0,7.8,No,Other,7,4.5,71.1,65.0,High,2026-09-25 03:47:28,SYNTHETIC
+SYN0271,Mount Kenya University,BSc Electrical and Electronic Engineering,1,3.0,65.0,40.0,5.6,Yes,Home,5,6.9,53.9,43.2,Low,2026-09-25 04:18:05,SYNTHETIC
+SYN0272,United States International University-Africa,BSc Nursing,4,24.0,100.0,100.0,8.9,Yes,Library,7,3.4,37.4,52.4,Medium,2026-09-25 04:57:34,SYNTHETIC
+SYN0273,Mount Kenya University,BSc Biochemistry,2,4.0,49.0,81.0,6.3,Yes,Home,4,4.1,,43.8,Low,2026-09-25 05:21:40,SYNTHETIC
+SYN0274,Strathmore University,BSc Computer Science,3,15.0,81.0,77.0,7.9,Yes,Library,6,1.6,50.8,58.4,Medium,2026-09-25 06:45:00,SYNTHETIC
+SYN0275,Masinde Muliro University of Science and Technology,BSc Electrical and Electronic Engineering,2,20.0,65.0,80.0,5.6,Yes,Home,5,1.4,65.1,71.5,High,2026-09-25 06:45:04,SYNTHETIC
+SYN0276,Moi University,Bachelor of Commerce,4,,74.0,49.0,8.0,Yes,Home,7,,53.3,53.4,Medium,2026-09-25 07:04:57,SYNTHETIC
+SYN0277,KCA University,BSc Computer Science,2,12.0,75.0,66.0,6.1,Yes,Home,7,5.0,72.7,54.1,Medium,2026-09-25 07:16:27,SYNTHETIC
+SYN0278,University of Nairobi,BSc Nursing,1,15.0,62.0,74.0,5.8,Yes,Home,5,7.4,49.0,49.2,Low,2026-09-25 08:05:22,SYNTHETIC
+SYN0279,Maseno University,BSc Nursing,4,9.0,92.0,75.0,5.8,Yes,Hostel,7,3.9,72.8,62.3,High,2026-09-25 09:33:49,SYNTHETIC
+SYN0280,Technical University of Kenya,Bachelor of Commerce,1,10.0,86.0,99.0,4.6,No,Other,9,0.6,63.5,55.7,Medium,2026-09-25 10:02:28,SYNTHETIC
+SYN0281,Moi University,Bachelor of Laws (LLB),1,6.0,44.0,31.0,6.5,No,Home,6,4.0,61.1,52.7,Medium,2026-09-25 11:04:46,SYNTHETIC
+SYN0282,University of Nairobi,BSc Computer Science,1,24.0,81.0,100.0,9.1,Yes,Home,5,4.4,68.2,78.6,High,2026-09-25 12:15:37,SYNTHETIC
+SYN0283,Jomo Kenyatta University of Agriculture and Technology,Bachelor of Business Information Technology,3,7.0,68.0,55.0,6.3,Yes,Hostel,5,2.4,,51.2,Medium,2026-09-25 14:38:14,SYNTHETIC
+SYN0284,University of Nairobi,BSc Nursing,4,0.0,52.0,70.0,6.8,Yes,Classroom,6,,54.7,56.1,Medium,2026-09-25 15:05:04,SYNTHETIC
+SYN0285,University of Nairobi,Bachelor of Commerce,2,10.0,80.0,85.0,5.8,Yes,Home,7,2.4,37.9,43.4,Low,2026-09-25 15:12:11,SYNTHETIC
+SYN0286,University of Nairobi,Bachelor of Laws (LLB),3,16.0,95.0,86.0,6.9,No,Home,7,5.4,67.1,62.7,High,2026-09-25 16:40:50,SYNTHETIC
+SYN0287,Dedan Kimathi University of Technology,BSc Agriculture,1,0.0,57.0,78.0,7.2,No,Other,3,8.1,57.5,51.6,Medium,2026-09-25 16:42:46,SYNTHETIC
+SYN0288,Egerton University,BSc Electrical and Electronic Engineering,4,15.0,100.0,95.0,6.4,Yes,Library,7,3.0,59.5,65.1,High,2026-09-25 17:31:21,SYNTHETIC
+SYN0289,Kenyatta University,Bachelor of Education (Arts),4,8.0,96.0,83.0,,Yes,Library,7,4.4,56.7,57.1,Medium,2026-09-25 19:17:04,SYNTHETIC
+SYN0290,Technical University of Kenya,BSc Nursing,2,12.0,88.0,100.0,6.6,Yes,Library,5,6.2,56.6,55.2,Medium,2026-09-25 19:45:30,SYNTHETIC
+SYN0291,Technical University of Kenya,BSc Civil Engineering,4,11.0,88.0,54.0,6.3,Yes,Home,9,4.1,68.6,64.4,High,2026-09-25 20:04:07,SYNTHETIC
+SYN0292,Mount Kenya University,BSc Civil Engineering,2,26.0,100.0,79.0,9.1,Yes,Home,5,0.6,64.3,64.7,High,2026-09-25 20:48:22,SYNTHETIC
+SYN0293,KCA University,Bachelor of Laws (LLB),3,5.0,72.0,80.0,6.5,Yes,Other,7,2.5,46.1,57.8,Medium,2026-09-25 21:29:47,SYNTHETIC
+SYN0294,Dedan Kimathi University of Technology,BSc Information Technology,1,11.0,65.0,74.0,6.6,Yes,Home,5,4.6,75.8,71.3,High,2026-09-25 21:39:55,SYNTHETIC
+SYN0295,United States International University-Africa,BA Economics,4,13.0,66.0,75.0,9.7,Yes,Other,8,2.2,77.1,78.7,High,2026-09-25 21:57:32,SYNTHETIC
+SYN0296,Dedan Kimathi University of Technology,BSc Statistics and Data Science,4,24.0,71.0,100.0,6.8,Yes,Other,7,3.0,64.6,53.9,Medium,2026-09-25 22:54:24,SYNTHETIC
+SYN0297,Kenyatta University,BA Journalism and Mass Communication,3,23.0,100.0,98.0,6.2,Yes,Library,6,4.1,67.5,68.1,High,2026-09-25 23:25:07,SYNTHETIC
+SYN0298,University of Nairobi,Bachelor of Laws (LLB),2,17.0,64.0,74.0,6.1,No,Library,5,1.7,42.9,55.2,Medium,2026-09-26 00:51:44,SYNTHETIC
+SYN0299,Kabarak University,BSc Civil Engineering,4,1.0,75.0,72.0,6.8,Yes,Home,5,0.0,57.2,59.1,Medium,2026-09-26 01:41:16,SYNTHETIC
+SYN0300,Dedan Kimathi University of Technology,BSc Biochemistry,4,3.0,50.0,67.0,6.4,Yes,Hostel,8,7.2,44.1,44.4,Low,2026-09-26 03:03:25,SYNTHETIC
+SYN0301,University of Nairobi,BSc Electrical and Electronic Engineering,2,19.0,92.0,94.0,8.9,Yes,Hostel,7,1.7,67.3,77.1,High,2026-09-26 03:28:02,SYNTHETIC
+SYN0302,Masinde Muliro University of Science and Technology,Bachelor of Education (Arts),3,17.0,71.0,93.0,5.6,Yes,Library,7,4.7,61.9,59.4,Medium,2026-09-26 03:35:29,SYNTHETIC
+SYN0303,Dedan Kimathi University of Technology,Bachelor of Education (Science),4,9.0,63.0,61.0,5.1,No,Home,5,5.1,64.9,58.5,Medium,2026-09-26 06:47:41,SYNTHETIC
+SYN0304,Mount Kenya University,Bachelor of Commerce,2,22.0,93.0,91.0,5.6,Yes,Hostel,5,1.9,77.0,71.5,High,2026-09-26 07:06:39,SYNTHETIC
+SYN0305,Technical University of Kenya,Bachelor of Medicine and Surgery (MBChB),5,0.0,55.0,67.0,5.7,Yes,Library,5,5.4,47.7,46.2,Low,2026-09-26 11:09:34,SYNTHETIC
+SYN0306,Other (not listed),Bachelor of Commerce,3,20.0,74.0,100.0,5.1,Yes,Home,7,2.3,55.3,61.5,High,2026-09-26 11:20:06,SYNTHETIC
+SYN0307,Kenyatta University,BA Economics,3,10.0,89.0,60.0,9.2,Yes,Hostel,9,3.2,61.9,57.3,Medium,2026-09-26 12:00:17,SYNTHETIC
+SYN0308,Strathmore University,Bachelor of Medicine and Surgery (MBChB),3,-0.0,70.0,82.0,8.9,No,Home,7,5.1,46.4,57.6,Medium,2026-09-26 12:26:30,SYNTHETIC
+SYN0309,Kenyatta University,Bachelor of Medicine and Surgery (MBChB),4,10.0,76.0,70.0,6.4,Yes,Hostel,7,2.2,49.4,47.0,Low,2026-09-26 16:01:38,SYNTHETIC
+SYN0310,Jomo Kenyatta University of Agriculture and Technology,Bachelor of Commerce,2,11.0,84.0,81.0,5.0,Yes,Classroom,5,0.0,41.8,52.3,Medium,2026-09-26 17:45:33,SYNTHETIC
+SYN0311,Masinde Muliro University of Science and Technology,Bachelor of Education (Arts),2,10.0,,42.0,6.9,Yes,Library,7,5.2,41.0,40.5,Low,2026-09-26 17:53:15,SYNTHETIC
+SYN0312,Mount Kenya University,BSc Civil Engineering,2,17.0,95.0,91.0,6.1,Yes,Hostel,6,4.1,,48.0,Low,2026-09-26 18:43:01,SYNTHETIC
+SYN0313,Masinde Muliro University of Science and Technology,BSc Information Technology,1,26.0,87.0,97.0,6.8,Yes,Home,6,2.4,62.4,64.3,High,2026-09-26 19:08:43,SYNTHETIC
+SYN0314,Maseno University,Bachelor of Education (Arts),2,31.0,97.0,92.0,7.3,No,Library,4,3.7,74.7,82.6,High,2026-09-26 22:23:21,SYNTHETIC
+SYN0315,Kenyatta University,Bachelor of Education (Arts),4,26.0,86.0,97.0,7.2,Yes,Library,7,2.9,64.3,66.4,High,2026-09-26 22:58:15,SYNTHETIC
+SYN0316,Daystar University,Bachelor of Business Information Technology,2,15.0,84.0,73.0,6.0,No,Hostel,7,2.9,51.9,57.0,Medium,2026-09-26 23:17:36,SYNTHETIC
+SYN0317,Daystar University,Bachelor of Laws (LLB),4,-0.0,67.0,72.0,7.0,No,Hostel,8,4.2,57.8,62.1,High,2026-09-27 00:40:20,SYNTHETIC
+SYN0318,University of Nairobi,BSc Biochemistry,3,20.0,81.0,84.0,6.6,Yes,Home,5,3.1,62.9,54.5,Medium,2026-09-27 01:21:37,SYNTHETIC
+SYN0319,Catholic University of Eastern Africa,Bachelor of Education (Science),4,15.0,88.0,64.0,8.3,No,Library,7,1.6,56.1,50.2,Medium,2026-09-27 05:54:43,SYNTHETIC
+SYN0320,Kenyatta University,BA Economics,2,15.0,100.0,81.0,6.4,No,Library,4,3.0,66.4,57.6,Medium,2026-09-27 06:44:07,SYNTHETIC
+SYN0321,Technical University of Kenya,Bachelor of Education (Arts),2,12.0,79.0,74.0,6.2,Yes,Library,5,2.5,47.2,53.3,Medium,2026-09-27 08:08:14,SYNTHETIC
+SYN0322,Dedan Kimathi University of Technology,BSc Computer Science,4,25.0,91.0,100.0,8.1,Yes,Classroom,8,3.1,72.5,66.2,High,2026-09-27 10:35:43,SYNTHETIC
+SYN0323,United States International University-Africa,Bachelor of Education (Science),2,5.0,44.0,92.0,6.0,No,Library,6,3.9,53.2,41.4,Low,2026-09-27 10:53:29,SYNTHETIC
+SYN0324,Dedan Kimathi University of Technology,BSc Nursing,3,24.0,89.0,73.0,5.7,No,Hostel,7,5.1,69.9,51.7,Medium,2026-09-27 11:09:01,SYNTHETIC
+SYN0325,Egerton University,BSc Nursing,4,0.0,46.0,58.0,6.2,Yes,Library,7,3.6,48.5,35.0,Low,2026-09-27 11:11:13,SYNTHETIC
+SYN0326,Technical University of Kenya,BSc Civil Engineering,2,11.0,69.0,63.0,6.2,Yes,Other,5,4.7,46.5,54.1,Medium,2026-09-27 11:55:03,SYNTHETIC
+SYN0327,Multimedia University of Kenya,BSc Computer Science,3,20.0,65.0,95.0,7.2,Yes,Hostel,8,1.2,51.3,59.8,Medium,2026-09-27 12:57:41,SYNTHETIC
+SYN0328,Technical University of Kenya,BSc Agriculture,3,3.0,82.0,75.0,5.4,No,Library,7,3.1,65.9,48.5,Low,2026-09-27 14:03:28,SYNTHETIC
+SYN0329,Maseno University,BA Economics,1,20.0,81.0,96.0,5.8,Yes,Home,4,2.2,67.2,57.8,Medium,2026-09-27 14:10:01,SYNTHETIC
+SYN0330,Mount Kenya University,Bachelor of Laws (LLB),3,8.0,61.0,74.0,4.5,Yes,Library,6,4.0,69.0,62.4,High,2026-09-27 14:20:45,SYNTHETIC
+SYN0331,Multimedia University of Kenya,BSc Computer Science,1,22.0,91.0,75.0,6.8,Yes,Hostel,6,4.7,47.4,61.2,High,2026-09-27 14:22:33,SYNTHETIC
+SYN0332,University of Nairobi,Bachelor of Education (Arts),2,3.0,74.0,91.0,6.0,Yes,Home,5,2.2,44.8,59.1,Medium,2026-09-27 15:08:17,SYNTHETIC
+SYN0333,Mount Kenya University,BSc Civil Engineering,3,3.0,54.0,78.0,3.7,Yes,Home,10,4.0,49.5,43.9,Low,2026-09-27 16:23:26,SYNTHETIC
+SYN0334,Africa Nazarene University,BSc Statistics and Data Science,1,3.0,59.0,66.0,6.6,Yes,Hostel,5,3.5,42.1,61.4,High,2026-09-27 16:29:35,SYNTHETIC
+SYN0335,Mount Kenya University,BSc Electrical and Electronic Engineering,1,21.0,80.0,84.0,8.2,Yes,Library,5,4.8,58.8,60.1,High,2026-09-27 19:12:40,SYNTHETIC
+SYN0336,Moi University,BSc Information Technology,2,4.0,65.0,60.0,8.2,No,Home,6,5.1,54.5,66.2,High,2026-09-27 19:23:01,SYNTHETIC
+SYN0337,Dedan Kimathi University of Technology,BSc Computer Science,3,14.0,80.0,64.0,5.6,Yes,Other,7,3.9,70.4,61.0,High,2026-09-27 19:36:24,SYNTHETIC
+SYN0338,University of Nairobi,BSc Information Technology,3,15.0,84.0,73.0,5.7,No,Library,6,3.4,45.1,35.4,Low,2026-09-27 21:05:23,SYNTHETIC
+SYN0339,University of Nairobi,BSc Nursing,3,8.0,92.0,96.0,5.6,Yes,Home,5,6.0,52.5,55.3,Medium,2026-09-27 21:32:18,SYNTHETIC
+SYN0340,Strathmore University,BSc Agriculture,4,16.0,100.0,93.0,7.5,Yes,Library,5,3.9,75.8,54.3,Medium,2026-09-27 21:57:22,SYNTHETIC
+SYN0341,Jomo Kenyatta University of Agriculture and Technology,BA Economics,1,13.0,73.0,80.0,6.8,Yes,Library,5,4.1,66.8,51.0,Medium,2026-09-27 22:39:21,SYNTHETIC
+SYN0342,University of Nairobi,BSc Computer Science,3,6.0,64.0,67.0,6.4,Yes,Other,7,4.2,62.2,52.2,Medium,2026-09-28 00:40:22,SYNTHETIC
+SYN0343,Kenyatta University,BSc Statistics and Data Science,2,11.0,80.0,100.0,7.3,No,Other,6,3.6,67.3,70.4,High,2026-09-28 03:10:32,SYNTHETIC
+SYN0344,University of Nairobi,BSc Information Technology,3,18.0,81.0,69.0,7.1,Yes,Home,5,7.0,50.5,38.9,Low,2026-09-28 03:28:27,SYNTHETIC
+SYN0345,KCA University,Bachelor of Education (Arts),2,16.0,60.0,63.0,8.1,Yes,Hostel,8,5.0,45.1,57.4,Medium,2026-09-28 04:03:20,SYNTHETIC
+SYN0346,Maseno University,Bachelor of Commerce,2,22.0,82.0,58.0,8.9,Yes,Classroom,5,2.1,55.0,56.3,Medium,2026-09-28 04:17:58,SYNTHETIC
+SYN0347,Maseno University,Bachelor of Education (Science),1,11.0,71.0,75.0,5.7,No,Library,6,4.0,42.3,44.4,Low,2026-09-28 04:20:42,SYNTHETIC
+SYN0348,Strathmore University,BSc Nursing,2,13.0,72.0,94.0,7.8,Yes,Home,7,2.8,46.9,50.4,Medium,2026-09-28 05:00:07,SYNTHETIC
+SYN0349,Moi University,BSc Agriculture,3,13.0,81.0,97.0,6.0,No,Home,6,3.6,77.5,66.9,High,2026-09-28 05:01:29,SYNTHETIC
+SYN0350,Jomo Kenyatta University of Agriculture and Technology,BSc Civil Engineering,4,12.0,59.0,81.0,6.1,Yes,Home,7,4.9,57.3,68.2,High,2026-09-28 05:22:00,SYNTHETIC
+SYN0351,Strathmore University,BA Journalism and Mass Communication,1,22.0,73.0,74.0,6.5,Yes,Library,8,3.2,42.6,36.2,Low,2026-09-28 06:36:03,SYNTHETIC
+SYN0352,Mount Kenya University,BSc Biochemistry,2,5.0,80.0,51.0,4.2,Yes,Hostel,6,3.8,42.1,37.4,Low,2026-09-28 07:49:51,SYNTHETIC
+SYN0353,Kenyatta University,Bachelor of Commerce,4,7.0,76.0,80.0,9.0,Yes,Library,8,3.7,68.2,59.9,Medium,2026-09-28 08:19:12,SYNTHETIC
+SYN0354,Catholic University of Eastern Africa,Bachelor of Commerce,2,18.0,93.0,100.0,6.5,Yes,Home,7,0.0,54.5,68.3,High,2026-09-28 09:57:36,SYNTHETIC
+SYN0355,KCA University,Bachelor of Education (Arts),1,8.0,94.0,85.0,7.2,Yes,Other,9,4.2,63.9,56.3,Medium,2026-09-28 10:00:39,SYNTHETIC
+SYN0356,Mount Kenya University,BSc Computer Science,3,4.0,82.0,86.0,8.9,No,Home,10,0.0,58.6,58.0,Medium,2026-09-28 11:14:03,SYNTHETIC
+SYN0357,Dedan Kimathi University of Technology,Bachelor of Commerce,1,7.0,69.0,62.0,5.2,Yes,Hostel,9,2.3,38.2,49.9,Low,2026-09-28 11:38:03,SYNTHETIC
+SYN0358,Jomo Kenyatta University of Agriculture and Technology,BSc Mathematics,3,20.0,88.0,89.0,6.5,Yes,Hostel,6,3.8,56.5,55.2,Medium,2026-09-28 11:49:17,SYNTHETIC
+SYN0359,Moi University,BSc Information Technology,3,15.0,88.0,68.0,6.0,Yes,Hostel,6,3.8,74.8,63.8,High,2026-09-28 13:19:30,SYNTHETIC
+SYN0360,United States International University-Africa,Bachelor of Education (Arts),3,24.0,55.0,70.0,5.1,No,Other,7,4.3,54.4,40.9,Low,2026-09-28 14:23:33,SYNTHETIC
+SYN0361,University of Nairobi,BSc Agriculture,3,13.0,61.0,67.0,8.4,Yes,Home,6,7.2,47.3,44.4,Low,2026-09-28 14:50:33,SYNTHETIC
+SYN0362,Egerton University,BSc Statistics and Data Science,4,15.0,57.0,84.0,5.9,Yes,Home,6,4.8,58.8,43.5,Low,2026-09-28 17:15:58,SYNTHETIC
+SYN0363,Dedan Kimathi University of Technology,BA Economics,2,10.0,81.0,71.0,7.6,Yes,Hostel,8,2.3,37.2,48.4,Low,2026-09-28 17:17:46,SYNTHETIC
+SYN0364,United States International University-Africa,BSc Biochemistry,4,18.0,59.0,78.0,6.5,Yes,Home,7,2.1,42.5,58.0,Medium,2026-09-28 18:09:57,SYNTHETIC
+SYN0365,Moi University,BSc Computer Science,3,11.0,65.0,75.0,5.6,Yes,Other,5,4.4,42.4,51.9,Medium,2026-09-28 18:19:54,SYNTHETIC
+SYN0366,University of Nairobi,Bachelor of Education (Arts),2,12.0,79.0,75.0,6.5,Yes,Other,5,2.6,59.3,57.8,Medium,2026-09-28 18:45:26,SYNTHETIC
+SYN0367,Daystar University,Bachelor of Business Information Technology,4,17.0,77.0,82.0,7.7,Yes,Home,6,5.4,83.0,68.2,High,2026-09-28 19:07:57,SYNTHETIC
+SYN0368,Kabarak University,Bachelor of Commerce,2,1.0,72.0,48.0,7.3,No,Classroom,5,5.0,41.5,40.4,Low,2026-09-28 19:14:05,SYNTHETIC
+SYN0369,Jomo Kenyatta University of Agriculture and Technology,Bachelor of Education (Science),2,11.0,59.0,82.0,5.9,Yes,Library,4,7.0,58.8,56.5,Medium,2026-09-28 19:46:45,SYNTHETIC
+SYN0370,Multimedia University of Kenya,BSc Agriculture,4,1.0,52.0,85.0,8.3,Yes,Hostel,4,2.5,43.8,66.6,High,2026-09-28 20:23:20,SYNTHETIC
+SYN0371,Dedan Kimathi University of Technology,Bachelor of Education (Arts),3,9.0,62.0,61.0,6.0,Yes,Home,7,2.6,40.4,47.5,Low,2026-09-28 20:43:46,SYNTHETIC
+SYN0372,Technical University of Kenya,BSc Computer Science,4,23.0,74.0,100.0,7.0,Yes,Classroom,7,5.3,68.4,51.9,Medium,2026-09-28 21:30:30,SYNTHETIC
+SYN0373,Jomo Kenyatta University of Agriculture and Technology,Bachelor of Commerce,1,30.0,100.0,100.0,6.2,Yes,Hostel,7,1.8,65.6,61.0,High,2026-09-28 21:59:52,SYNTHETIC
+SYN0374,University of Nairobi,Bachelor of Commerce,4,12.0,76.0,76.0,7.5,No,Other,5,4.1,75.4,69.8,High,2026-09-28 22:39:04,SYNTHETIC
+SYN0375,Moi University,Bachelor of Commerce,2,16.0,90.0,100.0,5.5,Yes,Library,9,5.2,51.0,38.1,Low,2026-09-28 22:42:56,SYNTHETIC
+SYN0376,Egerton University,Bachelor of Education (Science),4,10.0,60.0,58.0,5.7,No,Classroom,7,3.1,45.2,39.0,Low,2026-09-28 23:36:18,SYNTHETIC
+SYN0377,KCA University,BSc Information Technology,3,13.0,82.0,86.0,6.5,Yes,Home,6,4.5,50.8,65.5,High,2026-09-29 03:38:18,SYNTHETIC
+SYN0378,Strathmore University,Bachelor of Education (Arts),3,15.0,93.0,74.0,8.2,Yes,Classroom,6,2.5,48.5,58.3,Medium,2026-09-29 11:53:56,SYNTHETIC
+SYN0379,Jomo Kenyatta University of Agriculture and Technology,Bachelor of Commerce,1,12.0,63.0,78.0,8.4,No,Hostel,8,6.9,49.5,58.8,Medium,2026-09-29 11:58:23,SYNTHETIC
+SYN0380,United States International University-Africa,BSc Electrical and Electronic Engineering,3,4.0,76.0,93.0,6.6,No,Library,7,2.7,54.8,54.5,Medium,2026-09-29 12:11:56,SYNTHETIC
+SYN0381,Kabarak University,BA Economics,3,7.0,67.0,50.0,4.9,Yes,Home,9,5.4,62.7,41.6,Low,2026-09-29 12:24:41,SYNTHETIC
+SYN0382,Masinde Muliro University of Science and Technology,Bachelor of Laws (LLB),3,16.0,65.0,69.0,5.0,Yes,Classroom,6,7.2,43.6,43.0,Low,2026-09-29 13:45:21,SYNTHETIC
+SYN0383,Technical University of Kenya,BA Economics,4,1.0,75.0,88.0,6.6,Yes,Home,7,4.3,47.1,48.2,Low,2026-09-29 14:34:04,SYNTHETIC
+SYN0384,Egerton University,Bachelor of Education (Arts),1,20.0,95.0,78.0,6.6,Yes,Library,6,1.9,56.6,55.3,Medium,2026-09-29 14:58:39,SYNTHETIC
+SYN0385,Mount Kenya University,BSc Information Technology,4,9.0,60.0,51.0,6.1,Yes,Hostel,6,4.5,32.4,45.8,Low,2026-09-29 15:01:07,SYNTHETIC
+SYN0386,Kabarak University,Bachelor of Laws (LLB),1,-0.0,59.0,65.0,5.4,Yes,Library,5,2.2,44.9,51.1,Medium,2026-09-29 15:28:54,SYNTHETIC
+SYN0387,KCA University,Bachelor of Education (Arts),2,17.0,79.0,68.0,6.9,Yes,Home,7,3.8,67.6,62.3,High,2026-09-29 15:52:39,SYNTHETIC
+SYN0388,Technical University of Kenya,Bachelor of Laws (LLB),3,13.0,90.0,100.0,6.8,Yes,Library,7,2.8,72.3,66.9,High,2026-09-29 16:10:33,SYNTHETIC
+SYN0389,Multimedia University of Kenya,Bachelor of Medicine and Surgery (MBChB),2,24.0,86.0,100.0,7.9,Yes,Library,5,2.2,57.8,67.8,High,2026-09-29 16:56:48,SYNTHETIC
+SYN0390,Moi University,BSc Civil Engineering,5,15.0,73.0,72.0,4.7,No,Hostel,6,2.8,57.1,59.8,Medium,2026-09-29 23:36:55,SYNTHETIC
+SYN0391,Dedan Kimathi University of Technology,BSc Computer Science,2,5.0,57.0,50.0,5.5,No,Other,7,5.7,45.4,47.0,Low,2026-09-29 23:55:28,SYNTHETIC
+SYN0392,Mount Kenya University,Bachelor of Business Information Technology,2,15.0,73.0,77.0,6.1,Yes,Library,7,2.4,57.5,58.7,Medium,2026-09-30 00:26:52,SYNTHETIC
+SYN0393,Dedan Kimathi University of Technology,Bachelor of Education (Arts),2,14.0,64.0,91.0,6.4,Yes,Other,6,0.8,45.3,57.2,Medium,2026-09-30 00:52:30,SYNTHETIC
+SYN0394,Mount Kenya University,Bachelor of Medicine and Surgery (MBChB),3,9.0,85.0,98.0,5.6,Yes,Home,5,5.4,72.3,71.8,High,2026-09-30 03:13:26,SYNTHETIC
+SYN0395,Moi University,Bachelor of Laws (LLB),3,1.0,78.0,66.0,8.8,Yes,Library,7,2.6,49.9,51.8,Medium,2026-09-30 03:29:08,SYNTHETIC
+SYN0396,University of Nairobi,BSc Nursing,2,16.0,95.0,90.0,8.4,Yes,Hostel,7,5.9,46.9,72.9,High,2026-09-30 03:50:56,SYNTHETIC
+SYN0397,Jomo Kenyatta University of Agriculture and Technology,BA Economics,1,7.0,50.0,83.0,5.3,Yes,Classroom,6,4.7,69.5,55.7,Medium,2026-09-30 05:39:45,SYNTHETIC
+SYN0398,Multimedia University of Kenya,Bachelor of Commerce,2,19.0,80.0,73.0,6.9,Yes,Hostel,8,4.6,53.7,57.0,Medium,2026-09-30 07:21:54,SYNTHETIC
+SYN0399,Strathmore University,BSc Information Technology,4,8.0,69.0,100.0,6.3,Yes,Hostel,5,2.3,54.4,55.7,Medium,2026-09-30 07:23:03,SYNTHETIC
+SYN0400,Maseno University,BSc Information Technology,1,14.0,93.0,81.0,9.4,Yes,Library,7,1.7,57.0,58.2,Medium,2026-09-30 07:31:01,SYNTHETIC
+SYN0401,Jomo Kenyatta University of Agriculture and Technology,BSc Mathematics,4,21.0,68.0,84.0,6.6,Yes,Library,7,3.3,57.8,60.4,High,2026-09-30 08:32:06,SYNTHETIC
+SYN0402,Jomo Kenyatta University of Agriculture and Technology,BSc Civil Engineering,3,5.0,69.0,100.0,8.4,Yes,Classroom,8,3.7,70.9,62.8,High,2026-09-30 16:09:05,SYNTHETIC
+SYN0403,Strathmore University,BSc Computer Science,2,11.0,80.0,88.0,7.3,Yes,Classroom,4,0.0,57.4,63.4,High,2026-09-30 16:57:58,SYNTHETIC
+SYN0404,Egerton University,BSc Statistics and Data Science,3,4.0,82.0,69.0,7.3,Yes,Other,7,4.1,46.0,53.4,Medium,2026-09-30 17:14:03,SYNTHETIC
+SYN0405,Egerton University,BSc Nursing,4,24.0,88.0,89.0,6.1,Yes,Home,8,3.1,68.7,59.4,Medium,2026-09-30 18:11:08,SYNTHETIC
+SYN0406,University of Nairobi,Bachelor of Education (Arts),3,7.0,73.0,85.0,7.1,Yes,Home,7,2.9,,55.7,Medium,2026-09-30 18:28:33,SYNTHETIC
+SYN0407,Kenyatta University,BA Journalism and Mass Communication,3,2.0,80.0,79.0,4.9,Yes,Home,5,5.1,34.3,37.1,Low,2026-09-30 18:42:11,SYNTHETIC
+SYN0408,Egerton University,Bachelor of Education (Science),4,21.0,74.0,89.0,4.7,Yes,Library,7,2.0,56.9,62.0,High,2026-09-30 19:40:35,SYNTHETIC
+SYN0409,Strathmore University,BSc Nursing,4,5.0,74.0,78.0,6.9,No,Home,7,5.3,50.5,62.1,High,2026-09-30 21:24:55,SYNTHETIC
+SYN0410,Mount Kenya University,BA Journalism and Mass Communication,3,13.0,69.0,100.0,7.0,Yes,Home,7,3.4,79.8,74.1,High,2026-09-30 21:43:53,SYNTHETIC
+SYN0411,Masinde Muliro University of Science and Technology,Bachelor of Education (Science),2,8.0,76.0,85.0,7.8,Yes,Home,8,3.4,68.7,57.0,Medium,2026-09-30 22:31:59,SYNTHETIC
+SYN0412,Mount Kenya University,Bachelor of Education (Science),4,12.0,87.0,100.0,8.2,Yes,Home,7,2.8,47.5,45.6,Low,2026-09-30 22:58:08,SYNTHETIC
+SYN0413,Technical University of Kenya,Bachelor of Commerce,4,7.0,86.0,77.0,4.4,Yes,Classroom,6,0.7,47.3,49.5,Low,2026-09-30 23:33:42,SYNTHETIC
+SYN0414,Egerton University,Bachelor of Commerce,1,2.0,51.0,52.0,5.7,No,Library,7,5.2,69.5,61.1,High,2026-09-30 23:51:38,SYNTHETIC
+SYN0415,Jomo Kenyatta University of Agriculture and Technology,BSc Information Technology,1,7.0,67.0,66.0,7.3,Yes,Library,7,5.9,61.0,59.9,Medium,2026-10-01 00:02:40,SYNTHETIC
+SYN0416,Moi University,BSc Electrical and Electronic Engineering,1,12.0,79.0,75.0,7.2,Yes,Hostel,8,2.6,63.8,65.9,High,2026-10-01 01:45:28,SYNTHETIC
+SYN0417,Egerton University,BSc Information Technology,3,13.0,60.0,59.0,4.1,Yes,Home,7,4.2,46.1,52.7,Medium,2026-10-01 02:34:35,SYNTHETIC
+SYN0418,Moi University,BSc Computer Science,2,0.0,38.0,46.0,6.8,Yes,Home,6,3.3,39.3,37.9,Low,2026-10-01 03:29:59,SYNTHETIC
+SYN0419,Kenyatta University,Bachelor of Medicine and Surgery (MBChB),2,16.0,70.0,83.0,7.7,Yes,Library,7,3.6,70.5,63.1,High,2026-10-01 04:20:45,SYNTHETIC
+SYN0420,Maseno University,Bachelor of Education (Arts),1,16.0,85.0,80.0,6.3,Yes,Home,6,1.3,75.9,70.2,High,2026-10-01 06:11:10,SYNTHETIC
+SYN0421,Jomo Kenyatta University of Agriculture and Technology,BA Journalism and Mass Communication,4,12.0,67.0,76.0,5.6,Yes,Home,6,1.6,59.1,59.9,Medium,2026-10-01 06:40:50,SYNTHETIC
+SYN0422,Technical University of Kenya,Bachelor of Commerce,3,18.0,70.0,84.0,6.0,Yes,Home,6,2.7,59.7,56.1,Medium,2026-10-01 07:15:31,SYNTHETIC
+SYN0423,Kenyatta University,Bachelor of Laws (LLB),2,0.0,41.0,31.0,6.1,Yes,Library,5,6.8,52.6,42.6,Low,2026-10-01 10:58:44,SYNTHETIC
+SYN0424,Egerton University,BSc Computer Science,2,21.0,94.0,64.0,5.7,Yes,Home,7,4.3,50.0,49.4,Low,2026-10-01 14:15:51,SYNTHETIC
+SYN0425,Mount Kenya University,BSc Mathematics,3,6.0,80.0,62.0,5.7,Yes,Other,4,4.5,55.1,42.8,Low,2026-10-01 15:32:56,SYNTHETIC
+SYN0426,Kenyatta University,Bachelor of Education (Arts),3,17.0,74.0,78.0,8.4,No,Classroom,4,-0.0,48.6,52.8,Medium,2026-10-01 16:46:53,SYNTHETIC
+SYN0427,Africa Nazarene University,Bachelor of Laws (LLB),4,17.0,50.0,63.0,7.5,Yes,Classroom,8,2.9,51.6,43.2,Low,2026-10-01 17:46:41,SYNTHETIC
+SYN0428,Strathmore University,BA Economics,1,17.0,72.0,73.0,4.8,Yes,Home,8,3.0,65.2,67.5,High,2026-10-01 18:37:12,SYNTHETIC
+SYN0429,Catholic University of Eastern Africa,Bachelor of Commerce,1,9.0,72.0,91.0,6.3,Yes,Other,7,1.9,37.5,61.6,High,2026-10-01 20:48:30,SYNTHETIC
+SYN0430,Jomo Kenyatta University of Agriculture and Technology,Bachelor of Commerce,2,10.0,55.0,93.0,7.0,Yes,Other,4,7.1,42.8,41.1,Low,2026-10-01 22:56:13,SYNTHETIC
+SYN0431,Multimedia University of Kenya,Bachelor of Laws (LLB),1,14.0,69.0,75.0,5.7,Yes,Library,7,5.6,55.3,56.6,Medium,2026-10-01 23:03:38,SYNTHETIC
+SYN0432,University of Nairobi,Bachelor of Education (Science),2,17.0,76.0,80.0,6.8,Yes,Hostel,8,4.0,59.4,46.8,Low,2026-10-02 00:22:25,SYNTHETIC
+SYN0433,Technical University of Kenya,Bachelor of Medicine and Surgery (MBChB),1,6.0,62.0,46.0,7.0,Yes,Hostel,7,5.2,31.8,38.6,Low,2026-10-02 00:55:50,SYNTHETIC
+SYN0434,Kabarak University,BSc Electrical and Electronic Engineering,3,13.0,63.0,54.0,6.2,Yes,Home,7,2.3,39.9,47.3,Low,2026-10-02 02:27:33,SYNTHETIC
+SYN0435,Strathmore University,Bachelor of Education (Arts),1,15.0,60.0,73.0,8.7,No,Home,7,4.6,41.3,46.8,Low,2026-10-02 02:44:11,SYNTHETIC
+SYN0436,University of Nairobi,BSc Civil Engineering,2,11.0,83.0,100.0,8.1,Yes,Home,8,3.8,49.3,51.7,Medium,2026-10-02 03:32:41,SYNTHETIC
+SYN0437,Technical University of Kenya,BSc Electrical and Electronic Engineering,3,4.0,67.0,78.0,5.1,Yes,Hostel,5,3.8,41.2,36.9,Low,2026-10-02 04:59:15,SYNTHETIC
+SYN0438,Multimedia University of Kenya,Bachelor of Medicine and Surgery (MBChB),3,12.0,83.0,44.0,8.3,Yes,Home,4,3.5,39.2,38.1,Low,2026-10-02 05:50:33,SYNTHETIC
+SYN0439,Multimedia University of Kenya,Bachelor of Medicine and Surgery (MBChB),4,13.0,82.0,92.0,7.3,No,Home,8,5.7,63.7,62.4,High,2026-10-02 07:18:07,SYNTHETIC
+SYN0440,University of Nairobi,BSc Information Technology,1,10.0,79.0,82.0,9.0,Yes,Hostel,7,2.2,63.8,62.5,High,2026-10-02 07:56:15,SYNTHETIC
+SYN0441,KCA University,BSc Agriculture,3,0.0,52.0,34.0,5.8,Yes,Hostel,6,,42.1,34.4,Low,2026-10-02 09:08:36,SYNTHETIC
+SYN0442,Masinde Muliro University of Science and Technology,BSc Statistics and Data Science,3,21.0,100.0,94.0,7.6,Yes,Other,5,2.7,58.7,63.3,High,2026-10-02 09:45:38,SYNTHETIC
+SYN0443,Moi University,Bachelor of Medicine and Surgery (MBChB),2,1.0,79.0,81.0,4.6,No,Hostel,7,3.5,62.2,48.2,Low,2026-10-02 10:06:26,SYNTHETIC
+SYN0444,Maseno University,BSc Nursing,2,18.0,73.0,100.0,7.1,No,Home,7,3.3,57.6,53.4,Medium,2026-10-02 10:43:39,SYNTHETIC
+SYN0445,Maseno University,BSc Nursing,3,27.0,66.0,75.0,4.1,Yes,Hostel,8,5.9,,53.5,Medium,2026-10-02 11:27:28,SYNTHETIC
+SYN0446,United States International University-Africa,BSc Mathematics,2,24.0,79.0,100.0,7.5,Yes,Library,6,4.8,69.8,77.7,High,2026-10-02 12:53:26,SYNTHETIC
+SYN0447,Technical University of Kenya,Bachelor of Commerce,4,5.0,82.0,100.0,,No,Home,8,6.9,50.7,39.5,Low,2026-10-02 14:10:58,SYNTHETIC
+SYN0448,Dedan Kimathi University of Technology,BA Economics,2,22.0,86.0,92.0,8.8,No,Home,7,3.7,76.6,69.8,High,2026-10-02 14:26:32,SYNTHETIC
+SYN0449,Kenyatta University,BA Journalism and Mass Communication,3,11.0,63.0,55.0,7.5,Yes,Library,5,5.1,64.4,55.8,Medium,2026-10-02 16:32:54,SYNTHETIC
+SYN0450,Kabarak University,BSc Agriculture,3,14.0,84.0,100.0,7.5,No,Other,5,6.6,42.8,51.0,Medium,2026-10-02 17:02:39,SYNTHETIC
+SYN0451,Moi University,BSc Mathematics,4,22.0,85.0,99.0,6.4,Yes,Library,7,5.4,70.2,57.5,Medium,2026-10-02 18:17:26,SYNTHETIC
+SYN0452,Jomo Kenyatta University of Agriculture and Technology,BSc Civil Engineering,2,7.0,76.0,82.0,5.7,Yes,Other,9,3.1,62.3,63.9,High,2026-10-02 18:45:10,SYNTHETIC
+SYN0453,Maseno University,BSc Mathematics,3,0.0,67.0,87.0,5.6,Yes,Hostel,5,2.2,64.3,60.8,High,2026-10-02 19:21:38,SYNTHETIC
+SYN0454,Kenyatta University,BSc Statistics and Data Science,1,9.0,73.0,79.0,6.1,Yes,Hostel,7,3.3,72.2,69.8,High,2026-10-02 19:51:51,SYNTHETIC
+SYN0455,Egerton University,BA Economics,2,21.0,78.0,100.0,6.0,No,Home,6,5.2,45.7,64.2,High,2026-10-02 20:18:53,SYNTHETIC
+SYN0456,KCA University,Bachelor of Commerce,4,14.0,86.0,69.0,5.7,Yes,Home,6,0.9,58.7,48.6,Low,2026-10-02 21:11:47,SYNTHETIC
+SYN0457,Technical University of Kenya,Bachelor of Education (Arts),4,2.0,73.0,51.0,5.3,Yes,Other,5,3.4,53.0,60.3,High,2026-10-02 21:36:24,SYNTHETIC
+SYN0458,University of Nairobi,BA Economics,2,18.0,77.0,70.0,6.6,Yes,Home,7,4.8,55.9,58.6,Medium,2026-10-02 21:43:23,SYNTHETIC
+SYN0459,Strathmore University,BSc Nursing,4,11.0,96.0,91.0,9.0,Yes,Home,5,2.0,51.2,50.0,Medium,2026-10-02 22:13:49,SYNTHETIC
+SYN0460,Kenyatta University,BSc Information Technology,4,13.0,82.0,66.0,5.0,Yes,Library,6,3.8,58.7,47.5,Low,2026-10-02 22:29:48,SYNTHETIC
+SYN0461,Multimedia University of Kenya,BSc Statistics and Data Science,1,15.0,83.0,100.0,5.5,Yes,Library,6,4.7,67.3,58.0,Medium,2026-10-02 23:01:14,SYNTHETIC
+SYN0462,Africa Nazarene University,BSc Statistics and Data Science,2,6.0,67.0,66.0,6.1,No,Hostel,7,3.6,56.6,51.5,Medium,2026-10-02 23:19:59,SYNTHETIC
+SYN0463,Mount Kenya University,BSc Computer Science,2,20.0,89.0,88.0,6.4,Yes,Library,10,1.0,54.4,51.9,Medium,2026-10-03 00:28:43,SYNTHETIC
+SYN0464,University of Nairobi,BSc Nursing,4,3.0,81.0,94.0,5.7,No,Library,6,5.2,68.3,69.6,High,2026-10-03 00:32:48,SYNTHETIC
+SYN0465,Masinde Muliro University of Science and Technology,Bachelor of Education (Arts),3,24.0,100.0,94.0,8.2,Yes,Hostel,5,4.5,63.9,54.6,Medium,2026-10-03 00:41:42,SYNTHETIC
+SYN0466,United States International University-Africa,Bachelor of Laws (LLB),2,21.0,87.0,72.0,6.9,Yes,Hostel,7,5.6,66.9,57.3,Medium,2026-10-03 03:07:45,SYNTHETIC
+SYN0467,Mount Kenya University,Bachelor of Laws (LLB),1,11.0,71.0,72.0,5.6,Yes,Library,4,3.4,52.6,51.5,Medium,2026-10-03 03:11:02,SYNTHETIC
+SYN0468,Kenyatta University,Bachelor of Business Information Technology,3,15.0,88.0,86.0,5.8,Yes,Home,6,5.2,45.8,41.9,Low,2026-10-03 03:36:44,SYNTHETIC
+SYN0469,Daystar University,BSc Computer Science,2,26.0,86.0,87.0,8.0,No,Classroom,5,3.3,74.1,73.0,High,2026-10-03 03:39:29,SYNTHETIC
+SYN0470,Kabarak University,Bachelor of Commerce,2,14.0,85.0,100.0,8.2,Yes,Library,6,2.6,56.7,64.9,High,2026-10-03 03:56:48,SYNTHETIC
+SYN0471,Egerton University,Bachelor of Education (Science),4,12.0,87.0,87.0,7.0,Yes,Home,6,3.5,,56.2,Medium,2026-10-03 04:28:47,SYNTHETIC
+SYN0472,Mount Kenya University,Bachelor of Commerce,2,6.0,76.0,68.0,7.2,Yes,Other,6,2.8,64.8,66.6,High,2026-10-03 08:17:03,SYNTHETIC
+SYN0473,Other (not listed),BSc Mathematics,2,21.0,83.0,74.0,6.2,Yes,Library,8,2.5,61.3,63.1,High,2026-10-03 08:50:32,SYNTHETIC
+SYN0474,Mount Kenya University,BSc Nursing,3,11.0,100.0,100.0,8.0,Yes,Home,6,3.0,66.9,63.8,High,2026-10-03 09:00:41,SYNTHETIC
+SYN0475,Other (not listed),BSc Nursing,4,11.0,74.0,87.0,6.7,Yes,Other,5,3.0,69.6,54.8,Medium,2026-10-03 09:26:14,SYNTHETIC
+SYN0476,Jomo Kenyatta University of Agriculture and Technology,BSc Statistics and Data Science,3,0.0,71.0,93.0,5.5,Yes,Hostel,8,5.8,57.0,45.5,Low,2026-10-03 09:52:56,SYNTHETIC
+SYN0477,Maseno University,Bachelor of Commerce,2,18.0,98.0,100.0,6.5,Yes,Library,6,5.6,68.3,59.4,Medium,2026-10-03 10:51:35,SYNTHETIC
+SYN0478,Jomo Kenyatta University of Agriculture and Technology,Bachelor of Medicine and Surgery (MBChB),2,13.0,64.0,67.0,7.3,Yes,Home,6,0.0,47.7,43.8,Low,2026-10-03 13:52:53,SYNTHETIC
+SYN0479,Catholic University of Eastern Africa,Bachelor of Education (Science),2,23.0,97.0,76.0,6.1,No,Other,7,3.4,74.1,61.5,High,2026-10-03 14:21:17,SYNTHETIC
+SYN0480,Africa Nazarene University,BSc Computer Science,1,13.0,79.0,84.0,5.1,Yes,Home,7,0.6,59.1,54.0,Medium,2026-10-03 14:39:20,SYNTHETIC
+SYN0481,Multimedia University of Kenya,BSc Agriculture,2,8.0,85.0,59.0,5.8,Yes,Hostel,7,4.5,42.5,48.4,Low,2026-10-03 14:39:49,SYNTHETIC
+SYN0482,Kabarak University,BSc Mathematics,2,11.0,81.0,76.0,7.4,Yes,Hostel,5,3.8,73.4,61.2,High,2026-10-03 15:15:51,SYNTHETIC
+SYN0483,Jomo Kenyatta University of Agriculture and Technology,BSc Information Technology,3,9.0,57.0,79.0,6.2,Yes,Classroom,5,3.1,54.6,52.3,Medium,2026-10-03 15:52:24,SYNTHETIC
+SYN0484,Multimedia University of Kenya,BSc Information Technology,3,3.0,74.0,82.0,6.4,No,Home,4,0.1,54.9,64.7,High,2026-10-03 15:54:51,SYNTHETIC
+SYN0485,Mount Kenya University,BSc Computer Science,3,9.0,82.0,88.0,6.4,Yes,Classroom,6,5.3,47.6,64.9,High,2026-10-03 16:10:04,SYNTHETIC
+SYN0486,Strathmore University,BA Economics,3,23.0,71.0,73.0,5.0,Yes,Home,6,7.3,67.0,63.6,High,2026-10-03 16:11:56,SYNTHETIC
+SYN0487,Catholic University of Eastern Africa,BSc Civil Engineering,3,3.0,86.0,100.0,7.5,Yes,Library,7,4.0,67.4,53.6,Medium,2026-10-03 16:35:46,SYNTHETIC
+SYN0488,Strathmore University,BSc Information Technology,2,22.0,74.0,99.0,5.6,Yes,Library,4,0.2,38.8,56.9,Medium,2026-10-03 16:43:39,SYNTHETIC
+SYN0489,Jomo Kenyatta University of Agriculture and Technology,BSc Information Technology,3,30.0,100.0,90.0,7.0,Yes,Hostel,6,1.7,63.4,66.0,High,2026-10-03 17:27:22,SYNTHETIC
+SYN0490,KCA University,BSc Information Technology,1,28.0,85.0,100.0,7.9,Yes,Library,5,0.4,70.7,67.0,High,2026-10-03 18:30:25,SYNTHETIC
+SYN0491,Moi University,BA Economics,4,5.0,71.0,64.0,6.9,Yes,Library,6,2.6,56.1,48.5,Low,2026-10-03 19:38:30,SYNTHETIC
+SYN0492,Moi University,BSc Computer Science,3,22.0,81.0,92.0,6.3,No,Home,5,1.8,62.1,53.8,Medium,2026-10-03 21:00:04,SYNTHETIC
+SYN0493,Dedan Kimathi University of Technology,BSc Agriculture,3,7.0,54.0,70.0,5.3,Yes,Other,8,5.2,46.5,48.0,Low,2026-10-04 00:21:38,SYNTHETIC
+SYN0494,Technical University of Kenya,BSc Computer Science,3,9.0,68.0,68.0,4.6,Yes,Hostel,6,2.1,61.9,69.1,High,2026-10-04 00:27:17,SYNTHETIC
+SYN0495,Jomo Kenyatta University of Agriculture and Technology,BSc Information Technology,3,15.0,64.0,59.0,5.9,Yes,Library,5,5.1,46.0,55.0,Medium,2026-10-04 01:53:58,SYNTHETIC
+SYN0496,Strathmore University,BSc Electrical and Electronic Engineering,3,10.0,82.0,83.0,8.5,Yes,Other,7,4.6,58.1,59.4,Medium,2026-10-04 03:36:53,SYNTHETIC
+SYN0497,Other (not listed),Bachelor of Medicine and Surgery (MBChB),1,20.0,76.0,94.0,7.6,Yes,Library,6,1.0,59.2,64.1,High,2026-10-04 04:26:48,SYNTHETIC
+SYN0498,Daystar University,BSc Electrical and Electronic Engineering,2,16.0,89.0,81.0,6.0,No,Home,7,4.2,66.3,75.0,High,2026-10-04 05:56:24,SYNTHETIC
+SYN0499,Daystar University,BSc Information Technology,4,15.0,66.0,82.0,5.7,Yes,Library,6,5.4,57.3,51.3,Medium,2026-10-04 06:50:39,SYNTHETIC
+SYN0500,Strathmore University,BSc Nursing,1,8.0,55.0,43.0,7.1,Yes,Classroom,6,5.1,50.4,38.7,Low,2026-10-04 07:16:52,SYNTHETIC
+SYN0501,Jomo Kenyatta University of Agriculture and Technology,Bachelor of Business Information Technology,1,3.0,89.0,78.0,4.5,No,Library,7,4.4,55.5,59.9,Medium,2026-10-04 07:24:30,SYNTHETIC
+SYN0502,Dedan Kimathi University of Technology,Bachelor of Laws (LLB),4,10.0,67.0,84.0,9.4,Yes,Hostel,6,7.0,47.4,52.3,Medium,2026-10-04 07:55:42,SYNTHETIC
+SYN0503,Masinde Muliro University of Science and Technology,BSc Biochemistry,4,14.0,85.0,100.0,6.7,Yes,Hostel,6,3.4,61.9,59.3,Medium,2026-10-04 08:29:03,SYNTHETIC
+SYN0504,Maseno University,Bachelor of Commerce,3,7.0,69.0,95.0,7.1,Yes,Classroom,8,1.8,70.1,75.8,High,2026-10-04 09:04:11,SYNTHETIC
+SYN0505,Jomo Kenyatta University of Agriculture and Technology,Bachelor of Education (Arts),2,9.0,87.0,82.0,5.7,Yes,Library,6,3.9,71.9,77.0,High,2026-10-04 09:28:03,SYNTHETIC
+SYN0506,United States International University-Africa,Bachelor of Education (Science),4,7.0,89.0,80.0,8.6,Yes,Library,8,1.6,58.2,61.8,High,2026-10-04 09:36:24,SYNTHETIC
+SYN0507,Egerton University,BSc Electrical and Electronic Engineering,2,21.0,97.0,81.0,6.8,Yes,Library,6,3.8,66.5,61.8,High,2026-10-04 11:52:51,SYNTHETIC
+SYN0508,Strathmore University,BSc Statistics and Data Science,3,6.0,81.0,60.0,9.1,Yes,Classroom,7,3.1,46.9,50.1,Medium,2026-10-04 13:21:56,SYNTHETIC
+SYN0509,Moi University,BSc Computer Science,4,7.0,78.0,84.0,6.4,Yes,Other,4,2.9,55.0,53.2,Medium,2026-10-04 14:13:05,SYNTHETIC
+SYN0510,Masinde Muliro University of Science and Technology,BSc Agriculture,2,10.0,64.0,76.0,7.8,Yes,Home,7,3.0,44.4,56.5,Medium,2026-10-04 14:41:14,SYNTHETIC
+SYN0511,Kenyatta University,BSc Computer Science,1,14.0,81.0,92.0,6.5,Yes,Home,5,1.6,54.9,63.6,High,2026-10-04 15:32:51,SYNTHETIC
+SYN0512,University of Nairobi,BSc Information Technology,1,15.0,87.0,84.0,6.1,No,Library,6,5.1,63.4,57.2,Medium,2026-10-04 15:41:38,SYNTHETIC
+SYN0513,Mount Kenya University,BA Journalism and Mass Communication,1,29.0,87.0,100.0,6.6,Yes,Classroom,9,4.6,64.5,64.3,High,2026-10-04 15:52:16,SYNTHETIC
+SYN0514,Egerton University,BA Economics,4,14.0,67.0,48.0,7.1,Yes,Home,7,1.8,67.7,67.5,High,2026-10-04 16:11:34,SYNTHETIC
+SYN0515,Dedan Kimathi University of Technology,Bachelor of Laws (LLB),1,23.0,84.0,79.0,7.9,Yes,Classroom,8,3.0,50.6,43.4,Low,2026-10-04 16:48:44,SYNTHETIC
+SYN0516,Catholic University of Eastern Africa,BSc Mathematics,2,12.0,83.0,80.0,7.1,Yes,Hostel,6,3.0,59.1,61.4,High,2026-10-04 17:47:38,SYNTHETIC
+SYN0517,Kenyatta University,Bachelor of Laws (LLB),3,14.0,58.0,88.0,6.3,Yes,Home,6,2.2,54.0,55.2,Medium,2026-10-04 18:10:50,SYNTHETIC
+SYN0518,Moi University,BSc Computer Science,3,11.0,93.0,74.0,6.2,Yes,Classroom,9,3.0,66.6,66.9,High,2026-10-04 19:46:03,SYNTHETIC
+SYN0519,Multimedia University of Kenya,Bachelor of Education (Arts),3,8.0,61.0,74.0,6.3,Yes,Hostel,6,2.3,53.9,58.6,Medium,2026-10-04 20:16:04,SYNTHETIC
+SYN0520,Moi University,Bachelor of Business Information Technology,3,23.0,82.0,99.0,8.9,Yes,Home,7,3.2,66.5,60.7,High,2026-10-04 21:42:27,SYNTHETIC
+SYN0521,United States International University-Africa,BSc Biochemistry,1,19.0,100.0,77.0,7.5,No,Other,4,1.0,63.2,57.0,Medium,2026-10-04 22:12:03,SYNTHETIC
+SYN0522,Kenyatta University,BSc Electrical and Electronic Engineering,2,9.0,48.0,80.0,7.0,Yes,Classroom,4,5.2,50.9,51.1,Medium,2026-10-04 23:10:27,SYNTHETIC
+SYN0523,Mount Kenya University,BSc Statistics and Data Science,3,17.0,90.0,98.0,10.0,Yes,Home,5,0.3,76.6,71.1,High,2026-10-05 00:45:41,SYNTHETIC
+SYN0524,Egerton University,BSc Statistics and Data Science,2,21.0,59.0,56.0,6.4,No,Home,7,5.1,54.5,57.7,Medium,2026-10-05 01:46:28,SYNTHETIC
+SYN0525,United States International University-Africa,Bachelor of Medicine and Surgery (MBChB),1,10.0,95.0,72.0,6.0,Yes,Library,6,3.9,63.5,44.6,Low,2026-10-05 01:55:10,SYNTHETIC
+SYN0526,Jomo Kenyatta University of Agriculture and Technology,BSc Computer Science,4,9.0,77.0,84.0,6.3,Yes,Library,8,1.9,48.5,41.8,Low,2026-10-05 01:57:38,SYNTHETIC
+SYN0527,Other (not listed),BA Journalism and Mass Communication,1,19.0,76.0,75.0,7.6,No,Other,7,5.5,67.8,77.5,High,2026-10-05 04:52:07,SYNTHETIC
+SYN0528,University of Nairobi,BSc Computer Science,3,4.0,53.0,79.0,6.7,Yes,Home,5,5.3,50.6,60.3,High,2026-10-05 04:57:57,SYNTHETIC
+SYN0529,University of Nairobi,BA Journalism and Mass Communication,1,19.0,69.0,92.0,6.4,Yes,Library,7,4.6,49.0,55.6,Medium,2026-10-05 06:18:28,SYNTHETIC
+SYN0530,Kenyatta University,BSc Nursing,3,18.0,60.0,69.0,5.6,Yes,Classroom,8,6.0,58.4,57.3,Medium,2026-10-05 07:21:28,SYNTHETIC
+SYN0531,Mount Kenya University,Bachelor of Education (Science),4,7.0,96.0,68.0,5.7,No,Home,6,4.0,53.5,73.0,High,2026-10-05 08:03:59,SYNTHETIC
+SYN0532,Multimedia University of Kenya,BSc Computer Science,4,12.0,87.0,93.0,7.0,Yes,Home,8,1.7,50.6,45.5,Low,2026-10-05 08:14:53,SYNTHETIC
+SYN0533,Technical University of Kenya,BSc Computer Science,1,23.0,92.0,77.0,8.1,No,Hostel,6,4.4,55.8,61.1,High,2026-10-05 09:12:20,SYNTHETIC
+SYN0534,Daystar University,BSc Computer Science,4,7.0,75.0,71.0,4.7,Yes,Library,5,4.2,47.0,48.5,Low,2026-10-05 09:55:56,SYNTHETIC
+SYN0535,Mount Kenya University,BSc Computer Science,4,16.0,86.0,90.0,7.0,Yes,Home,7,4.5,68.1,58.7,Medium,2026-10-05 10:15:14,SYNTHETIC
+SYN0536,Mount Kenya University,Bachelor of Education (Arts),2,14.0,95.0,97.0,5.9,No,Home,7,3.2,57.0,62.4,High,2026-10-05 10:27:00,SYNTHETIC
+SYN0537,Egerton University,BSc Electrical and Electronic Engineering,3,16.0,71.0,82.0,5.3,Yes,Home,6,2.0,46.7,59.3,Medium,2026-10-05 14:58:58,SYNTHETIC
+SYN0538,Moi University,BSc Civil Engineering,4,21.0,73.0,100.0,8.5,Yes,Home,6,1.7,47.1,52.0,Medium,2026-10-05 15:08:58,SYNTHETIC
+SYN0539,Daystar University,BSc Computer Science,4,13.0,78.0,87.0,6.8,Yes,Home,7,3.1,62.2,55.6,Medium,2026-10-05 18:47:47,SYNTHETIC
+SYN0540,United States International University-Africa,BSc Nursing,2,20.0,90.0,98.0,6.7,Yes,Hostel,5,1.4,55.4,64.1,High,2026-10-05 21:27:36,SYNTHETIC
+SYN0541,Jomo Kenyatta University of Agriculture and Technology,BSc Computer Science,4,15.0,92.0,99.0,7.3,Yes,Home,5,3.0,62.9,60.5,High,2026-10-05 22:20:41,SYNTHETIC
+SYN0542,Mount Kenya University,BA Journalism and Mass Communication,2,0.0,72.0,59.0,8.2,Yes,Home,5,4.5,34.4,31.4,Low,2026-10-05 22:56:00,SYNTHETIC
+SYN0543,Moi University,Bachelor of Commerce,2,1.0,90.0,85.0,,No,Home,8,4.4,61.1,59.7,Medium,2026-10-05 23:10:03,SYNTHETIC
+SYN0544,Strathmore University,BSc Nursing,4,7.0,67.0,75.0,7.1,Yes,Other,8,5.2,55.2,53.6,Medium,2026-10-06 01:41:44,SYNTHETIC
+SYN0545,Moi University,BSc Statistics and Data Science,2,16.0,94.0,67.0,5.8,No,Library,8,4.6,57.7,50.7,Medium,2026-10-06 01:51:20,SYNTHETIC
+SYN0546,Multimedia University of Kenya,Bachelor of Education (Arts),4,7.0,80.0,72.0,6.6,Yes,Library,9,7.5,52.0,53.6,Medium,2026-10-06 04:32:20,SYNTHETIC
+SYN0547,University of Nairobi,BSc Nursing,2,11.0,86.0,95.0,7.7,Yes,Classroom,5,2.6,51.3,53.9,Medium,2026-10-06 05:17:47,SYNTHETIC
+SYN0548,Moi University,Bachelor of Medicine and Surgery (MBChB),1,20.0,89.0,75.0,6.6,No,Library,3,4.6,71.1,77.1,High,2026-10-06 08:20:36,SYNTHETIC
+SYN0549,Strathmore University,BA Journalism and Mass Communication,2,2.0,60.0,73.0,,Yes,Classroom,6,2.2,43.5,43.3,Low,2026-10-06 09:07:58,SYNTHETIC
+SYN0550,Maseno University,Bachelor of Commerce,4,11.0,68.0,79.0,5.1,Yes,Library,4,3.5,48.7,44.1,Low,2026-10-06 11:10:43,SYNTHETIC
+SYN0551,KCA University,BSc Information Technology,3,7.0,56.0,79.0,5.0,Yes,Home,5,4.3,58.7,50.9,Medium,2026-10-06 12:16:02,SYNTHETIC
+SYN0552,Multimedia University of Kenya,Bachelor of Commerce,3,8.0,75.0,89.0,7.8,Yes,Library,6,3.0,66.0,64.5,High,2026-10-06 12:24:04,SYNTHETIC
+SYN0553,Dedan Kimathi University of Technology,BSc Computer Science,2,6.0,77.0,53.0,5.1,No,Hostel,6,3.0,50.4,46.1,Low,2026-10-06 13:04:34,SYNTHETIC
+SYN0554,United States International University-Africa,BSc Computer Science,1,0.0,60.0,81.0,5.5,Yes,Home,6,5.5,59.2,64.2,High,2026-10-06 14:56:23,SYNTHETIC
+SYN0555,Moi University,BSc Biochemistry,3,10.0,81.0,100.0,7.9,Yes,Other,5,3.7,69.3,68.3,High,2026-10-06 17:38:57,SYNTHETIC
+SYN0556,Maseno University,BSc Agriculture,4,18.0,81.0,71.0,6.4,Yes,Home,5,0.9,77.4,64.8,High,2026-10-06 18:08:04,SYNTHETIC
+SYN0557,Moi University,BSc Computer Science,3,5.0,87.0,86.0,7.2,Yes,Library,6,6.9,46.1,59.9,Medium,2026-10-06 18:55:48,SYNTHETIC
+SYN0558,Jomo Kenyatta University of Agriculture and Technology,Bachelor of Business Information Technology,4,13.0,67.0,76.0,6.6,Yes,Library,4,3.1,52.0,69.7,High,2026-10-06 19:29:41,SYNTHETIC
+SYN0559,Moi University,BSc Computer Science,1,8.0,90.0,54.0,5.6,No,Home,7,3.2,51.8,43.2,Low,2026-10-06 20:03:41,SYNTHETIC
+SYN0560,Kenyatta University,Bachelor of Education (Science),3,12.0,76.0,68.0,5.9,Yes,Hostel,6,3.7,60.6,41.1,Low,2026-10-06 20:13:36,SYNTHETIC
+SYN0561,Egerton University,Bachelor of Laws (LLB),3,12.0,54.0,100.0,6.8,Yes,Library,8,3.1,65.8,57.4,Medium,2026-10-06 22:02:43,SYNTHETIC
+SYN0562,KCA University,BSc Electrical and Electronic Engineering,2,18.0,100.0,62.0,6.2,No,Library,9,3.7,55.9,59.5,Medium,2026-10-06 22:23:01,SYNTHETIC
+SYN0563,Masinde Muliro University of Science and Technology,BSc Biochemistry,2,2.0,98.0,86.0,7.4,Yes,Classroom,6,4.3,51.6,52.6,Medium,2026-10-07 00:04:37,SYNTHETIC
+SYN0564,Jomo Kenyatta University of Agriculture and Technology,BSc Electrical and Electronic Engineering,4,23.0,68.0,88.0,5.3,Yes,Library,7,3.4,48.4,45.9,Low,2026-10-07 03:11:26,SYNTHETIC
+SYN0565,Other (not listed),BSc Electrical and Electronic Engineering,4,31.0,67.0,100.0,7.9,Yes,Other,8,1.9,85.2,80.4,High,2026-10-07 04:31:33,SYNTHETIC
+SYN0566,Kenyatta University,BSc Agriculture,3,17.0,100.0,77.0,7.0,Yes,Home,7,3.5,62.6,57.8,Medium,2026-10-07 04:46:36,SYNTHETIC
+SYN0567,Kenyatta University,Bachelor of Commerce,3,16.0,64.0,80.0,4.0,Yes,Home,4,4.4,53.4,48.5,Low,2026-10-07 05:25:25,SYNTHETIC
+SYN0568,Kenyatta University,BSc Information Technology,3,12.0,95.0,88.0,7.0,Yes,Library,6,3.0,63.7,65.9,High,2026-10-07 05:47:47,SYNTHETIC
+SYN0569,University of Nairobi,Bachelor of Commerce,1,4.0,83.0,54.0,6.3,Yes,Library,5,4.7,50.9,48.8,Low,2026-10-07 06:14:50,SYNTHETIC
+SYN0570,Mount Kenya University,BSc Electrical and Electronic Engineering,3,26.0,69.0,100.0,6.9,No,Library,9,0.0,77.4,62.8,High,2026-10-07 07:56:23,SYNTHETIC
+SYN0571,Masinde Muliro University of Science and Technology,BSc Computer Science,2,8.0,61.0,97.0,6.7,No,Home,8,4.1,59.7,50.2,Medium,2026-10-07 08:00:01,SYNTHETIC
+SYN0572,Catholic University of Eastern Africa,BA Economics,2,20.0,79.0,100.0,6.2,Yes,Library,6,3.4,66.1,65.7,High,2026-10-07 08:42:48,SYNTHETIC
+SYN0573,Masinde Muliro University of Science and Technology,BA Economics,3,22.0,88.0,63.0,6.4,Yes,Library,7,3.9,77.0,72.1,High,2026-10-07 12:54:54,SYNTHETIC
+SYN0574,Jomo Kenyatta University of Agriculture and Technology,Bachelor of Commerce,3,19.0,91.0,100.0,8.3,Yes,Home,9,5.8,67.8,74.1,High,2026-10-07 13:36:37,SYNTHETIC
+SYN0575,Masinde Muliro University of Science and Technology,BSc Computer Science,2,15.0,73.0,72.0,7.5,Yes,Classroom,6,2.5,53.2,45.5,Low,2026-10-07 16:04:10,SYNTHETIC
+SYN0576,Kenyatta University,Bachelor of Commerce,4,13.0,85.0,93.0,6.1,No,Library,4,0.2,61.0,63.4,High,2026-10-07 16:20:47,SYNTHETIC
+SYN0577,Jomo Kenyatta University of Agriculture and Technology,BSc Electrical and Electronic Engineering,2,9.0,64.0,73.0,7.1,No,Other,7,2.0,69.5,61.7,High,2026-10-07 17:42:41,SYNTHETIC
+SYN0578,Strathmore University,BSc Electrical and Electronic Engineering,2,10.0,83.0,67.0,7.2,Yes,Hostel,5,5.5,46.1,46.7,Low,2026-10-07 19:00:16,SYNTHETIC
+SYN0579,Kenyatta University,BSc Civil Engineering,3,16.0,100.0,60.0,4.8,No,Home,8,5.3,49.9,48.2,Low,2026-10-07 20:33:39,SYNTHETIC
+SYN0580,United States International University-Africa,Bachelor of Education (Arts),3,0.0,90.0,82.0,5.8,Yes,Home,6,5.4,45.1,44.1,Low,2026-10-07 21:31:17,SYNTHETIC
+SYN0581,University of Nairobi,Bachelor of Commerce,1,4.0,52.0,83.0,5.5,Yes,Home,7,1.6,55.0,46.7,Low,2026-10-07 21:32:11,SYNTHETIC
+SYN0582,University of Nairobi,BSc Computer Science,4,3.0,52.0,60.0,6.3,No,Hostel,6,2.0,77.7,65.8,High,2026-10-07 23:23:19,SYNTHETIC
+SYN0583,Egerton University,Bachelor of Laws (LLB),3,8.0,71.0,56.0,6.3,No,Hostel,7,3.1,53.7,55.2,Medium,2026-10-07 23:56:04,SYNTHETIC
+SYN0584,Kenyatta University,Bachelor of Education (Arts),1,14.0,88.0,90.0,7.8,Yes,Library,5,2.8,66.7,54.9,Medium,2026-10-08 00:08:45,SYNTHETIC
+SYN0585,Other (not listed),BSc Information Technology,3,21.0,68.0,53.0,4.9,Yes,Library,6,5.0,51.6,41.8,Low,2026-10-08 00:15:41,SYNTHETIC
+SYN0586,Jomo Kenyatta University of Agriculture and Technology,BSc Information Technology,1,15.0,85.0,89.0,8.1,Yes,Classroom,7,3.5,49.2,61.9,High,2026-10-08 00:47:16,SYNTHETIC
+SYN0587,Maseno University,Bachelor of Education (Arts),1,21.0,75.0,95.0,6.6,Yes,Library,8,1.2,69.8,84.4,High,2026-10-08 05:27:59,SYNTHETIC
+SYN0588,Moi University,Bachelor of Education (Science),1,28.0,100.0,92.0,7.0,No,Home,9,3.4,65.2,73.0,High,2026-10-08 05:43:32,SYNTHETIC
+SYN0589,Technical University of Kenya,BSc Computer Science,4,14.0,60.0,52.0,4.9,Yes,Library,8,4.2,59.7,36.9,Low,2026-10-08 06:10:37,SYNTHETIC
+SYN0590,Multimedia University of Kenya,BSc Statistics and Data Science,1,14.0,83.0,84.0,6.2,Yes,Hostel,7,7.0,64.8,69.6,High,2026-10-08 06:39:33,SYNTHETIC
+SYN0591,Egerton University,Bachelor of Commerce,1,11.0,65.0,85.0,7.2,Yes,Home,5,1.9,52.9,66.3,High,2026-10-08 08:13:28,SYNTHETIC
+SYN0592,Jomo Kenyatta University of Agriculture and Technology,Bachelor of Education (Arts),4,21.0,81.0,100.0,7.8,Yes,Library,4,1.8,57.2,60.9,High,2026-10-08 10:33:34,SYNTHETIC
+SYN0593,Kabarak University,BSc Computer Science,3,9.0,92.0,79.0,5.3,Yes,Other,5,3.9,66.5,62.3,High,2026-10-08 14:08:45,SYNTHETIC
+SYN0594,Jomo Kenyatta University of Agriculture and Technology,Bachelor of Laws (LLB),2,2.0,79.0,99.0,4.8,Yes,Home,7,4.7,45.6,41.0,Low,2026-10-08 14:28:32,SYNTHETIC
+SYN0595,Technical University of Kenya,BSc Civil Engineering,1,0.0,51.0,49.0,5.5,Yes,Library,6,6.8,54.3,51.8,Medium,2026-10-08 14:58:31,SYNTHETIC
+SYN0596,Kenyatta University,BA Economics,3,11.0,84.0,87.0,7.9,Yes,Home,6,5.0,63.5,52.9,Medium,2026-10-08 14:59:31,SYNTHETIC
+SYN0597,Dedan Kimathi University of Technology,BSc Information Technology,3,16.0,73.0,67.0,,Yes,Library,8,2.8,32.8,41.1,Low,2026-10-08 15:41:40,SYNTHETIC
+SYN0598,Dedan Kimathi University of Technology,Bachelor of Commerce,2,19.0,81.0,93.0,7.0,Yes,Home,6,1.6,70.7,62.3,High,2026-10-08 17:50:10,SYNTHETIC
+SYN0599,Jomo Kenyatta University of Agriculture and Technology,BSc Biochemistry,3,22.0,74.0,81.0,7.8,Yes,Home,6,1.1,61.4,60.7,High,2026-10-08 18:38:16,SYNTHETIC
+SYN0600,Egerton University,Bachelor of Education (Science),4,9.0,75.0,100.0,4.4,Yes,Hostel,7,3.8,60.2,65.4,High,2026-10-08 20:42:50,SYNTHETIC
+SYN0601,Kenyatta University,BSc Information Technology,4,0.0,34.0,63.0,3.5,Yes,Classroom,8,5.4,32.8,32.0,Low,2026-10-08 21:03:59,SYNTHETIC
+SYN0602,Technical University of Kenya,Bachelor of Commerce,2,9.0,79.0,53.0,6.5,Yes,Other,4,1.9,58.8,47.8,Low,2026-10-08 22:55:56,SYNTHETIC
+SYN0603,Dedan Kimathi University of Technology,Bachelor of Education (Arts),4,13.0,65.0,97.0,5.8,Yes,Other,8,2.5,61.9,52.9,Medium,2026-10-08 23:45:08,SYNTHETIC
+SYN0604,United States International University-Africa,BSc Electrical and Electronic Engineering,2,12.0,100.0,60.0,6.9,Yes,Library,4,3.5,60.6,56.6,Medium,2026-10-09 02:00:22,SYNTHETIC
+SYN0605,United States International University-Africa,Bachelor of Commerce,4,0.0,84.0,66.0,6.2,Yes,Hostel,6,3.0,55.8,57.8,Medium,2026-10-09 02:24:02,SYNTHETIC
+SYN0606,University of Nairobi,BSc Information Technology,2,1.0,64.0,77.0,6.5,Yes,Home,8,5.6,39.8,41.4,Low,2026-10-09 03:30:06,SYNTHETIC
+SYN0607,Jomo Kenyatta University of Agriculture and Technology,Bachelor of Commerce,4,15.0,72.0,82.0,7.9,Yes,Classroom,6,3.1,62.4,71.5,High,2026-10-09 03:53:42,SYNTHETIC
+SYN0608,Maseno University,Bachelor of Business Information Technology,3,3.0,54.0,62.0,8.2,Yes,Hostel,8,4.7,36.9,38.3,Low,2026-10-09 05:58:58,SYNTHETIC
+SYN0609,Strathmore University,BSc Agriculture,3,19.0,74.0,100.0,5.9,Yes,Hostel,7,2.8,81.3,80.7,High,2026-10-09 07:58:28,SYNTHETIC
+SYN0610,Kabarak University,Bachelor of Education (Arts),1,14.0,96.0,83.0,6.6,Yes,Home,4,4.0,65.2,67.1,High,2026-10-09 08:35:22,SYNTHETIC
+SYN0611,Daystar University,BA Journalism and Mass Communication,1,21.0,65.0,88.0,4.7,Yes,Hostel,5,3.8,65.5,55.3,Medium,2026-10-09 09:31:18,SYNTHETIC
+SYN0612,Kenyatta University,BSc Computer Science,3,5.0,79.0,86.0,5.6,Yes,Library,7,2.8,61.0,65.5,High,2026-10-09 10:10:39,SYNTHETIC
+SYN0613,Catholic University of Eastern Africa,BSc Information Technology,3,10.0,71.0,97.0,6.1,Yes,Home,5,3.3,56.0,59.3,Medium,2026-10-09 12:31:52,SYNTHETIC
+SYN0614,Catholic University of Eastern Africa,BA Journalism and Mass Communication,2,16.0,69.0,98.0,6.1,Yes,Other,3,1.9,55.9,63.3,High,2026-10-09 12:54:55,SYNTHETIC
+SYN0615,Jomo Kenyatta University of Agriculture and Technology,Bachelor of Business Information Technology,3,17.0,90.0,85.0,6.4,Yes,Home,8,2.3,60.8,58.7,Medium,2026-10-09 16:09:40,SYNTHETIC
+SYN0616,Moi University,BSc Electrical and Electronic Engineering,1,1.0,75.0,81.0,7.6,No,Home,6,5.4,50.0,51.6,Medium,2026-10-09 18:30:32,SYNTHETIC
+SYN0617,United States International University-Africa,Bachelor of Commerce,3,3.0,78.0,74.0,,Yes,Library,7,3.4,30.2,28.6,Low,2026-10-09 21:30:08,SYNTHETIC
+SYN0618,Catholic University of Eastern Africa,Bachelor of Business Information Technology,2,19.0,64.0,82.0,5.7,Yes,Library,5,4.8,60.5,50.2,Medium,2026-10-09 22:50:08,SYNTHETIC
+SYN0619,Maseno University,BSc Computer Science,1,9.0,89.0,88.0,6.8,No,Hostel,5,3.3,63.6,58.4,Medium,2026-10-09 23:52:27,SYNTHETIC
+SYN0620,University of Nairobi,Bachelor of Commerce,1,1.0,51.0,73.0,4.6,Yes,Library,6,4.8,49.3,56.8,Medium,2026-10-09 23:56:49,SYNTHETIC
+SYN0621,Technical University of Kenya,BSc Computer Science,2,20.0,100.0,87.0,7.5,Yes,Hostel,4,1.5,,71.2,High,2026-10-09 23:58:31,SYNTHETIC
+SYN0622,University of Nairobi,Bachelor of Commerce,2,7.0,73.0,29.0,5.4,Yes,Library,6,3.4,56.6,56.7,Medium,2026-10-10 00:54:21,SYNTHETIC
+SYN0623,Mount Kenya University,Bachelor of Education (Arts),1,11.0,69.0,78.0,5.0,Yes,Home,5,5.5,55.0,54.1,Medium,2026-10-10 03:29:44,SYNTHETIC
+SYN0624,Maseno University,Bachelor of Commerce,2,0.0,66.0,71.0,7.0,Yes,Library,7,3.7,33.9,53.4,Medium,2026-10-10 04:09:56,SYNTHETIC
+SYN0625,Multimedia University of Kenya,BSc Civil Engineering,4,11.0,53.0,55.0,5.2,Yes,Hostel,8,2.7,50.0,56.1,Medium,2026-10-10 04:13:18,SYNTHETIC
+SYN0626,Maseno University,BSc Computer Science,1,27.0,76.0,85.0,5.7,Yes,Library,6,4.2,55.2,45.7,Low,2026-10-10 05:40:41,SYNTHETIC
+SYN0627,Dedan Kimathi University of Technology,BSc Agriculture,4,12.0,70.0,83.0,8.4,No,Library,8,2.2,46.5,46.3,Low,2026-10-10 06:25:52,SYNTHETIC
+SYN0628,University of Nairobi,BSc Nursing,2,0.0,81.0,55.0,7.0,Yes,Hostel,5,3.3,50.3,63.9,High,2026-10-10 08:52:51,SYNTHETIC
+SYN0629,Masinde Muliro University of Science and Technology,Bachelor of Commerce,3,17.0,82.0,86.0,5.0,No,Home,8,2.9,48.4,56.9,Medium,2026-10-10 10:25:01,SYNTHETIC
+SYN0630,University of Nairobi,Bachelor of Commerce,4,6.0,80.0,74.0,7.2,Yes,Library,6,4.4,60.9,66.1,High,2026-10-10 11:11:01,SYNTHETIC
+SYN0631,Mount Kenya University,BSc Agriculture,4,32.0,74.0,80.0,6.0,Yes,Library,6,1.5,68.7,72.4,High,2026-10-10 11:31:17,SYNTHETIC
+SYN0632,Dedan Kimathi University of Technology,BA Journalism and Mass Communication,1,19.0,87.0,62.0,6.6,Yes,Home,7,4.7,59.4,46.9,Low,2026-10-10 11:41:15,SYNTHETIC
+SYN0633,Other (not listed),BA Economics,3,17.0,52.0,96.0,5.7,Yes,Hostel,6,1.2,57.0,54.2,Medium,2026-10-10 12:36:13,SYNTHETIC
+SYN0634,Strathmore University,Bachelor of Commerce,1,2.0,78.0,68.0,5.1,Yes,Home,8,5.3,62.3,64.2,High,2026-10-10 13:10:25,SYNTHETIC
+SYN0635,Kabarak University,BSc Computer Science,4,13.0,68.0,92.0,7.9,Yes,Home,8,0.3,59.5,56.4,Medium,2026-10-10 13:21:58,SYNTHETIC
+SYN0636,University of Nairobi,BSc Mathematics,4,17.0,67.0,68.0,7.4,Yes,Home,5,3.9,52.7,55.7,Medium,2026-10-10 15:42:32,SYNTHETIC
+SYN0637,Daystar University,Bachelor of Commerce,2,13.0,85.0,96.0,5.8,Yes,Hostel,5,4.8,79.4,69.2,High,2026-10-10 17:34:45,SYNTHETIC
+SYN0638,Moi University,BSc Agriculture,1,9.0,62.0,87.0,7.3,Yes,Home,5,4.2,60.1,56.1,Medium,2026-10-10 18:14:24,SYNTHETIC
+SYN0639,Kenyatta University,BSc Information Technology,4,3.0,49.0,48.0,6.0,Yes,Hostel,4,1.4,46.3,49.1,Low,2026-10-10 19:24:29,SYNTHETIC
+SYN0640,Strathmore University,Bachelor of Commerce,1,25.0,92.0,79.0,6.9,Yes,Other,6,2.6,46.5,49.2,Low,2026-10-10 19:33:58,SYNTHETIC
+SYN0641,Jomo Kenyatta University of Agriculture and Technology,Bachelor of Education (Science),2,7.0,73.0,84.0,5.6,Yes,Hostel,6,0.0,57.9,56.9,Medium,2026-10-10 20:12:45,SYNTHETIC
+SYN0642,University of Nairobi,BSc Computer Science,1,0.0,45.0,68.0,4.4,Yes,Hostel,6,7.7,42.8,49.5,Low,2026-10-10 20:16:02,SYNTHETIC
+SYN0643,Moi University,Bachelor of Commerce,1,16.0,75.0,80.0,6.4,Yes,Home,4,4.0,44.4,51.1,Medium,2026-10-10 22:22:44,SYNTHETIC
+SYN0644,University of Nairobi,BSc Computer Science,3,7.0,68.0,66.0,5.9,Yes,Hostel,7,5.9,73.7,60.3,High,2026-10-10 23:30:36,SYNTHETIC
+SYN0645,Other (not listed),BSc Computer Science,4,17.0,79.0,76.0,6.0,Yes,Other,5,0.0,32.2,51.5,Medium,2026-10-10 23:54:34,SYNTHETIC
+SYN0646,Strathmore University,Bachelor of Laws (LLB),4,19.0,92.0,85.0,5.8,Yes,Library,6,2.1,53.8,54.7,Medium,2026-10-11 01:36:32,SYNTHETIC
+SYN0647,Moi University,Bachelor of Commerce,4,26.0,89.0,87.0,6.3,Yes,Classroom,6,0.9,42.6,50.2,Medium,2026-10-11 02:12:01,SYNTHETIC
+SYN0648,Technical University of Kenya,BA Journalism and Mass Communication,1,21.0,75.0,98.0,7.5,No,Other,8,2.0,63.7,63.9,High,2026-10-11 03:06:38,SYNTHETIC
+SYN0649,Catholic University of Eastern Africa,Bachelor of Education (Science),2,1.0,67.0,85.0,7.1,Yes,Hostel,5,2.5,43.7,50.9,Medium,2026-10-11 03:10:58,SYNTHETIC
+SYN0650,Strathmore University,Bachelor of Commerce,3,22.0,78.0,76.0,5.9,No,Home,5,3.7,47.1,54.2,Medium,2026-10-11 04:21:01,SYNTHETIC
+SYN0651,Technical University of Kenya,Bachelor of Medicine and Surgery (MBChB),3,7.0,68.0,93.0,6.2,Yes,Library,8,1.9,40.6,53.6,Medium,2026-10-11 05:23:24,SYNTHETIC
+SYN0652,Kenyatta University,Bachelor of Commerce,4,18.0,83.0,53.0,4.9,Yes,Library,8,4.5,55.9,62.2,High,2026-10-11 05:40:21,SYNTHETIC
+SYN0653,Mount Kenya University,BA Economics,1,18.0,90.0,79.0,7.1,Yes,Library,9,3.1,53.4,50.2,Medium,2026-10-11 06:03:10,SYNTHETIC
+SYN0654,Moi University,BSc Nursing,3,25.0,66.0,72.0,7.3,Yes,Home,8,2.6,66.8,63.1,High,2026-10-11 07:53:04,SYNTHETIC
+SYN0655,Other (not listed),BSc Information Technology,1,10.0,75.0,71.0,4.7,Yes,Hostel,8,6.6,60.7,55.2,Medium,2026-10-11 08:37:31,SYNTHETIC
+SYN0656,Kabarak University,BSc Mathematics,4,18.0,87.0,100.0,5.3,No,Hostel,7,1.9,57.5,61.7,High,2026-10-11 10:01:50,SYNTHETIC
+SYN0657,University of Nairobi,Bachelor of Education (Arts),4,12.0,82.0,85.0,6.2,No,Home,5,3.6,76.9,58.7,Medium,2026-10-11 13:43:38,SYNTHETIC
+SYN0658,Kenyatta University,Bachelor of Medicine and Surgery (MBChB),3,9.0,85.0,90.0,7.5,Yes,Other,7,1.4,55.9,65.2,High,2026-10-11 13:51:51,SYNTHETIC
+SYN0659,Kabarak University,BSc Computer Science,2,15.0,91.0,67.0,6.7,Yes,Hostel,6,3.9,63.5,65.3,High,2026-10-11 14:52:22,SYNTHETIC
+SYN0660,Kenyatta University,BSc Civil Engineering,2,5.0,86.0,100.0,5.3,Yes,Hostel,7,6.9,67.4,57.1,Medium,2026-10-11 15:26:50,SYNTHETIC
+SYN0661,Strathmore University,Bachelor of Commerce,3,17.0,87.0,90.0,7.6,Yes,Other,7,4.8,55.7,59.4,Medium,2026-10-11 16:48:49,SYNTHETIC
+SYN0662,University of Nairobi,Bachelor of Education (Arts),2,16.0,89.0,100.0,6.1,Yes,Home,8,4.7,68.9,49.3,Low,2026-10-11 18:05:35,SYNTHETIC
+SYN0663,Technical University of Kenya,Bachelor of Commerce,1,6.0,97.0,91.0,6.1,Yes,Home,6,2.4,54.8,53.1,Medium,2026-10-11 18:48:16,SYNTHETIC
+SYN0664,Moi University,BSc Biochemistry,2,17.0,86.0,65.0,5.6,Yes,Hostel,7,1.7,60.7,60.5,High,2026-10-11 19:05:01,SYNTHETIC
+SYN0665,Kenyatta University,Bachelor of Education (Arts),4,18.0,81.0,68.0,5.2,Yes,Hostel,7,3.2,57.4,48.2,Low,2026-10-11 19:16:05,SYNTHETIC
+SYN0666,Moi University,BSc Information Technology,3,8.0,71.0,81.0,4.9,Yes,Home,3,2.6,51.3,42.7,Low,2026-10-11 20:32:48,SYNTHETIC
+SYN0667,Maseno University,BA Journalism and Mass Communication,4,25.0,100.0,99.0,5.8,Yes,Home,7,0.7,82.7,83.3,High,2026-10-11 20:55:58,SYNTHETIC
+SYN0668,Africa Nazarene University,BSc Agriculture,3,4.0,68.0,67.0,7.3,Yes,Home,5,3.4,54.9,55.2,Medium,2026-10-11 21:08:15,SYNTHETIC
+SYN0669,Mount Kenya University,BSc Electrical and Electronic Engineering,2,0.0,59.0,52.0,6.6,Yes,Library,4,3.3,30.7,49.9,Low,2026-10-11 21:08:50,SYNTHETIC
+SYN0670,Technical University of Kenya,BA Journalism and Mass Communication,3,7.0,79.0,100.0,6.1,Yes,Library,8,5.0,53.2,50.3,Medium,2026-10-11 21:27:57,SYNTHETIC
+SYN0671,University of Nairobi,Bachelor of Commerce,1,12.0,70.0,64.0,7.7,Yes,Home,5,2.3,58.1,51.9,Medium,2026-10-11 21:39:03,SYNTHETIC
+SYN0672,Mount Kenya University,Bachelor of Commerce,4,10.0,60.0,46.0,6.4,Yes,Hostel,8,3.9,60.7,53.7,Medium,2026-10-11 21:47:04,SYNTHETIC
+SYN0673,Dedan Kimathi University of Technology,BSc Nursing,3,20.0,87.0,68.0,6.5,Yes,Home,9,2.6,59.3,60.9,High,2026-10-11 22:02:34,SYNTHETIC
+SYN0674,KCA University,Bachelor of Commerce,3,14.0,62.0,73.0,5.9,Yes,Hostel,6,4.3,42.7,45.0,Low,2026-10-11 22:56:18,SYNTHETIC
+SYN0675,Technical University of Kenya,BA Journalism and Mass Communication,2,9.0,53.0,83.0,5.4,Yes,Library,6,4.7,57.1,48.6,Low,2026-10-11 23:44:52,SYNTHETIC
+SYN0676,United States International University-Africa,BA Journalism and Mass Communication,4,11.0,79.0,58.0,5.7,Yes,Home,5,4.1,60.6,52.9,Medium,2026-10-12 00:46:45,SYNTHETIC
+SYN0677,Jomo Kenyatta University of Agriculture and Technology,Bachelor of Commerce,3,17.0,80.0,98.0,7.8,Yes,Home,9,4.1,52.6,63.2,High,2026-10-12 01:29:24,SYNTHETIC
+SYN0678,Strathmore University,BSc Information Technology,2,13.0,100.0,62.0,7.8,Yes,Home,8,4.9,48.4,54.2,Medium,2026-10-12 02:18:16,SYNTHETIC
+SYN0679,Masinde Muliro University of Science and Technology,BSc Civil Engineering,4,13.0,84.0,67.0,7.4,No,Hostel,8,4.4,44.6,62.0,High,2026-10-12 03:34:18,SYNTHETIC
+SYN0680,Masinde Muliro University of Science and Technology,Bachelor of Laws (LLB),4,16.0,92.0,65.0,7.9,Yes,Home,7,8.2,51.4,58.3,Medium,2026-10-12 04:33:12,SYNTHETIC
+SYN0681,Jomo Kenyatta University of Agriculture and Technology,BSc Civil Engineering,4,0.0,61.0,89.0,5.5,No,Home,6,3.6,67.7,58.2,Medium,2026-10-12 06:07:24,SYNTHETIC
+SYN0682,Mount Kenya University,BSc Statistics and Data Science,3,15.0,81.0,85.0,6.9,Yes,Hostel,5,3.9,67.1,66.1,High,2026-10-12 07:25:57,SYNTHETIC
+SYN0683,Kenyatta University,Bachelor of Commerce,4,2.0,64.0,87.0,7.1,Yes,Library,9,3.0,50.5,69.9,High,2026-10-12 07:40:24,SYNTHETIC
+SYN0684,University of Nairobi,BSc Electrical and Electronic Engineering,1,18.0,73.0,84.0,8.4,Yes,Library,3,3.7,50.5,40.4,Low,2026-10-12 08:22:58,SYNTHETIC
+SYN0685,University of Nairobi,BSc Computer Science,4,6.0,80.0,59.0,7.6,Yes,Home,5,4.7,47.5,49.6,Low,2026-10-12 08:53:34,SYNTHETIC
+SYN0686,Africa Nazarene University,BSc Nursing,3,16.0,63.0,52.0,6.0,No,Home,9,5.1,38.6,40.2,Low,2026-10-12 09:01:34,SYNTHETIC
+SYN0687,Jomo Kenyatta University of Agriculture and Technology,BA Economics,3,3.0,69.0,81.0,8.7,Yes,Home,4,2.8,54.9,58.6,Medium,2026-10-12 11:31:08,SYNTHETIC
+SYN0688,Daystar University,Bachelor of Education (Arts),4,9.0,73.0,85.0,7.4,No,Home,4,3.0,49.3,51.5,Medium,2026-10-12 11:49:01,SYNTHETIC
+SYN0689,Moi University,BSc Electrical and Electronic Engineering,2,7.0,64.0,76.0,5.6,Yes,Home,6,3.4,61.8,54.3,Medium,2026-10-12 12:53:01,SYNTHETIC
+SYN0690,Technical University of Kenya,Bachelor of Laws (LLB),2,1.0,53.0,73.0,4.7,No,Home,5,,50.2,53.4,Medium,2026-10-12 13:44:20,SYNTHETIC
+SYN0691,Jomo Kenyatta University of Agriculture and Technology,BSc Civil Engineering,2,8.0,85.0,89.0,,Yes,Home,6,3.6,61.4,61.3,High,2026-10-12 14:10:58,SYNTHETIC
+SYN0692,Mount Kenya University,Bachelor of Commerce,3,29.0,88.0,77.0,8.1,Yes,Library,7,4.0,59.8,60.7,High,2026-10-12 15:14:35,SYNTHETIC
+SYN0693,University of Nairobi,BSc Statistics and Data Science,1,10.0,70.0,81.0,6.2,Yes,Other,6,3.6,40.6,60.3,High,2026-10-12 15:16:29,SYNTHETIC
+SYN0694,University of Nairobi,BSc Mathematics,1,4.0,68.0,95.0,6.3,No,Other,6,2.4,71.6,73.5,High,2026-10-12 15:28:02,SYNTHETIC
+SYN0695,University of Nairobi,BSc Nursing,2,12.0,84.0,71.0,5.8,Yes,Library,7,4.0,44.8,58.7,Medium,2026-10-12 16:21:11,SYNTHETIC
+SYN0696,Jomo Kenyatta University of Agriculture and Technology,BSc Computer Science,2,14.0,72.0,88.0,7.8,Yes,Hostel,6,1.5,60.8,58.8,Medium,2026-10-12 16:29:15,SYNTHETIC
+SYN0697,University of Nairobi,Bachelor of Education (Science),3,12.0,89.0,90.0,6.5,Yes,Home,7,2.8,50.1,60.7,High,2026-10-12 17:44:11,SYNTHETIC
+SYN0698,Catholic University of Eastern Africa,Bachelor of Education (Arts),4,17.0,87.0,62.0,6.0,Yes,Hostel,5,4.4,60.9,59.7,Medium,2026-10-12 18:42:52,SYNTHETIC
+SYN0699,Multimedia University of Kenya,BSc Agriculture,1,8.0,85.0,56.0,6.2,Yes,Hostel,4,5.3,51.9,48.3,Low,2026-10-12 19:26:52,SYNTHETIC
+SYN0700,Mount Kenya University,BSc Nursing,1,0.0,75.0,71.0,6.5,Yes,Classroom,9,2.8,53.5,53.0,Medium,2026-10-12 21:04:23,SYNTHETIC
+SYN0701,Kenyatta University,BA Economics,1,19.0,65.0,100.0,7.4,Yes,Home,6,5.3,53.0,57.6,Medium,2026-10-12 21:52:21,SYNTHETIC
+SYN0702,KCA University,Bachelor of Laws (LLB),3,28.0,84.0,100.0,8.8,Yes,Library,6,1.0,68.3,67.7,High,2026-10-12 23:13:22,SYNTHETIC
+SYN0703,Egerton University,Bachelor of Education (Arts),3,5.0,93.0,78.0,5.3,Yes,Home,8,3.2,61.5,66.4,High,2026-10-13 01:18:15,SYNTHETIC
+SYN0704,University of Nairobi,BSc Mathematics,1,8.0,67.0,96.0,7.2,Yes,Classroom,5,3.8,60.3,57.5,Medium,2026-10-13 02:12:39,SYNTHETIC
+SYN0705,Technical University of Kenya,BSc Statistics and Data Science,4,12.0,88.0,86.0,6.0,No,Home,6,3.8,53.9,70.9,High,2026-10-13 03:11:26,SYNTHETIC
+SYN0706,Daystar University,Bachelor of Commerce,1,11.0,51.0,67.0,5.8,Yes,Home,7,4.7,32.5,54.8,Medium,2026-10-13 03:33:13,SYNTHETIC
+SYN0707,Masinde Muliro University of Science and Technology,Bachelor of Commerce,1,14.0,,100.0,4.7,Yes,Library,5,5.6,67.5,58.3,Medium,2026-10-13 03:55:09,SYNTHETIC
+SYN0708,Technical University of Kenya,Bachelor of Commerce,1,0.0,65.0,38.0,5.4,No,Other,7,1.6,41.9,36.2,Low,2026-10-13 04:29:52,SYNTHETIC
+SYN0709,Jomo Kenyatta University of Agriculture and Technology,BA Journalism and Mass Communication,1,14.0,88.0,97.0,7.6,Yes,Hostel,8,6.1,56.2,64.4,High,2026-10-13 05:38:54,SYNTHETIC
+SYN0710,United States International University-Africa,BSc Electrical and Electronic Engineering,2,3.0,68.0,91.0,5.7,Yes,Library,7,5.1,52.1,56.5,Medium,2026-10-13 05:39:15,SYNTHETIC
+SYN0711,KCA University,Bachelor of Commerce,2,15.0,81.0,87.0,6.0,Yes,Home,6,3.1,,56.1,Medium,2026-10-13 07:11:24,SYNTHETIC
+SYN0712,KCA University,BSc Electrical and Electronic Engineering,4,10.0,100.0,87.0,7.2,Yes,Home,4,5.0,62.7,72.1,High,2026-10-13 07:37:44,SYNTHETIC
+SYN0713,Africa Nazarene University,Bachelor of Laws (LLB),1,6.0,75.0,78.0,6.5,Yes,Other,7,2.3,53.5,56.0,Medium,2026-10-13 08:35:21,SYNTHETIC
+SYN0714,Kabarak University,Bachelor of Education (Science),3,7.0,91.0,100.0,6.2,Yes,Library,5,,57.8,55.3,Medium,2026-10-13 08:35:46,SYNTHETIC
+SYN0715,Kenyatta University,BSc Statistics and Data Science,1,9.0,67.0,78.0,6.9,Yes,Library,8,5.2,46.5,46.4,Low,2026-10-13 09:20:41,SYNTHETIC
+SYN0716,Moi University,BSc Civil Engineering,1,9.0,80.0,81.0,5.5,Yes,Home,7,5.0,62.4,54.9,Medium,2026-10-13 09:36:57,SYNTHETIC
+SYN0717,Egerton University,BSc Information Technology,2,13.0,97.0,82.0,7.8,Yes,Hostel,3,3.7,68.2,75.6,High,2026-10-13 10:19:31,SYNTHETIC
+SYN0718,Moi University,BSc Nursing,1,13.0,54.0,66.0,7.6,No,Home,6,4.0,57.8,44.8,Low,2026-10-13 11:49:42,SYNTHETIC
+SYN0719,Jomo Kenyatta University of Agriculture and Technology,Bachelor of Business Information Technology,3,17.0,76.0,98.0,6.1,No,Home,6,2.5,55.9,67.3,High,2026-10-13 13:16:56,SYNTHETIC
+SYN0720,University of Nairobi,Bachelor of Education (Arts),3,12.0,90.0,100.0,5.8,No,Other,7,1.6,72.3,48.8,Low,2026-10-13 14:36:33,SYNTHETIC
+SYN0721,Technical University of Kenya,Bachelor of Commerce,4,22.0,,84.0,9.7,Yes,Home,7,2.8,50.9,64.1,High,2026-10-13 14:58:27,SYNTHETIC
+SYN0722,Kenyatta University,BSc Computer Science,3,9.0,62.0,98.0,8.1,No,Hostel,6,2.2,71.3,69.7,High,2026-10-13 16:00:06,SYNTHETIC
+SYN0723,Jomo Kenyatta University of Agriculture and Technology,Bachelor of Business Information Technology,1,,97.0,59.0,7.4,Yes,Hostel,5,4.4,41.1,45.2,Low,2026-10-13 17:18:41,SYNTHETIC
+SYN0724,Moi University,Bachelor of Medicine and Surgery (MBChB),2,2.0,70.0,58.0,4.2,Yes,Hostel,7,5.8,48.6,48.5,Low,2026-10-13 19:39:56,SYNTHETIC
+SYN0725,Mount Kenya University,BA Economics,2,17.0,82.0,79.0,6.8,Yes,Hostel,6,1.9,59.6,53.9,Medium,2026-10-13 21:26:54,SYNTHETIC
+SYN0726,Africa Nazarene University,BA Journalism and Mass Communication,4,8.0,85.0,69.0,5.4,Yes,Home,8,1.9,56.5,45.1,Low,2026-10-13 23:44:19,SYNTHETIC
+SYN0727,Daystar University,BA Journalism and Mass Communication,1,11.0,67.0,89.0,7.5,Yes,Home,4,4.6,62.1,58.0,Medium,2026-10-13 23:49:32,SYNTHETIC
+SYN0728,University of Nairobi,BA Economics,2,15.0,69.0,79.0,7.5,Yes,Home,5,3.0,43.6,46.1,Low,2026-10-14 00:25:46,SYNTHETIC
+SYN0729,United States International University-Africa,BSc Information Technology,4,0.0,69.0,56.0,6.6,Yes,Other,6,3.9,56.0,51.0,Medium,2026-10-14 01:13:24,SYNTHETIC
+SYN0730,KCA University,BSc Civil Engineering,5,15.0,64.0,68.0,6.0,No,Library,8,5.5,67.2,71.4,High,2026-10-14 02:08:47,SYNTHETIC
+SYN0731,Mount Kenya University,Bachelor of Business Information Technology,1,19.0,64.0,88.0,6.8,Yes,Home,4,6.2,41.3,35.4,Low,2026-10-14 02:49:24,SYNTHETIC
+SYN0732,United States International University-Africa,BSc Statistics and Data Science,3,16.0,99.0,79.0,5.6,Yes,Library,6,2.5,58.9,63.6,High,2026-10-14 02:57:08,SYNTHETIC
+SYN0733,Multimedia University of Kenya,Bachelor of Commerce,4,18.0,81.0,61.0,7.1,Yes,Home,6,0.1,56.6,56.9,Medium,2026-10-14 04:32:09,SYNTHETIC
+SYN0734,Jomo Kenyatta University of Agriculture and Technology,BSc Computer Science,2,27.0,86.0,98.0,6.4,Yes,Home,7,3.4,60.2,61.7,High,2026-10-14 05:46:09,SYNTHETIC
+SYN0735,Strathmore University,BA Economics,1,19.0,70.0,84.0,5.4,No,Other,6,6.4,53.5,54.1,Medium,2026-10-14 07:13:22,SYNTHETIC
+SYN0736,Africa Nazarene University,BA Economics,4,17.0,87.0,75.0,7.8,No,Library,4,2.2,61.4,66.4,High,2026-10-14 07:27:49,SYNTHETIC
+SYN0737,University of Nairobi,Bachelor of Education (Arts),3,17.0,78.0,84.0,6.7,Yes,Library,7,0.4,54.1,64.6,High,2026-10-14 08:05:45,SYNTHETIC
+SYN0738,Strathmore University,BSc Nursing,2,1.0,82.0,69.0,5.7,Yes,Library,8,1.0,50.6,55.4,Medium,2026-10-14 08:37:19,SYNTHETIC
+SYN0739,Mount Kenya University,BSc Electrical and Electronic Engineering,3,0.0,72.0,88.0,9.0,Yes,Library,7,2.2,40.2,48.2,Low,2026-10-14 10:35:39,SYNTHETIC
+SYN0740,Jomo Kenyatta University of Agriculture and Technology,BA Journalism and Mass Communication,2,21.0,100.0,71.0,5.3,Yes,Home,5,2.3,57.5,50.5,Medium,2026-10-14 15:06:38,SYNTHETIC
+SYN0741,Technical University of Kenya,Bachelor of Education (Arts),1,17.0,93.0,100.0,8.6,Yes,Library,9,0.8,63.8,59.4,Medium,2026-10-14 15:20:21,SYNTHETIC
+SYN0742,Mount Kenya University,BSc Agriculture,2,8.0,84.0,81.0,7.3,Yes,Classroom,5,3.4,60.0,69.1,High,2026-10-14 15:50:10,SYNTHETIC
+SYN0743,Catholic University of Eastern Africa,BSc Agriculture,4,10.0,60.0,64.0,5.3,Yes,Hostel,7,4.2,47.6,45.8,Low,2026-10-14 15:58:47,SYNTHETIC
+SYN0744,University of Nairobi,Bachelor of Medicine and Surgery (MBChB),4,12.0,76.0,96.0,7.0,Yes,Home,6,3.7,60.1,64.7,High,2026-10-14 16:17:47,SYNTHETIC
+SYN0745,University of Nairobi,Bachelor of Education (Science),4,7.0,81.0,64.0,7.2,Yes,Home,3,0.0,66.3,61.1,High,2026-10-14 16:51:53,SYNTHETIC
+SYN0746,Kenyatta University,Bachelor of Education (Arts),1,13.0,80.0,85.0,4.8,Yes,Classroom,5,2.2,55.6,56.8,Medium,2026-10-14 17:10:52,SYNTHETIC
+SYN0747,University of Nairobi,Bachelor of Education (Science),3,13.0,76.0,74.0,7.9,Yes,Library,9,3.5,51.5,66.5,High,2026-10-14 18:38:04,SYNTHETIC
+SYN0748,Moi University,BSc Computer Science,3,20.0,83.0,82.0,7.1,Yes,Hostel,5,4.6,82.3,79.6,High,2026-10-14 18:49:43,SYNTHETIC
+SYN0749,Egerton University,BSc Civil Engineering,4,16.0,73.0,67.0,5.3,No,Home,7,1.7,71.9,53.5,Medium,2026-10-14 19:45:48,SYNTHETIC
+SYN0750,Moi University,BSc Mathematics,1,12.0,68.0,70.0,6.8,Yes,Library,6,2.2,62.4,68.3,High,2026-10-14 19:50:03,SYNTHETIC
+SYN0751,Moi University,BSc Nursing,4,17.0,86.0,73.0,5.7,No,Library,6,4.7,68.1,61.7,High,2026-10-14 20:06:53,SYNTHETIC
+SYN0752,Strathmore University,Bachelor of Education (Arts),2,11.0,81.0,78.0,4.8,Yes,Hostel,8,4.0,37.8,44.4,Low,2026-10-14 20:19:13,SYNTHETIC
+SYN0753,KCA University,Bachelor of Education (Arts),3,12.0,74.0,79.0,6.6,Yes,Hostel,7,3.5,70.1,62.6,High,2026-10-14 20:28:47,SYNTHETIC
+SYN0754,University of Nairobi,BSc Electrical and Electronic Engineering,2,9.0,80.0,67.0,5.2,Yes,Home,5,3.2,52.4,40.6,Low,2026-10-14 20:36:54,SYNTHETIC
+SYN0755,Strathmore University,BA Journalism and Mass Communication,4,25.0,84.0,88.0,7.6,Yes,Library,5,5.9,56.9,74.6,High,2026-10-14 21:21:17,SYNTHETIC
+SYN0756,University of Nairobi,BSc Civil Engineering,3,13.0,75.0,69.0,7.3,Yes,Home,7,2.6,52.8,41.8,Low,2026-10-14 23:59:01,SYNTHETIC
+SYN0757,Technical University of Kenya,BSc Information Technology,3,31.0,89.0,72.0,5.7,Yes,Hostel,5,2.2,57.3,59.8,Medium,2026-10-15 01:24:17,SYNTHETIC
+SYN0758,Strathmore University,BSc Nursing,4,8.0,95.0,93.0,7.6,Yes,Library,8,2.5,73.8,71.0,High,2026-10-15 02:19:37,SYNTHETIC
+SYN0759,University of Nairobi,BSc Biochemistry,3,17.0,88.0,89.0,7.8,Yes,Library,7,3.9,63.0,58.4,Medium,2026-10-15 02:47:09,SYNTHETIC
+SYN0760,Moi University,Bachelor of Laws (LLB),3,12.0,94.0,93.0,5.1,Yes,Library,6,2.8,42.2,39.1,Low,2026-10-15 03:56:08,SYNTHETIC
+SYN0761,Technical University of Kenya,BSc Computer Science,1,22.0,100.0,75.0,7.8,Yes,Home,3,3.0,52.6,65.2,High,2026-10-15 04:20:58,SYNTHETIC
+SYN0762,Kenyatta University,BA Economics,2,0.0,79.0,65.0,7.3,Yes,Home,7,5.0,36.1,37.3,Low,2026-10-15 05:56:23,SYNTHETIC
+SYN0763,Technical University of Kenya,Bachelor of Business Information Technology,2,18.0,73.0,75.0,7.5,Yes,Hostel,7,5.7,57.9,53.9,Medium,2026-10-15 07:21:28,SYNTHETIC
+SYN0764,Strathmore University,Bachelor of Education (Arts),3,16.0,87.0,88.0,7.9,Yes,Hostel,6,2.9,54.3,59.1,Medium,2026-10-15 09:06:40,SYNTHETIC
+SYN0765,University of Nairobi,BA Journalism and Mass Communication,2,19.0,88.0,89.0,6.7,Yes,Hostel,6,4.6,60.7,54.5,Medium,2026-10-15 09:08:11,SYNTHETIC
+SYN0766,Technical University of Kenya,BA Journalism and Mass Communication,3,11.0,82.0,78.0,5.9,No,Home,8,4.7,79.4,83.9,High,2026-10-15 10:52:16,SYNTHETIC
+SYN0767,Mount Kenya University,BSc Mathematics,3,9.0,56.0,52.0,6.0,No,Home,5,5.3,56.3,45.9,Low,2026-10-15 10:54:26,SYNTHETIC
+SYN0768,Kenyatta University,Bachelor of Education (Arts),1,13.0,81.0,78.0,6.7,Yes,Classroom,8,5.5,53.6,69.5,High,2026-10-15 11:38:59,SYNTHETIC
+SYN0769,Technical University of Kenya,BSc Agriculture,1,11.0,87.0,63.0,6.5,Yes,Library,6,1.9,50.2,42.5,Low,2026-10-15 11:46:26,SYNTHETIC
+SYN0770,Maseno University,BSc Computer Science,4,10.0,62.0,67.0,6.9,Yes,Other,7,4.8,51.7,63.3,High,2026-10-15 12:42:32,SYNTHETIC
+SYN0771,University of Nairobi,Bachelor of Education (Science),3,16.0,94.0,76.0,6.6,Yes,Home,7,2.5,67.2,59.9,Medium,2026-10-15 14:56:05,SYNTHETIC
+SYN0772,Technical University of Kenya,BSc Computer Science,4,10.0,84.0,64.0,6.2,No,Library,5,4.2,50.9,57.4,Medium,2026-10-15 15:03:43,SYNTHETIC
+SYN0773,Egerton University,BSc Computer Science,4,21.0,92.0,90.0,5.6,No,Home,5,3.3,73.2,75.8,High,2026-10-15 15:09:32,SYNTHETIC
+SYN0774,Mount Kenya University,BSc Information Technology,1,11.0,81.0,99.0,6.1,Yes,Hostel,6,4.0,62.8,51.0,Medium,2026-10-15 15:17:31,SYNTHETIC
+SYN0775,Daystar University,Bachelor of Education (Arts),4,0.0,81.0,74.0,8.5,Yes,Library,6,4.9,45.6,47.3,Low,2026-10-15 18:48:39,SYNTHETIC
+SYN0776,Maseno University,BSc Electrical and Electronic Engineering,4,11.0,87.0,81.0,4.6,Yes,Library,4,5.8,53.6,51.8,Medium,2026-10-15 19:27:29,SYNTHETIC
+SYN0777,Strathmore University,Bachelor of Education (Arts),4,21.0,94.0,75.0,8.3,Yes,Classroom,5,5.3,64.2,71.3,High,2026-10-15 20:07:51,SYNTHETIC
+SYN0778,Other (not listed),Bachelor of Laws (LLB),1,2.0,64.0,49.0,6.3,No,Other,7,5.6,38.6,41.1,Low,2026-10-15 21:50:03,SYNTHETIC
+SYN0779,Catholic University of Eastern Africa,BSc Computer Science,2,7.0,69.0,90.0,5.4,Yes,Classroom,7,1.0,58.4,54.0,Medium,2026-10-15 22:24:22,SYNTHETIC
+SYN0780,United States International University-Africa,Bachelor of Education (Arts),1,18.0,77.0,100.0,6.3,Yes,Classroom,4,4.2,66.3,70.6,High,2026-10-16 00:01:22,SYNTHETIC
+SYN0781,University of Nairobi,BA Economics,4,1.0,52.0,59.0,5.2,Yes,Library,7,3.0,52.2,45.3,Low,2026-10-16 00:08:35,SYNTHETIC
+SYN0782,Catholic University of Eastern Africa,Bachelor of Education (Arts),3,16.0,84.0,64.0,5.9,Yes,Library,7,4.1,36.3,39.5,Low,2026-10-16 04:49:15,SYNTHETIC
+SYN0783,Kabarak University,BSc Agriculture,2,12.0,80.0,64.0,8.0,Yes,Home,7,2.9,25.6,37.4,Low,2026-10-16 05:18:45,SYNTHETIC
+SYN0784,University of Nairobi,Bachelor of Education (Science),4,20.0,72.0,95.0,6.7,Yes,Library,5,2.2,60.2,58.8,Medium,2026-10-16 09:05:23,SYNTHETIC
+SYN0785,Jomo Kenyatta University of Agriculture and Technology,BSc Information Technology,4,33.0,82.0,90.0,9.1,No,Library,6,4.5,56.2,65.0,High,2026-10-16 09:49:07,SYNTHETIC
+SYN0786,Masinde Muliro University of Science and Technology,BSc Computer Science,1,11.0,83.0,55.0,5.1,Yes,Hostel,6,4.6,65.2,57.4,Medium,2026-10-16 11:32:19,SYNTHETIC
+SYN0787,Dedan Kimathi University of Technology,Bachelor of Commerce,3,15.0,81.0,91.0,7.7,Yes,Home,6,0.8,65.8,62.8,High,2026-10-16 13:12:08,SYNTHETIC
+SYN0788,Moi University,Bachelor of Laws (LLB),4,17.0,91.0,87.0,7.0,Yes,Hostel,5,4.9,57.7,54.4,Medium,2026-10-16 17:35:38,SYNTHETIC
+SYN0789,Dedan Kimathi University of Technology,Bachelor of Education (Science),2,8.0,69.0,88.0,6.4,Yes,Library,5,3.5,71.4,73.3,High,2026-10-16 17:46:14,SYNTHETIC
+SYN0790,Mount Kenya University,BSc Computer Science,4,13.0,83.0,96.0,7.9,No,Hostel,7,3.5,56.3,47.3,Low,2026-10-16 18:22:02,SYNTHETIC
+SYN0791,KCA University,Bachelor of Education (Arts),3,-0.0,79.0,64.0,5.4,Yes,Home,5,2.4,,64.4,High,2026-10-16 20:18:16,SYNTHETIC
+SYN0792,Africa Nazarene University,Bachelor of Education (Arts),3,13.0,70.0,70.0,6.9,Yes,Home,4,3.2,60.2,51.2,Medium,2026-10-16 20:18:21,SYNTHETIC
+SYN0793,Maseno University,Bachelor of Laws (LLB),3,1.0,,77.0,7.6,Yes,Library,5,5.1,47.7,58.5,Medium,2026-10-16 20:21:17,SYNTHETIC
+SYN0794,Dedan Kimathi University of Technology,BSc Electrical and Electronic Engineering,4,3.0,43.0,52.0,6.2,Yes,Other,8,4.8,50.3,40.1,Low,2026-10-16 22:06:38,SYNTHETIC
+SYN0795,Jomo Kenyatta University of Agriculture and Technology,BSc Statistics and Data Science,2,7.0,72.0,83.0,5.4,Yes,Classroom,6,4.1,71.6,58.7,Medium,2026-10-16 22:23:36,SYNTHETIC
+SYN0796,Egerton University,BSc Information Technology,1,23.0,87.0,83.0,5.8,Yes,Classroom,5,4.1,41.1,57.0,Medium,2026-10-16 23:12:53,SYNTHETIC
+SYN0797,Mount Kenya University,Bachelor of Laws (LLB),3,2.0,65.0,75.0,6.6,No,Hostel,8,1.7,45.8,56.9,Medium,2026-10-16 23:46:04,SYNTHETIC
+SYN0798,Mount Kenya University,Bachelor of Education (Arts),3,18.0,61.0,73.0,4.6,Yes,Home,7,3.9,53.3,51.1,Medium,2026-10-17 00:06:02,SYNTHETIC
+SYN0799,Masinde Muliro University of Science and Technology,Bachelor of Education (Arts),3,8.0,81.0,77.0,6.7,Yes,Home,8,7.0,45.9,65.8,High,2026-10-17 00:47:25,SYNTHETIC
+SYN0800,Strathmore University,BSc Computer Science,1,8.0,83.0,67.0,7.8,Yes,Library,7,,46.9,53.4,Medium,2026-10-17 01:00:40,SYNTHETIC
+SYN0801,Africa Nazarene University,BSc Computer Science,4,17.0,74.0,94.0,6.5,Yes,Hostel,7,0.0,60.8,67.1,High,2026-10-17 03:00:33,SYNTHETIC
+SYN0802,Technical University of Kenya,Bachelor of Medicine and Surgery (MBChB),1,22.0,77.0,90.0,7.6,No,Classroom,6,4.2,57.6,48.4,Low,2026-10-17 04:24:02,SYNTHETIC
+SYN0803,Dedan Kimathi University of Technology,BSc Nursing,4,0.0,87.0,15.0,7.3,Yes,Hostel,6,4.2,40.7,44.8,Low,2026-10-17 06:12:13,SYNTHETIC
+SYN0804,University of Nairobi,BSc Computer Science,4,13.0,77.0,73.0,6.0,No,Hostel,6,3.7,70.9,58.9,Medium,2026-10-17 09:00:30,SYNTHETIC
+SYN0805,Africa Nazarene University,Bachelor of Education (Science),3,5.0,63.0,94.0,,No,Home,5,3.8,56.6,61.0,High,2026-10-17 10:12:22,SYNTHETIC
+SYN0806,Technical University of Kenya,BSc Statistics and Data Science,1,22.0,99.0,84.0,5.7,Yes,Library,4,5.4,50.4,54.6,Medium,2026-10-17 11:39:32,SYNTHETIC
+SYN0807,University of Nairobi,BSc Agriculture,1,9.0,68.0,69.0,5.6,No,Hostel,4,3.7,55.3,62.2,High,2026-10-17 12:12:32,SYNTHETIC
+SYN0808,Daystar University,BSc Civil Engineering,2,4.0,65.0,64.0,6.3,No,Home,6,,43.9,41.8,Low,2026-10-17 12:57:06,SYNTHETIC
+SYN0809,Kenyatta University,BSc Computer Science,1,12.0,84.0,82.0,8.0,Yes,Other,7,3.2,52.6,63.4,High,2026-10-17 16:34:42,SYNTHETIC
+SYN0810,Technical University of Kenya,BSc Mathematics,2,9.0,78.0,84.0,6.9,Yes,Library,9,2.7,55.3,58.9,Medium,2026-10-17 17:07:22,SYNTHETIC
+SYN0811,Multimedia University of Kenya,BSc Biochemistry,4,15.0,82.0,95.0,7.7,Yes,Library,5,3.3,50.5,55.7,Medium,2026-10-17 18:18:47,SYNTHETIC
+SYN0812,Moi University,BSc Statistics and Data Science,1,12.0,87.0,96.0,6.0,Yes,Home,7,4.8,55.4,60.4,High,2026-10-17 20:12:37,SYNTHETIC
+SYN0813,Mount Kenya University,BSc Electrical and Electronic Engineering,3,13.0,74.0,93.0,4.5,No,Library,6,2.4,42.4,43.8,Low,2026-10-17 21:03:52,SYNTHETIC
+SYN0814,Egerton University,Bachelor of Business Information Technology,4,0.0,71.0,76.0,6.8,No,Hostel,6,4.8,51.1,52.4,Medium,2026-10-17 21:28:28,SYNTHETIC
+SYN0815,University of Nairobi,Bachelor of Education (Science),4,14.0,71.0,83.0,6.8,Yes,Home,7,1.4,55.8,62.1,High,2026-10-17 23:52:43,SYNTHETIC
+SYN0816,Mount Kenya University,Bachelor of Education (Science),3,22.0,74.0,100.0,8.2,Yes,Home,6,2.4,57.1,54.2,Medium,2026-10-18 00:27:06,SYNTHETIC
+SYN0817,Daystar University,BA Economics,1,12.0,58.0,64.0,6.0,Yes,Hostel,7,3.7,51.1,52.8,Medium,2026-10-18 00:28:41,SYNTHETIC
+SYN0818,Daystar University,Bachelor of Education (Arts),1,13.0,77.0,86.0,6.3,Yes,Classroom,4,4.2,51.4,52.5,Medium,2026-10-18 03:34:19,SYNTHETIC
+SYN0819,Strathmore University,BSc Mathematics,4,19.0,67.0,59.0,6.5,No,Home,5,7.2,57.0,56.3,Medium,2026-10-18 04:33:29,SYNTHETIC
+SYN0820,Masinde Muliro University of Science and Technology,BSc Mathematics,3,13.0,97.0,91.0,6.9,Yes,Library,8,4.1,42.0,45.4,Low,2026-10-18 04:38:50,SYNTHETIC
+SYN0821,Africa Nazarene University,BA Journalism and Mass Communication,3,21.0,65.0,92.0,10.0,Yes,Other,5,4.2,64.3,53.8,Medium,2026-10-18 05:01:56,SYNTHETIC
+SYN0822,Mount Kenya University,BSc Nursing,3,0.0,,86.0,5.7,Yes,Other,7,7.2,56.3,48.9,Low,2026-10-18 08:07:12,SYNTHETIC
+SYN0823,Mount Kenya University,BSc Electrical and Electronic Engineering,4,11.0,64.0,76.0,5.8,Yes,Library,5,2.5,61.0,44.9,Low,2026-10-18 09:56:16,SYNTHETIC
+SYN0824,University of Nairobi,BSc Agriculture,3,3.0,,85.0,6.1,Yes,Other,8,3.6,57.4,53.5,Medium,2026-10-18 10:37:56,SYNTHETIC
+SYN0825,KCA University,Bachelor of Laws (LLB),4,20.0,87.0,84.0,7.9,Yes,Library,8,7.0,49.2,41.4,Low,2026-10-18 13:03:28,SYNTHETIC
+SYN0826,Kabarak University,Bachelor of Business Information Technology,2,12.0,77.0,92.0,5.9,Yes,Library,7,4.7,72.3,66.1,High,2026-10-18 13:26:53,SYNTHETIC
+SYN0827,University of Nairobi,BSc Civil Engineering,1,10.0,67.0,58.0,7.9,No,Home,8,1.8,61.8,74.8,High,2026-10-18 13:37:54,SYNTHETIC
+SYN0828,University of Nairobi,Bachelor of Education (Science),2,0.0,68.0,76.0,6.5,Yes,Library,4,0.0,49.1,52.6,Medium,2026-10-18 13:39:24,SYNTHETIC
+SYN0829,Technical University of Kenya,BSc Computer Science,3,12.0,82.0,85.0,5.7,No,Home,8,1.6,57.9,58.6,Medium,2026-10-18 14:31:22,SYNTHETIC
+SYN0830,Jomo Kenyatta University of Agriculture and Technology,Bachelor of Education (Science),4,3.0,74.0,81.0,6.8,Yes,Home,9,4.0,83.1,74.6,High,2026-10-18 15:00:47,SYNTHETIC
+SYN0831,Jomo Kenyatta University of Agriculture and Technology,BA Economics,4,0.0,79.0,64.0,6.8,No,Library,8,5.4,40.3,36.9,Low,2026-10-18 15:43:23,SYNTHETIC
+SYN0832,University of Nairobi,BSc Information Technology,2,23.0,82.0,84.0,9.3,Yes,Home,6,,61.9,47.0,Low,2026-10-18 16:00:19,SYNTHETIC
+SYN0833,Jomo Kenyatta University of Agriculture and Technology,Bachelor of Commerce,2,19.0,83.0,84.0,8.4,Yes,Hostel,6,2.0,61.1,70.5,High,2026-10-18 16:12:33,SYNTHETIC
+SYN0834,Dedan Kimathi University of Technology,BSc Biochemistry,4,25.0,80.0,100.0,6.2,Yes,Other,5,5.1,59.8,55.5,Medium,2026-10-18 17:23:36,SYNTHETIC
+SYN0835,Egerton University,Bachelor of Commerce,4,6.0,57.0,87.0,6.4,Yes,Other,8,3.9,46.9,49.7,Low,2026-10-18 17:35:04,SYNTHETIC
+SYN0836,Mount Kenya University,BSc Civil Engineering,4,8.0,82.0,81.0,4.1,No,Hostel,5,3.5,65.4,63.1,High,2026-10-18 17:41:51,SYNTHETIC
+SYN0837,Jomo Kenyatta University of Agriculture and Technology,BSc Electrical and Electronic Engineering,3,10.0,80.0,69.0,,Yes,Library,6,0.0,51.5,61.8,High,2026-10-18 18:04:48,SYNTHETIC
+SYN0838,Masinde Muliro University of Science and Technology,BSc Electrical and Electronic Engineering,1,15.0,88.0,77.0,6.3,Yes,Home,5,6.5,59.5,48.3,Low,2026-10-18 21:47:39,SYNTHETIC
+SYN0839,Strathmore University,Bachelor of Commerce,1,-0.0,67.0,62.0,6.6,Yes,Home,6,4.4,59.2,53.7,Medium,2026-10-18 23:52:52,SYNTHETIC
+SYN0840,Kenyatta University,Bachelor of Education (Science),4,22.0,63.0,67.0,6.6,No,Library,5,3.8,49.1,62.5,High,2026-10-19 00:16:04,SYNTHETIC
+SYN0841,Jomo Kenyatta University of Agriculture and Technology,Bachelor of Education (Science),2,17.0,72.0,79.0,7.8,No,Home,4,2.5,60.7,58.1,Medium,2026-10-19 01:42:43,SYNTHETIC
+SYN0842,Daystar University,Bachelor of Business Information Technology,2,14.0,76.0,62.0,6.8,Yes,Library,6,2.2,64.1,64.9,High,2026-10-19 02:05:58,SYNTHETIC
+SYN0843,Kenyatta University,BSc Agriculture,4,-0.0,70.0,69.0,6.6,No,Other,7,3.9,54.6,50.9,Medium,2026-10-19 02:11:46,SYNTHETIC
+SYN0844,Kenyatta University,Bachelor of Commerce,3,9.0,82.0,67.0,6.2,No,Hostel,9,4.6,56.4,56.4,Medium,2026-10-19 06:35:26,SYNTHETIC
+SYN0845,Daystar University,Bachelor of Commerce,1,12.0,81.0,70.0,7.2,No,Hostel,5,2.1,41.6,48.8,Low,2026-10-19 06:57:09,SYNTHETIC
+SYN0846,Mount Kenya University,BSc Nursing,3,14.0,82.0,58.0,5.0,Yes,Library,6,4.9,,60.8,High,2026-10-19 07:54:38,SYNTHETIC
+SYN0847,Technical University of Kenya,Bachelor of Laws (LLB),4,15.0,92.0,67.0,7.1,Yes,Library,6,1.4,65.1,69.2,High,2026-10-19 08:06:35,SYNTHETIC
+SYN0848,Masinde Muliro University of Science and Technology,BSc Computer Science,4,16.0,82.0,79.0,8.4,No,Other,5,,78.6,77.3,High,2026-10-19 08:17:33,SYNTHETIC
+SYN0849,Jomo Kenyatta University of Agriculture and Technology,BSc Electrical and Electronic Engineering,3,6.0,49.0,84.0,7.6,Yes,Hostel,7,5.9,56.5,57.9,Medium,2026-10-19 10:59:01,SYNTHETIC
+SYN0850,Kenyatta University,BSc Computer Science,3,16.0,77.0,78.0,6.7,Yes,Library,5,3.2,68.7,61.6,High,2026-10-19 14:05:02,SYNTHETIC
+SYN0851,Kenyatta University,BSc Statistics and Data Science,4,8.0,76.0,67.0,5.3,No,Library,3,0.0,36.9,48.5,Low,2026-10-19 14:31:29,SYNTHETIC
+SYN0852,Maseno University,Bachelor of Commerce,4,10.0,83.0,66.0,5.4,Yes,Library,6,4.4,53.1,54.3,Medium,2026-10-19 15:24:36,SYNTHETIC
+SYN0853,Mount Kenya University,Bachelor of Laws (LLB),4,22.0,99.0,90.0,6.7,Yes,Library,7,1.0,73.3,62.0,High,2026-10-19 15:34:18,SYNTHETIC
+SYN0854,Jomo Kenyatta University of Agriculture and Technology,BSc Civil Engineering,2,12.0,81.0,89.0,7.2,Yes,Home,5,5.4,53.6,46.5,Low,2026-10-19 17:08:12,SYNTHETIC
+SYN0855,Mount Kenya University,Bachelor of Education (Science),1,23.0,83.0,98.0,7.2,Yes,Library,7,4.1,72.8,61.6,High,2026-10-19 17:16:13,SYNTHETIC
+SYN0856,Kenyatta University,BSc Electrical and Electronic Engineering,5,18.0,60.0,81.0,9.8,Yes,Home,7,3.0,74.8,68.9,High,2026-10-19 18:17:05,SYNTHETIC
+SYN0857,Jomo Kenyatta University of Agriculture and Technology,Bachelor of Education (Arts),2,21.0,52.0,74.0,7.6,Yes,Library,5,4.6,57.9,61.3,High,2026-10-19 18:25:28,SYNTHETIC
+SYN0858,Other (not listed),BSc Statistics and Data Science,3,27.0,66.0,81.0,,Yes,Other,4,1.1,61.0,60.6,High,2026-10-19 20:04:36,SYNTHETIC
+SYN0859,Daystar University,BSc Statistics and Data Science,4,,75.0,74.0,6.0,Yes,Other,6,2.2,71.2,61.6,High,2026-10-19 20:07:27,SYNTHETIC
+SYN0860,Mount Kenya University,Bachelor of Commerce,2,15.0,78.0,77.0,4.8,Yes,Home,5,2.7,70.6,62.7,High,2026-10-19 20:57:32,SYNTHETIC
+SYN0861,Egerton University,Bachelor of Commerce,3,14.0,85.0,70.0,6.1,Yes,Hostel,6,3.1,56.9,69.9,High,2026-10-19 21:13:55,SYNTHETIC
+SYN0862,Maseno University,Bachelor of Commerce,3,24.0,94.0,77.0,7.2,Yes,Library,7,4.2,69.7,67.2,High,2026-10-19 21:53:35,SYNTHETIC
+SYN0863,Mount Kenya University,Bachelor of Education (Science),4,10.0,83.0,77.0,6.2,No,Library,5,6.0,,45.6,Low,2026-10-19 23:45:08,SYNTHETIC
+SYN0864,Strathmore University,Bachelor of Education (Arts),3,24.0,90.0,63.0,6.7,Yes,Hostel,5,2.9,37.6,43.4,Low,2026-10-19 23:57:35,SYNTHETIC
+SYN0865,Jomo Kenyatta University of Agriculture and Technology,BSc Computer Science,2,12.0,100.0,100.0,8.0,Yes,Library,5,2.1,44.6,60.2,High,2026-10-20 00:25:19,SYNTHETIC
+SYN0866,Masinde Muliro University of Science and Technology,BSc Agriculture,4,17.0,89.0,92.0,8.0,Yes,Other,7,3.2,54.0,63.7,High,2026-10-20 00:45:30,SYNTHETIC
+SYN0867,Dedan Kimathi University of Technology,Bachelor of Commerce,4,15.0,94.0,75.0,6.8,Yes,Library,7,4.5,81.3,69.5,High,2026-10-20 06:32:37,SYNTHETIC
+SYN0868,University of Nairobi,BSc Computer Science,1,20.0,83.0,71.0,6.8,Yes,Hostel,6,4.2,35.5,36.0,Low,2026-10-20 06:43:16,SYNTHETIC
+SYN0869,Technical University of Kenya,BSc Nursing,1,7.0,57.0,75.0,5.6,Yes,Library,4,2.7,49.3,63.9,High,2026-10-20 08:23:34,SYNTHETIC
+SYN0870,Mount Kenya University,BA Economics,4,12.0,77.0,70.0,6.2,Yes,Hostel,6,1.7,49.5,66.3,High,2026-10-20 08:31:06,SYNTHETIC
+SYN0871,Strathmore University,Bachelor of Commerce,4,15.0,61.0,69.0,5.9,No,Other,7,5.7,49.6,44.2,Low,2026-10-20 09:03:13,SYNTHETIC
+SYN0872,Maseno University,BSc Civil Engineering,1,12.0,99.0,95.0,6.6,Yes,Library,6,5.6,69.2,51.0,Medium,2026-10-20 09:49:05,SYNTHETIC
+SYN0873,Multimedia University of Kenya,BSc Information Technology,1,10.0,83.0,67.0,7.6,Yes,Hostel,5,3.7,53.9,42.0,Low,2026-10-20 10:48:02,SYNTHETIC
+SYN0874,Catholic University of Eastern Africa,Bachelor of Commerce,3,10.0,83.0,79.0,7.5,Yes,Library,8,2.7,38.8,52.3,Medium,2026-10-20 11:28:16,SYNTHETIC
+SYN0875,Maseno University,BSc Electrical and Electronic Engineering,2,0.0,84.0,49.0,7.4,No,Classroom,6,3.6,35.8,46.4,Low,2026-10-20 11:39:31,SYNTHETIC
+SYN0876,Moi University,BSc Civil Engineering,4,9.0,55.0,93.0,5.3,No,Library,7,4.3,51.0,48.1,Low,2026-10-20 11:40:14,SYNTHETIC
+SYN0877,Kabarak University,Bachelor of Commerce,2,0.0,61.0,41.0,6.7,Yes,Home,6,5.8,45.2,56.1,Medium,2026-10-20 12:50:37,SYNTHETIC
+SYN0878,Technical University of Kenya,BSc Electrical and Electronic Engineering,2,-0.0,53.0,70.0,7.8,No,Home,4,5.1,55.6,40.9,Low,2026-10-20 14:13:29,SYNTHETIC
+SYN0879,Kenyatta University,Bachelor of Education (Arts),3,13.0,73.0,79.0,7.3,Yes,Library,7,5.7,58.5,46.1,Low,2026-10-20 14:51:58,SYNTHETIC
+SYN0880,KCA University,Bachelor of Medicine and Surgery (MBChB),1,-0.0,68.0,77.0,5.4,Yes,Hostel,5,5.1,57.4,56.2,Medium,2026-10-20 15:25:11,SYNTHETIC
+SYN0881,Mount Kenya University,BSc Statistics and Data Science,4,1.0,97.0,61.0,8.9,Yes,Home,6,3.5,58.8,55.5,Medium,2026-10-20 15:37:42,SYNTHETIC
+SYN0882,United States International University-Africa,BA Journalism and Mass Communication,1,18.0,90.0,96.0,8.2,No,Library,7,4.0,44.1,62.2,High,2026-10-20 17:49:15,SYNTHETIC
+SYN0883,Egerton University,BSc Computer Science,2,7.0,69.0,89.0,8.9,Yes,Home,7,4.2,59.5,58.4,Medium,2026-10-20 17:53:03,SYNTHETIC
+SYN0884,Jomo Kenyatta University of Agriculture and Technology,Bachelor of Commerce,3,26.0,100.0,89.0,7.9,No,Library,5,5.1,74.9,64.6,High,2026-10-20 20:56:54,SYNTHETIC
+SYN0885,Jomo Kenyatta University of Agriculture and Technology,BSc Mathematics,2,11.0,63.0,76.0,7.8,No,Other,6,2.8,69.1,64.2,High,2026-10-20 21:55:09,SYNTHETIC
+SYN0886,KCA University,BSc Nursing,2,20.0,65.0,93.0,7.7,Yes,Home,6,,48.5,66.4,High,2026-10-20 21:55:56,SYNTHETIC
+SYN0887,Mount Kenya University,Bachelor of Education (Arts),4,0.0,62.0,75.0,7.7,No,Classroom,3,6.7,61.1,45.3,Low,2026-10-20 23:28:18,SYNTHETIC
+SYN0888,United States International University-Africa,BA Journalism and Mass Communication,1,5.0,64.0,79.0,7.5,Yes,Home,4,6.7,60.2,41.2,Low,2026-10-20 23:37:07,SYNTHETIC
+SYN0889,Masinde Muliro University of Science and Technology,Bachelor of Education (Arts),1,7.0,71.0,69.0,4.8,Yes,Other,5,2.8,62.1,60.7,High,2026-10-21 03:32:12,SYNTHETIC
+SYN0890,Mount Kenya University,BSc Electrical and Electronic Engineering,5,3.0,55.0,74.0,5.4,No,Hostel,3,4.2,,60.2,High,2026-10-21 03:32:14,SYNTHETIC
+SYN0891,Moi University,Bachelor of Medicine and Surgery (MBChB),3,3.0,72.0,69.0,7.8,Yes,Library,6,3.7,51.6,49.8,Low,2026-10-21 04:37:09,SYNTHETIC
+SYN0892,Technical University of Kenya,BSc Statistics and Data Science,2,2.0,66.0,88.0,6.9,No,Library,5,5.3,62.8,71.6,High,2026-10-21 05:37:12,SYNTHETIC
+SYN0893,Strathmore University,BSc Computer Science,3,24.0,95.0,85.0,6.3,Yes,Hostel,6,2.2,56.3,52.5,Medium,2026-10-21 05:55:23,SYNTHETIC
+SYN0894,Moi University,Bachelor of Medicine and Surgery (MBChB),2,24.0,80.0,82.0,6.8,Yes,Hostel,6,3.0,61.4,61.2,High,2026-10-21 06:19:57,SYNTHETIC
+SYN0895,Strathmore University,Bachelor of Laws (LLB),1,17.0,87.0,100.0,7.9,Yes,Library,7,4.4,77.4,80.0,High,2026-10-21 06:41:06,SYNTHETIC
+SYN0896,Egerton University,BSc Computer Science,1,22.0,77.0,69.0,7.3,Yes,Classroom,8,1.3,69.7,77.7,High,2026-10-21 06:43:53,SYNTHETIC
+SYN0897,Multimedia University of Kenya,BSc Information Technology,3,8.0,63.0,60.0,6.7,Yes,Classroom,5,5.5,29.1,37.6,Low,2026-10-21 08:17:56,SYNTHETIC
+SYN0898,Egerton University,BSc Mathematics,3,6.0,86.0,96.0,4.0,Yes,Home,8,3.6,61.2,66.2,High,2026-10-21 09:09:03,SYNTHETIC
+SYN0899,University of Nairobi,BSc Agriculture,4,11.0,67.0,76.0,3.5,Yes,Home,7,4.5,50.8,56.8,Medium,2026-10-21 09:15:54,SYNTHETIC
+SYN0900,Catholic University of Eastern Africa,Bachelor of Commerce,1,19.0,92.0,71.0,6.4,Yes,Hostel,6,3.3,53.0,61.2,High,2026-10-21 11:22:02,SYNTHETIC
+SYN0901,United States International University-Africa,BSc Nursing,2,10.0,89.0,71.0,6.2,Yes,Home,6,5.2,57.2,59.2,Medium,2026-10-21 11:27:55,SYNTHETIC
+SYN0902,Moi University,BA Economics,1,2.0,66.0,78.0,8.5,Yes,Hostel,3,6.6,52.0,39.9,Low,2026-10-21 14:16:06,SYNTHETIC
+SYN0903,Strathmore University,Bachelor of Education (Arts),3,21.0,81.0,61.0,5.6,Yes,Hostel,7,3.8,36.3,45.3,Low,2026-10-21 15:04:46,SYNTHETIC
+SYN0904,Kenyatta University,BSc Computer Science,1,19.0,75.0,100.0,5.4,Yes,Hostel,6,0.9,51.9,60.3,High,2026-10-21 15:48:47,SYNTHETIC
+SYN0905,Catholic University of Eastern Africa,Bachelor of Education (Arts),3,7.0,69.0,89.0,7.1,Yes,Hostel,5,2.6,58.8,61.8,High,2026-10-21 16:00:31,SYNTHETIC
+SYN0906,Egerton University,Bachelor of Commerce,1,9.0,84.0,90.0,5.8,No,Classroom,5,5.6,71.3,59.8,Medium,2026-10-21 17:19:52,SYNTHETIC
+SYN0907,University of Nairobi,BSc Statistics and Data Science,3,10.0,100.0,100.0,6.1,No,Home,6,4.5,65.6,60.1,High,2026-10-21 18:22:11,SYNTHETIC
+SYN0908,Kenyatta University,BSc Information Technology,4,12.0,64.0,69.0,5.7,Yes,Library,5,3.0,72.4,64.9,High,2026-10-21 18:50:08,SYNTHETIC
+SYN0909,Jomo Kenyatta University of Agriculture and Technology,Bachelor of Education (Arts),2,10.0,50.0,80.0,5.6,Yes,Library,9,2.5,49.8,53.3,Medium,2026-10-21 19:08:44,SYNTHETIC
+SYN0910,Jomo Kenyatta University of Agriculture and Technology,BSc Electrical and Electronic Engineering,1,8.0,59.0,100.0,7.7,Yes,Library,4,4.6,55.0,49.5,Low,2026-10-21 19:26:16,SYNTHETIC
+SYN0911,Egerton University,Bachelor of Education (Arts),3,28.0,71.0,68.0,6.4,Yes,Home,5,3.4,51.2,56.2,Medium,2026-10-21 19:48:48,SYNTHETIC
+SYN0912,University of Nairobi,BSc Computer Science,1,18.0,91.0,93.0,7.8,Yes,Home,6,0.8,,54.4,Medium,2026-10-21 21:17:20,SYNTHETIC
+SYN0913,Daystar University,BSc Electrical and Electronic Engineering,3,1.0,71.0,75.0,6.4,Yes,Other,8,4.2,71.8,53.9,Medium,2026-10-21 21:33:33,SYNTHETIC
+SYN0914,Jomo Kenyatta University of Agriculture and Technology,BSc Statistics and Data Science,1,24.0,91.0,84.0,7.8,Yes,Library,7,2.4,61.3,73.7,High,2026-10-21 23:54:11,SYNTHETIC
+SYN0915,Catholic University of Eastern Africa,Bachelor of Education (Science),4,9.0,70.0,77.0,5.2,Yes,Other,6,6.1,55.8,51.2,Medium,2026-10-22 00:06:57,SYNTHETIC
+SYN0916,Africa Nazarene University,BSc Statistics and Data Science,1,5.0,64.0,52.0,7.6,Yes,Other,6,1.7,45.1,43.9,Low,2026-10-22 02:56:28,SYNTHETIC
+SYN0917,Maseno University,Bachelor of Business Information Technology,4,13.0,57.0,88.0,7.2,Yes,Classroom,4,4.5,73.3,56.7,Medium,2026-10-22 03:03:10,SYNTHETIC
+SYN0918,Other (not listed),Bachelor of Commerce,2,0.0,49.0,71.0,6.3,Yes,Library,4,4.0,61.2,38.9,Low,2026-10-22 03:36:04,SYNTHETIC
+SYN0919,United States International University-Africa,Bachelor of Education (Arts),2,7.0,50.0,58.0,6.0,Yes,Library,3,4.9,52.4,47.2,Low,2026-10-22 04:31:44,SYNTHETIC
+SYN0920,Masinde Muliro University of Science and Technology,Bachelor of Education (Arts),2,18.0,78.0,63.0,5.5,Yes,Hostel,4,3.7,50.9,42.9,Low,2026-10-22 04:43:58,SYNTHETIC
+SYN0921,Egerton University,BSc Computer Science,1,16.0,91.0,86.0,6.5,Yes,Home,5,4.8,67.9,68.4,High,2026-10-22 05:05:11,SYNTHETIC
+SYN0922,United States International University-Africa,BA Journalism and Mass Communication,3,1.0,54.0,70.0,6.1,Yes,Home,9,4.3,36.3,49.6,Low,2026-10-22 05:21:11,SYNTHETIC
+SYN0923,Kabarak University,Bachelor of Business Information Technology,4,16.0,84.0,80.0,7.2,No,Hostel,10,5.4,45.6,49.0,Low,2026-10-22 06:12:20,SYNTHETIC
+SYN0924,Kabarak University,BSc Nursing,4,8.0,78.0,66.0,6.4,Yes,Home,5,5.2,52.4,55.3,Medium,2026-10-22 06:56:36,SYNTHETIC
+SYN0925,Kenyatta University,Bachelor of Business Information Technology,1,5.0,73.0,72.0,5.6,Yes,Classroom,9,5.0,58.0,57.1,Medium,2026-10-22 07:09:05,SYNTHETIC
+SYN0926,University of Nairobi,BSc Computer Science,4,0.0,66.0,69.0,6.6,Yes,Home,7,5.1,45.7,43.7,Low,2026-10-22 07:15:11,SYNTHETIC
+SYN0927,Dedan Kimathi University of Technology,Bachelor of Education (Science),1,20.0,74.0,67.0,7.2,No,Library,5,5.0,54.0,54.1,Medium,2026-10-22 08:05:14,SYNTHETIC
+SYN0928,Moi University,Bachelor of Commerce,1,14.0,85.0,74.0,7.2,Yes,Library,6,4.7,66.4,65.2,High,2026-10-22 08:05:37,SYNTHETIC
+SYN0929,Dedan Kimathi University of Technology,Bachelor of Education (Arts),2,16.0,69.0,82.0,7.4,Yes,Home,8,3.3,47.0,57.9,Medium,2026-10-22 08:39:09,SYNTHETIC
+SYN0930,University of Nairobi,Bachelor of Medicine and Surgery (MBChB),2,15.0,61.0,94.0,6.6,Yes,Library,6,1.4,65.2,67.5,High,2026-10-22 08:57:21,SYNTHETIC
+SYN0931,Kenyatta University,Bachelor of Commerce,1,12.0,80.0,87.0,5.9,Yes,Home,8,4.6,47.7,58.6,Medium,2026-10-22 09:45:49,SYNTHETIC
+SYN0932,Masinde Muliro University of Science and Technology,Bachelor of Education (Science),1,14.0,93.0,89.0,8.5,No,Other,5,1.1,60.2,59.5,Medium,2026-10-22 10:21:39,SYNTHETIC
+SYN0933,Maseno University,Bachelor of Laws (LLB),3,13.0,63.0,92.0,7.6,Yes,Home,7,3.2,53.5,61.0,High,2026-10-22 10:39:18,SYNTHETIC
+SYN0934,KCA University,BSc Computer Science,2,22.0,87.0,83.0,6.1,Yes,Library,6,5.1,57.1,66.6,High,2026-10-22 11:52:38,SYNTHETIC
+SYN0935,KCA University,BSc Information Technology,2,12.0,80.0,52.0,4.9,Yes,Home,5,2.2,39.7,42.2,Low,2026-10-22 12:44:00,SYNTHETIC
+SYN0936,Mount Kenya University,BSc Electrical and Electronic Engineering,3,19.0,91.0,96.0,7.8,Yes,Home,4,0.0,64.4,72.1,High,2026-10-22 15:45:34,SYNTHETIC
+SYN0937,Dedan Kimathi University of Technology,BSc Statistics and Data Science,2,,58.0,93.0,5.6,Yes,Library,5,0.5,59.7,69.0,High,2026-10-22 15:47:16,SYNTHETIC
+SYN0938,University of Nairobi,BSc Statistics and Data Science,2,14.0,45.0,55.0,5.5,Yes,Home,7,4.7,53.8,50.9,Medium,2026-10-22 17:59:44,SYNTHETIC
+SYN0939,Moi University,BSc Information Technology,2,7.0,100.0,100.0,6.6,No,Library,7,5.5,76.8,72.6,High,2026-10-22 20:49:07,SYNTHETIC
+SYN0940,University of Nairobi,Bachelor of Laws (LLB),4,8.0,68.0,81.0,8.1,Yes,Library,9,1.2,64.8,70.4,High,2026-10-22 23:05:50,SYNTHETIC
+SYN0941,United States International University-Africa,BSc Civil Engineering,1,12.0,64.0,83.0,6.6,No,Hostel,7,3.6,56.6,61.6,High,2026-10-23 01:14:25,SYNTHETIC
+SYN0942,University of Nairobi,BSc Agriculture,1,25.0,80.0,55.0,7.7,Yes,Library,6,5.5,43.9,51.3,Medium,2026-10-23 03:57:26,SYNTHETIC
+SYN0943,Jomo Kenyatta University of Agriculture and Technology,BSc Nursing,3,20.0,66.0,99.0,8.0,Yes,Classroom,8,1.2,51.1,66.5,High,2026-10-23 03:59:53,SYNTHETIC
+SYN0944,University of Nairobi,BSc Statistics and Data Science,4,5.0,68.0,80.0,5.9,No,Other,5,2.9,54.1,43.1,Low,2026-10-23 06:19:56,SYNTHETIC
+SYN0945,Egerton University,BSc Information Technology,4,0.0,78.0,80.0,6.0,Yes,Home,7,1.3,50.6,57.4,Medium,2026-10-23 06:49:35,SYNTHETIC
+SYN0946,Jomo Kenyatta University of Agriculture and Technology,BSc Civil Engineering,3,0.0,51.0,45.0,7.7,Yes,Classroom,4,3.9,53.7,53.8,Medium,2026-10-23 07:19:01,SYNTHETIC
+SYN0947,Kenyatta University,BA Journalism and Mass Communication,1,20.0,84.0,54.0,7.0,Yes,Library,5,4.6,65.3,73.1,High,2026-10-23 08:46:02,SYNTHETIC
+SYN0948,Maseno University,Bachelor of Commerce,1,16.0,84.0,74.0,7.5,Yes,Home,4,3.4,35.4,40.1,Low,2026-10-23 12:03:08,SYNTHETIC
+SYN0949,Egerton University,BSc Agriculture,3,19.0,58.0,83.0,8.2,Yes,Library,6,7.8,57.0,44.4,Low,2026-10-23 12:40:27,SYNTHETIC
+SYN0950,Kenyatta University,BSc Civil Engineering,2,13.0,76.0,74.0,8.4,No,Home,6,3.9,56.0,54.1,Medium,2026-10-23 15:02:45,SYNTHETIC
+SYN0951,Jomo Kenyatta University of Agriculture and Technology,BSc Computer Science,3,6.0,76.0,57.0,7.0,No,Hostel,5,2.6,65.5,57.4,Medium,2026-10-23 16:43:06,SYNTHETIC
+SYN0952,United States International University-Africa,Bachelor of Medicine and Surgery (MBChB),1,9.0,73.0,81.0,7.0,Yes,Classroom,7,2.2,54.8,52.7,Medium,2026-10-23 16:51:58,SYNTHETIC
+SYN0953,Masinde Muliro University of Science and Technology,BSc Information Technology,2,0.0,30.0,35.0,5.2,Yes,Home,5,2.6,55.1,35.5,Low,2026-10-23 17:26:14,SYNTHETIC
+SYN0954,Technical University of Kenya,Bachelor of Education (Arts),1,13.0,80.0,78.0,7.2,Yes,Library,8,3.8,79.3,75.8,High,2026-10-23 18:13:38,SYNTHETIC
+SYN0955,University of Nairobi,BSc Nursing,1,11.0,84.0,76.0,6.4,No,Home,5,1.2,68.5,59.1,Medium,2026-10-23 19:18:20,SYNTHETIC
+SYN0956,Multimedia University of Kenya,BSc Computer Science,3,11.0,72.0,61.0,7.5,Yes,Other,9,3.8,57.6,52.4,Medium,2026-10-23 19:51:07,SYNTHETIC
+SYN0957,Strathmore University,Bachelor of Laws (LLB),2,19.0,69.0,61.0,6.4,Yes,Other,5,4.4,61.5,50.7,Medium,2026-10-23 21:14:55,SYNTHETIC
+SYN0958,Masinde Muliro University of Science and Technology,BSc Computer Science,1,13.0,64.0,70.0,5.5,Yes,Other,4,5.7,62.6,55.1,Medium,2026-10-24 00:05:44,SYNTHETIC
+SYN0959,University of Nairobi,Bachelor of Education (Science),4,11.0,52.0,73.0,7.8,Yes,Home,8,5.4,55.5,62.5,High,2026-10-24 00:18:44,SYNTHETIC
+SYN0960,Maseno University,Bachelor of Commerce,2,24.0,100.0,100.0,6.6,Yes,Home,6,0.6,79.2,76.5,High,2026-10-24 00:31:54,SYNTHETIC
+SYN0961,Mount Kenya University,Bachelor of Education (Science),4,15.0,75.0,80.0,7.9,Yes,Classroom,6,1.7,60.3,37.5,Low,2026-10-24 02:17:03,SYNTHETIC
+SYN0962,Mount Kenya University,BSc Electrical and Electronic Engineering,3,14.0,79.0,96.0,8.5,Yes,Hostel,6,3.8,43.0,63.0,High,2026-10-24 03:10:31,SYNTHETIC
+SYN0963,Kabarak University,Bachelor of Business Information Technology,3,11.0,68.0,52.0,5.7,Yes,Hostel,6,4.4,43.0,37.2,Low,2026-10-24 03:38:31,SYNTHETIC
+SYN0964,Jomo Kenyatta University of Agriculture and Technology,Bachelor of Education (Science),4,18.0,62.0,82.0,8.1,Yes,Library,8,4.0,46.0,49.9,Low,2026-10-24 03:43:15,SYNTHETIC
+SYN0965,Catholic University of Eastern Africa,BSc Nursing,4,14.0,78.0,71.0,5.6,Yes,Classroom,5,4.2,59.3,46.8,Low,2026-10-24 04:29:38,SYNTHETIC
+SYN0966,Moi University,Bachelor of Education (Arts),3,6.0,81.0,61.0,5.1,Yes,Hostel,5,4.2,41.5,54.2,Medium,2026-10-24 04:52:48,SYNTHETIC
+SYN0967,University of Nairobi,BSc Computer Science,3,17.0,93.0,82.0,6.8,Yes,Home,7,4.4,50.4,50.1,Medium,2026-10-24 05:04:03,SYNTHETIC
+SYN0968,University of Nairobi,BSc Agriculture,4,10.0,82.0,67.0,7.2,Yes,Home,5,4.6,72.3,61.7,High,2026-10-24 05:46:39,SYNTHETIC
+SYN0969,KCA University,Bachelor of Commerce,1,15.0,68.0,61.0,5.5,Yes,Other,7,2.4,52.7,44.6,Low,2026-10-24 05:53:42,SYNTHETIC
+SYN0970,Other (not listed),Bachelor of Education (Arts),2,19.0,,57.0,5.0,Yes,Home,4,0.9,50.3,53.6,Medium,2026-10-24 05:53:49,SYNTHETIC
+SYN0971,Masinde Muliro University of Science and Technology,BSc Nursing,3,12.0,87.0,100.0,6.9,Yes,Library,9,2.6,68.2,67.6,High,2026-10-24 07:45:47,SYNTHETIC
+SYN0972,Catholic University of Eastern Africa,BSc Electrical and Electronic Engineering,1,21.0,89.0,75.0,6.6,Yes,Hostel,6,2.4,55.3,56.9,Medium,2026-10-24 08:25:00,SYNTHETIC
+SYN0973,Strathmore University,BSc Statistics and Data Science,1,9.0,60.0,80.0,5.1,Yes,Classroom,6,3.6,60.3,67.7,High,2026-10-24 09:35:32,SYNTHETIC
+SYN0974,Moi University,Bachelor of Commerce,3,3.0,64.0,56.0,7.1,Yes,Hostel,7,6.0,58.1,58.8,Medium,2026-10-24 09:56:39,SYNTHETIC
+SYN0975,Catholic University of Eastern Africa,Bachelor of Education (Science),1,5.0,76.0,81.0,5.5,No,Home,4,3.2,52.3,48.7,Low,2026-10-24 13:47:28,SYNTHETIC
+SYN0976,Masinde Muliro University of Science and Technology,BSc Computer Science,4,19.0,80.0,75.0,6.7,Yes,Home,7,3.4,46.8,70.0,High,2026-10-24 14:21:57,SYNTHETIC
+SYN0977,Technical University of Kenya,Bachelor of Commerce,4,9.0,69.0,76.0,6.4,Yes,Home,6,5.2,63.5,64.1,High,2026-10-24 15:25:27,SYNTHETIC
+SYN0978,Other (not listed),BSc Computer Science,3,23.0,99.0,94.0,6.8,Yes,Library,4,4.4,69.9,63.0,High,2026-10-24 20:59:18,SYNTHETIC
+SYN0979,Dedan Kimathi University of Technology,BSc Mathematics,2,15.0,75.0,63.0,8.2,Yes,Hostel,5,3.0,57.3,55.0,Medium,2026-10-24 22:07:25,SYNTHETIC
+SYN0980,Masinde Muliro University of Science and Technology,Bachelor of Education (Science),1,8.0,59.0,63.0,7.1,No,Library,8,3.1,49.5,40.5,Low,2026-10-24 22:11:33,SYNTHETIC
+SYN0981,Jomo Kenyatta University of Agriculture and Technology,BSc Computer Science,4,9.0,77.0,83.0,7.0,No,Home,7,5.4,53.1,57.3,Medium,2026-10-24 23:24:41,SYNTHETIC
+SYN0982,University of Nairobi,Bachelor of Education (Arts),3,9.0,73.0,67.0,8.6,Yes,Home,7,1.0,60.9,58.4,Medium,2026-10-25 00:29:50,SYNTHETIC
+SYN0983,Dedan Kimathi University of Technology,Bachelor of Education (Science),1,13.0,78.0,80.0,7.9,Yes,Home,5,2.9,70.5,62.4,High,2026-10-25 00:30:08,SYNTHETIC
+SYN0984,Mount Kenya University,BA Economics,1,1.0,40.0,49.0,7.2,No,Hostel,8,4.4,52.0,59.4,Medium,2026-10-25 01:29:05,SYNTHETIC
+SYN0985,Daystar University,Bachelor of Commerce,3,23.0,100.0,94.0,,Yes,Home,5,4.7,74.6,75.6,High,2026-10-25 04:08:11,SYNTHETIC
+SYN0986,Strathmore University,Bachelor of Medicine and Surgery (MBChB),1,5.0,56.0,90.0,6.8,Yes,Classroom,7,3.8,55.5,60.2,High,2026-10-25 04:14:25,SYNTHETIC
+SYN0987,Moi University,Bachelor of Commerce,2,12.0,74.0,94.0,6.8,Yes,Home,6,0.7,47.1,47.5,Low,2026-10-25 08:28:41,SYNTHETIC
+SYN0988,Kenyatta University,BSc Computer Science,1,6.0,61.0,84.0,6.1,No,Hostel,6,4.4,66.9,57.1,Medium,2026-10-25 09:43:52,SYNTHETIC
+SYN0989,Mount Kenya University,BSc Civil Engineering,3,8.0,56.0,66.0,6.5,No,Library,6,4.0,49.7,45.7,Low,2026-10-25 10:19:52,SYNTHETIC
+SYN0990,Mount Kenya University,Bachelor of Commerce,1,6.0,49.0,50.0,5.2,Yes,Home,5,1.0,51.0,45.1,Low,2026-10-25 10:57:18,SYNTHETIC
+SYN0991,Multimedia University of Kenya,BSc Biochemistry,3,15.0,80.0,91.0,6.4,Yes,Home,7,2.1,55.8,64.3,High,2026-10-25 14:33:53,SYNTHETIC
+SYN0992,Egerton University,BSc Electrical and Electronic Engineering,1,10.0,76.0,75.0,7.2,Yes,Hostel,7,2.7,58.4,64.3,High,2026-10-25 15:26:47,SYNTHETIC
+SYN0993,University of Nairobi,BSc Information Technology,4,7.0,68.0,70.0,6.2,No,Home,7,1.2,47.3,57.4,Medium,2026-10-25 16:18:21,SYNTHETIC
+SYN0994,University of Nairobi,BSc Information Technology,2,0.0,82.0,91.0,6.7,Yes,Library,5,1.0,47.7,53.3,Medium,2026-10-25 17:34:39,SYNTHETIC
+SYN0995,Jomo Kenyatta University of Agriculture and Technology,BSc Civil Engineering,2,16.0,68.0,73.0,7.1,Yes,Library,6,4.0,50.7,52.5,Medium,2026-10-25 17:43:56,SYNTHETIC
+SYN0996,KCA University,Bachelor of Education (Science),3,14.0,65.0,84.0,7.2,Yes,Library,7,4.6,56.6,61.2,High,2026-10-25 18:33:13,SYNTHETIC
+SYN0997,Moi University,Bachelor of Commerce,2,25.0,84.0,72.0,5.4,Yes,Home,5,3.6,42.2,60.9,High,2026-10-25 19:08:31,SYNTHETIC
+SYN0998,Mount Kenya University,BSc Statistics and Data Science,2,15.0,81.0,100.0,6.3,Yes,Hostel,5,0.3,63.4,67.3,High,2026-10-25 19:13:25,SYNTHETIC
+SYN0999,University of Nairobi,Bachelor of Education (Science),4,18.0,79.0,91.0,8.1,Yes,Library,7,4.7,55.8,60.8,High,2026-10-25 20:29:11,SYNTHETIC
+SYN1000,KCA University,BA Economics,3,6.0,69.0,58.0,4.4,Yes,Home,6,6.2,52.0,44.4,Low,2026-10-25 21:35:59,SYNTHETIC

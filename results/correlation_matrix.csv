@@ -1,0 +1,9 @@
+,study_hours_weekly,attendance_percentage,assignment_completion_percentage,sleep_hours,number_of_courses,social_media_hours_daily,previous_performance,current_performance
+study_hours_weekly,1.0,0.389,0.372,0.198,-0.016,-0.158,0.293,0.355
+attendance_percentage,0.389,1.0,0.337,0.163,-0.015,-0.122,0.25,0.303
+assignment_completion_percentage,0.372,0.337,1.0,0.182,0.007,-0.165,0.318,0.367
+sleep_hours,0.198,0.163,0.182,1.0,0.02,-0.077,0.078,0.201
+number_of_courses,-0.016,-0.015,0.007,0.02,1.0,0.028,-0.003,0.021
+social_media_hours_daily,-0.158,-0.122,-0.165,-0.077,0.028,1.0,-0.056,-0.164
+previous_performance,0.293,0.25,0.318,0.078,-0.003,-0.056,1.0,0.643
+current_performance,0.355,0.303,0.367,0.201,0.021,-0.164,0.643,1.0

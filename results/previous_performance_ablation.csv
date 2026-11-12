@@ -1,0 +1,4 @@
+feature_set,Logistic Regression test macro-F1,Logistic Regression test accuracy,Random Forest test macro-F1,Random Forest test accuracy
+All nine predictors,0.5558,0.56,0.5487,0.555
+Without previous_performance,0.4544,0.46,0.4618,0.46
+previous_performance only,0.5701,0.57,0.5609,0.56

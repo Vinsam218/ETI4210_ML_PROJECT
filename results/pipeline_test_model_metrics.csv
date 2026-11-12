@@ -1,0 +1,4 @@
+model,cv_macro_f1_mean,cv_macro_f1_sd,test_accuracy,test_macro_precision,test_macro_recall,test_macro_f1
+Majority baseline,0.184,0.0,0.38,0.1267,0.3333,0.1836
+Logistic Regression,0.5702,0.0213,0.56,0.5575,0.5587,0.5558
+Random Forest,0.5795,0.0171,0.555,0.5513,0.5477,0.5487

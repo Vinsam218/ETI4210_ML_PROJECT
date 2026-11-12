@@ -1,0 +1,20 @@
+GOOGLE FORM LINKS
+=================
+STATUS: NOT CREATED YET. No Google Form exists, so there is no editor link and no respondent link.
+
+Why: this session has no connected Google Forms or Google Drive access, and browser control is not available on the current plan.
+Rather than provide a mock form or invented links, the complete implementation is included:
+
+  google_form_apps_script.gs   - run it once at https://script.google.com to create the REAL Google Form
+                                 (anonymous, no email collection, linked response Google Sheet).
+
+After you run it, the Execution log prints the three real URLs. Paste them below:
+
+EDITOR URL    : (paste here)
+RESPONDENT URL: (paste here)
+RESPONSE SHEET: (paste here)
+
+Verification still to do by you: open the respondent URL in a private window, submit one test answer,
+confirm it reaches the Sheet, then delete that test row.
+
+No responses have been collected. Nothing in this folder describes real respondents.

@@ -1,0 +1,850 @@
+{
+ "n_rows": 1000,
+ "n_cols": 17,
+ "data_source_values": [
+  "SYNTHETIC"
+ ],
+ "duplicate_ids": 0,
+ "duplicate_rows": 0,
+ "validation": [
+  {
+   "variable": "study_hours_weekly",
+   "allowed": "0-80",
+   "min": 0.0,
+   "max": 33.0,
+   "missing": 6,
+   "missing_%": 0.6,
+   "out_of_range": 0
+  },
+  {
+   "variable": "attendance_percentage",
+   "allowed": "0-100",
+   "min": 30.0,
+   "max": 100.0,
+   "missing": 11,
+   "missing_%": 1.1,
+   "out_of_range": 0
+  },
+  {
+   "variable": "assignment_completion_percentage",
+   "allowed": "0-100",
+   "min": 15.0,
+   "max": 100.0,
+   "missing": 0,
+   "missing_%": 0.0,
+   "out_of_range": 0
+  },
+  {
+   "variable": "sleep_hours",
+   "allowed": "2-14",
+   "min": 3.5,
+   "max": 10.0,
+   "missing": 14,
+   "missing_%": 1.4,
+   "out_of_range": 0
+  },
+  {
+   "variable": "number_of_courses",
+   "allowed": "1-12",
+   "min": 3.0,
+   "max": 10.0,
+   "missing": 0,
+   "missing_%": 0.0,
+   "out_of_range": 0
+  },
+  {
+   "variable": "social_media_hours_daily",
+   "allowed": "0-16",
+   "min": 0.0,
+   "max": 8.2,
+   "missing": 13,
+   "missing_%": 1.3,
+   "out_of_range": 0
+  },
+  {
+   "variable": "previous_performance",
+   "allowed": "0-100",
+   "min": 25.6,
+   "max": 85.2,
+   "missing": 16,
+   "missing_%": 1.6,
+   "out_of_range": 0
+  },
+  {
+   "variable": "current_performance",
+   "allowed": "0-100",
+   "min": 23.3,
+   "max": 88.5,
+   "missing": 0,
+   "missing_%": 0.0,
+   "out_of_range": 0
+  },
+  {
+   "variable": "year_of_study",
+   "allowed": "1-5",
+   "min": 1.0,
+   "max": 5.0,
+   "missing": 0,
+   "missing_%": 0.0,
+   "out_of_range": 0
+  }
+ ],
+ "total_missing_cells": 60,
+ "rows_with_any_missing": 59,
+ "categorical_levels": {
+  "internet_access": [
+   "No",
+   "Yes"
+  ],
+  "study_location": [
+   "Classroom",
+   "Home",
+   "Hostel",
+   "Library",
+   "Other"
+  ],
+  "performance_category": [
+   "High",
+   "Low",
+   "Medium"
+  ],
+  "data_source": [
+   "SYNTHETIC"
+  ]
+ },
+ "ts_min": "2026-09-14 06:23:18",
+ "ts_max": "2026-10-25 21:35:59",
+ "target_mismatches": 0,
+ "descriptives": [
+  {
+   "variable": "study_hours_weekly",
+   "count": 994.0,
+   "mean": 12.16,
+   "std": 7.18,
+   "min": 0.0,
+   "25%": 7.0,
+   "50%": 12.0,
+   "75%": 17.0,
+   "max": 33.0,
+   "missing": 6,
+   "iqr_outliers": 1
+  },
+  {
+   "variable": "attendance_percentage",
+   "count": 989.0,
+   "mean": 75.66,
+   "std": 13.15,
+   "min": 30.0,
+   "25%": 67.0,
+   "50%": 76.0,
+   "75%": 85.0,
+   "max": 100.0,
+   "missing": 11,
+   "iqr_outliers": 4
+  },
+  {
+   "variable": "assignment_completion_percentage",
+   "count": 1000.0,
+   "mean": 77.58,
+   "std": 14.74,
+   "min": 15.0,
+   "25%": 67.0,
+   "50%": 78.0,
+   "75%": 89.0,
+   "max": 100.0,
+   "missing": 0,
+   "iqr_outliers": 5
+  },
+  {
+   "variable": "sleep_hours",
+   "count": 986.0,
+   "mean": 6.6,
+   "std": 1.13,
+   "min": 3.5,
+   "25%": 5.8,
+   "50%": 6.6,
+   "75%": 7.3,
+   "max": 10.0,
+   "missing": 14,
+   "iqr_outliers": 11
+  },
+  {
+   "variable": "number_of_courses",
+   "count": 1000.0,
+   "mean": 6.27,
+   "std": 1.35,
+   "min": 3.0,
+   "25%": 5.0,
+   "50%": 6.0,
+   "75%": 7.0,
+   "max": 10.0,
+   "missing": 0,
+   "iqr_outliers": 0
+  },
+  {
+   "variable": "social_media_hours_daily",
+   "count": 987.0,
+   "mean": 3.59,
+   "std": 1.61,
+   "min": 0.0,
+   "25%": 2.5,
+   "50%": 3.6,
+   "75%": 4.7,
+   "max": 8.2,
+   "missing": 13,
+   "iqr_outliers": 2
+  },
+  {
+   "variable": "previous_performance",
+   "count": 984.0,
+   "mean": 56.42,
+   "std": 10.27,
+   "min": 25.6,
+   "25%": 49.5,
+   "50%": 56.2,
+   "75%": 63.5,
+   "max": 85.2,
+   "missing": 16,
+   "iqr_outliers": 3
+  },
+  {
+   "variable": "current_performance",
+   "count": 1000.0,
+   "mean": 56.37,
+   "std": 10.09,
+   "min": 23.3,
+   "25%": 49.5,
+   "50%": 56.7,
+   "75%": 62.8,
+   "max": 88.5,
+   "missing": 0,
+   "iqr_outliers": 9
+  }
+ ],
+ "freq_university": [
+  {
+   "university": "University of Nairobi",
+   "count": 116,
+   "percent": 11.6
+  },
+  {
+   "university": "Jomo Kenyatta University of Agriculture and Technology",
+   "count": 93,
+   "percent": 9.3
+  },
+  {
+   "university": "Mount Kenya University",
+   "count": 93,
+   "percent": 9.3
+  },
+  {
+   "university": "Kenyatta University",
+   "count": 92,
+   "percent": 9.2
+  },
+  {
+   "university": "Moi University",
+   "count": 75,
+   "percent": 7.5
+  },
+  {
+   "university": "Technical University of Kenya",
+   "count": 66,
+   "percent": 6.6
+  },
+  {
+   "university": "Strathmore University",
+   "count": 57,
+   "percent": 5.7
+  },
+  {
+   "university": "Egerton University",
+   "count": 55,
+   "percent": 5.5
+  },
+  {
+   "university": "Dedan Kimathi University of Technology",
+   "count": 43,
+   "percent": 4.3
+  },
+  {
+   "university": "KCA University",
+   "count": 41,
+   "percent": 4.1
+  },
+  {
+   "university": "Maseno University",
+   "count": 39,
+   "percent": 3.9
+  },
+  {
+   "university": "Masinde Muliro University of Science and Technology",
+   "count": 39,
+   "percent": 3.9
+  },
+  {
+   "university": "Kabarak University",
+   "count": 32,
+   "percent": 3.2
+  },
+  {
+   "university": "United States International University-Africa",
+   "count": 32,
+   "percent": 3.2
+  },
+  {
+   "university": "Catholic University of Eastern Africa",
+   "count": 31,
+   "percent": 3.1
+  },
+  {
+   "university": "Multimedia University of Kenya",
+   "count": 30,
+   "percent": 3.0
+  },
+  {
+   "university": "Daystar University",
+   "count": 28,
+   "percent": 2.8
+  },
+  {
+   "university": "Africa Nazarene University",
+   "count": 19,
+   "percent": 1.9
+  },
+  {
+   "university": "Other (not listed)",
+   "count": 19,
+   "percent": 1.9
+  }
+ ],
+ "freq_programme": [
+  {
+   "programme": "Bachelor of Commerce",
+   "count": 123,
+   "percent": 12.3
+  },
+  {
+   "programme": "BSc Computer Science",
+   "count": 108,
+   "percent": 10.8
+  },
+  {
+   "programme": "Bachelor of Education (Arts)",
+   "count": 98,
+   "percent": 9.8
+  },
+  {
+   "programme": "BSc Information Technology",
+   "count": 74,
+   "percent": 7.4
+  },
+  {
+   "programme": "BSc Nursing",
+   "count": 70,
+   "percent": 7.0
+  },
+  {
+   "programme": "BSc Electrical and Electronic Engineering",
+   "count": 63,
+   "percent": 6.3
+  },
+  {
+   "programme": "Bachelor of Education (Science)",
+   "count": 59,
+   "percent": 5.9
+  },
+  {
+   "programme": "BA Economics",
+   "count": 54,
+   "percent": 5.4
+  },
+  {
+   "programme": "Bachelor of Laws (LLB)",
+   "count": 52,
+   "percent": 5.2
+  },
+  {
+   "programme": "BSc Civil Engineering",
+   "count": 52,
+   "percent": 5.2
+  },
+  {
+   "programme": "BA Journalism and Mass Communication",
+   "count": 45,
+   "percent": 4.5
+  },
+  {
+   "programme": "BSc Statistics and Data Science",
+   "count": 44,
+   "percent": 4.4
+  },
+  {
+   "programme": "BSc Agriculture",
+   "count": 43,
+   "percent": 4.3
+  },
+  {
+   "programme": "Bachelor of Business Information Technology",
+   "count": 31,
+   "percent": 3.1
+  },
+  {
+   "programme": "Bachelor of Medicine and Surgery (MBChB)",
+   "count": 30,
+   "percent": 3.0
+  },
+  {
+   "programme": "BSc Mathematics",
+   "count": 29,
+   "percent": 2.9
+  },
+  {
+   "programme": "BSc Biochemistry",
+   "count": 25,
+   "percent": 2.5
+  }
+ ],
+ "freq_year_of_study": [
+  {
+   "year_of_study": 2,
+   "count": 261,
+   "percent": 26.1
+  },
+  {
+   "year_of_study": 3,
+   "count": 260,
+   "percent": 26.0
+  },
+  {
+   "year_of_study": 4,
+   "count": 253,
+   "percent": 25.3
+  },
+  {
+   "year_of_study": 1,
+   "count": 216,
+   "percent": 21.6
+  },
+  {
+   "year_of_study": 5,
+   "count": 10,
+   "percent": 1.0
+  }
+ ],
+ "freq_performance_category": [
+  {
+   "performance_category": "Medium",
+   "count": 381,
+   "percent": 38.1
+  },
+  {
+   "performance_category": "High",
+   "count": 355,
+   "percent": 35.5
+  },
+  {
+   "performance_category": "Low",
+   "count": 264,
+   "percent": 26.4
+  }
+ ],
+ "freq_internet_access": [
+  {
+   "internet_access": "Yes",
+   "count": 802,
+   "percent": 80.2
+  },
+  {
+   "internet_access": "No",
+   "count": 198,
+   "percent": 19.8
+  }
+ ],
+ "freq_study_location": [
+  {
+   "study_location": "Home",
+   "count": 329,
+   "percent": 32.9
+  },
+  {
+   "study_location": "Library",
+   "count": 272,
+   "percent": 27.2
+  },
+  {
+   "study_location": "Hostel",
+   "count": 200,
+   "percent": 20.0
+  },
+  {
+   "study_location": "Other",
+   "count": 106,
+   "percent": 10.6
+  },
+  {
+   "study_location": "Classroom",
+   "count": 93,
+   "percent": 9.3
+  }
+ ],
+ "prev_cur_pearson": 0.643,
+ "prev_cur_spearman": 0.619,
+ "prev_cur_slope": 0.634,
+ "prev_cur_intercept": 20.58,
+ "prev_cur_n": 984,
+ "predictor_tests": [
+  {
+   "variable": "attendance_percentage",
+   "median_Low": 71.0,
+   "median_Medium": 75.0,
+   "median_High": 81.0,
+   "mean_Low": 70.61,
+   "mean_Medium": 75.2,
+   "mean_High": 79.88,
+   "kruskal_H": 69.86,
+   "p_value": 6.7640332860969e-16
+  },
+  {
+   "variable": "study_hours_weekly",
+   "median_Low": 9.0,
+   "median_Medium": 12.0,
+   "median_High": 15.0,
+   "mean_Low": 8.98,
+   "mean_Medium": 11.58,
+   "mean_High": 15.15,
+   "kruskal_H": 109.42,
+   "p_value": 1.7364820852899063e-24
+  },
+  {
+   "variable": "sleep_hours",
+   "median_Low": 6.2,
+   "median_Medium": 6.5,
+   "median_High": 6.8,
+   "mean_Low": 6.29,
+   "mean_Medium": 6.61,
+   "mean_High": 6.81,
+   "kruskal_H": 33.43,
+   "p_value": 5.5054639787926267e-08
+  },
+  {
+   "variable": "assignment_completion_percentage",
+   "median_Low": 69.0,
+   "median_Medium": 79.0,
+   "median_High": 83.0,
+   "mean_Low": 69.75,
+   "mean_Medium": 77.98,
+   "mean_High": 82.99,
+   "kruskal_H": 119.69,
+   "p_value": 1.0216928640725482e-26
+  },
+  {
+   "variable": "social_media_hours_daily",
+   "median_Low": 4.05,
+   "median_Medium": 3.7,
+   "median_High": 3.3,
+   "mean_Low": 3.95,
+   "mean_Medium": 3.63,
+   "mean_High": 3.28,
+   "kruskal_H": 25.37,
+   "p_value": 3.1044252628204503e-06
+  }
+ ],
+ "crosstab_year_of_study": [
+  {
+   "year_of_study": 1,
+   "Low": 60,
+   "Medium": 83,
+   "High": 73
+  },
+  {
+   "year_of_study": 2,
+   "Low": 75,
+   "Medium": 98,
+   "High": 88
+  },
+  {
+   "year_of_study": 3,
+   "Low": 63,
+   "Medium": 104,
+   "High": 93
+  },
+  {
+   "year_of_study": 4,
+   "Low": 63,
+   "Medium": 93,
+   "High": 97
+  },
+  {
+   "year_of_study": 5,
+   "Low": 3,
+   "Medium": 3,
+   "High": 4
+  }
+ ],
+ "chi2_year_of_study": {
+  "chi2": 3.03,
+  "p": 0.9321458574450744,
+  "dof": 8
+ },
+ "crosstab_study_location": [
+  {
+   "study_location": "Classroom",
+   "Low": 26,
+   "Medium": 35,
+   "High": 32
+  },
+  {
+   "study_location": "Home",
+   "Low": 81,
+   "Medium": 135,
+   "High": 113
+  },
+  {
+   "study_location": "Hostel",
+   "Low": 55,
+   "Medium": 72,
+   "High": 73
+  },
+  {
+   "study_location": "Library",
+   "Low": 75,
+   "Medium": 97,
+   "High": 100
+  },
+  {
+   "study_location": "Other",
+   "Low": 27,
+   "Medium": 42,
+   "High": 37
+  }
+ ],
+ "chi2_study_location": {
+  "chi2": 2.56,
+  "p": 0.9588208099920562,
+  "dof": 8
+ },
+ "crosstab_internet_access": [
+  {
+   "internet_access": "No",
+   "Low": 60,
+   "Medium": 70,
+   "High": 68
+  },
+  {
+   "internet_access": "Yes",
+   "Low": 204,
+   "Medium": 311,
+   "High": 287
+  }
+ ],
+ "chi2_internet_access": {
+  "chi2": 2.01,
+  "p": 0.3667042896680641,
+  "dof": 2
+ },
+ "corr_with_current": {
+  "study_hours_weekly": 0.355,
+  "attendance_percentage": 0.303,
+  "assignment_completion_percentage": 0.367,
+  "sleep_hours": 0.201,
+  "number_of_courses": 0.021,
+  "social_media_hours_daily": -0.164,
+  "previous_performance": 0.643
+ },
+ "corr_pairs_top": [
+  {
+   "level_0": "previous_performance",
+   "level_1": "current_performance",
+   "r": 0.643,
+   "abs_r": 0.643
+  },
+  {
+   "level_0": "study_hours_weekly",
+   "level_1": "attendance_percentage",
+   "r": 0.389,
+   "abs_r": 0.389
+  },
+  {
+   "level_0": "study_hours_weekly",
+   "level_1": "assignment_completion_percentage",
+   "r": 0.372,
+   "abs_r": 0.372
+  },
+  {
+   "level_0": "assignment_completion_percentage",
+   "level_1": "current_performance",
+   "r": 0.367,
+   "abs_r": 0.367
+  },
+  {
+   "level_0": "study_hours_weekly",
+   "level_1": "current_performance",
+   "r": 0.355,
+   "abs_r": 0.355
+  },
+  {
+   "level_0": "attendance_percentage",
+   "level_1": "assignment_completion_percentage",
+   "r": 0.337,
+   "abs_r": 0.337
+  },
+  {
+   "level_0": "assignment_completion_percentage",
+   "level_1": "previous_performance",
+   "r": 0.318,
+   "abs_r": 0.318
+  },
+  {
+   "level_0": "attendance_percentage",
+   "level_1": "current_performance",
+   "r": 0.303,
+   "abs_r": 0.303
+  }
+ ],
+ "split": {
+  "train": 800,
+  "test": 200,
+  "train_dist": {
+   "Low": 211,
+   "Medium": 305,
+   "High": 284
+  },
+  "test_dist": {
+   "Low": 53,
+   "Medium": 76,
+   "High": 71
+  }
+ },
+ "imbalance": {
+  "counts": {
+   "Low": 264,
+   "Medium": 381,
+   "High": 355
+  },
+  "ratio_max_to_min": 1.44,
+  "majority_class": "Medium",
+  "majority_share": 0.381
+ },
+ "model_results": [
+  {
+   "model": "Majority baseline",
+   "cv_macro_f1_mean": 0.184,
+   "cv_macro_f1_sd": 0.0,
+   "test_accuracy": 0.38,
+   "test_macro_precision": 0.1267,
+   "test_macro_recall": 0.3333,
+   "test_macro_f1": 0.1836
+  },
+  {
+   "model": "Logistic Regression",
+   "cv_macro_f1_mean": 0.5702,
+   "cv_macro_f1_sd": 0.0213,
+   "test_accuracy": 0.56,
+   "test_macro_precision": 0.5575,
+   "test_macro_recall": 0.5587,
+   "test_macro_f1": 0.5558
+  },
+  {
+   "model": "Random Forest",
+   "cv_macro_f1_mean": 0.5795,
+   "cv_macro_f1_sd": 0.0171,
+   "test_accuracy": 0.555,
+   "test_macro_precision": 0.5513,
+   "test_macro_recall": 0.5477,
+   "test_macro_f1": 0.5487
+  }
+ ],
+ "confusion": {
+  "Majority baseline": [
+   [
+    0,
+    53,
+    0
+   ],
+   [
+    0,
+    76,
+    0
+   ],
+   [
+    0,
+    71,
+    0
+   ]
+  ],
+  "Logistic Regression": [
+   [
+    27,
+    21,
+    5
+   ],
+   [
+    17,
+    33,
+    26
+   ],
+   [
+    3,
+    16,
+    52
+   ]
+  ],
+  "Random Forest": [
+   [
+    24,
+    23,
+    6
+   ],
+   [
+    19,
+    38,
+    19
+   ],
+   [
+    4,
+    18,
+    49
+   ]
+  ]
+ },
+ "ablation": [
+  {
+   "feature_set": "All nine predictors",
+   "Logistic Regression test macro-F1": 0.5558,
+   "Logistic Regression test accuracy": 0.56,
+   "Random Forest test macro-F1": 0.5487,
+   "Random Forest test accuracy": 0.555
+  },
+  {
+   "feature_set": "Without previous_performance",
+   "Logistic Regression test macro-F1": 0.4544,
+   "Logistic Regression test accuracy": 0.46,
+   "Random Forest test macro-F1": 0.4618,
+   "Random Forest test accuracy": 0.46
+  },
+  {
+   "feature_set": "previous_performance only",
+   "Logistic Regression test macro-F1": 0.5701,
+   "Logistic Regression test accuracy": 0.57,
+   "Random Forest test macro-F1": 0.5609,
+   "Random Forest test accuracy": 0.56
+  }
+ ],
+ "rf_importance": {
+  "num__previous_performance": 0.2907,
+  "num__assignment_completion_percentage": 0.1412,
+  "num__study_hours_weekly": 0.1203,
+  "num__social_media_hours_daily": 0.1105,
+  "num__attendance_percentage": 0.1094,
+  "num__sleep_hours": 0.1062,
+  "num__number_of_courses": 0.0475,
+  "cat__study_location_Home": 0.0158,
+  "cat__study_location_Library": 0.015,
+  "cat__study_location_Hostel": 0.0119,
+  "cat__internet_access_Yes": 0.0102,
+  "cat__internet_access_No": 0.0095,
+  "cat__study_location_Other": 0.0068,
+  "cat__study_location_Classroom": 0.005
+ }
+}
